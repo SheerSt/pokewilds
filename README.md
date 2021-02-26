@@ -1,6 +1,6 @@
 # Pokemon Wilds
 
-![Pokemon Wilds](https://github.com/SheerSt/pokemon-wilds-public/blob/master/github1.png)
+![Pokemon Wilds](https://github.com/SheerSt/pokemon-wilds-public/blob/main/github1.png)
 
 ## How to Play
  - **DISCLAIMER:** this is currently in Alpha. Things are getting there, but still not fully complete. I am working hard to find and fix bugs; however, **expect to find bugs.** If you find a bug, please consider creating an issue here on github describing it (that would help me out a ton).

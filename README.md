@@ -87,7 +87,17 @@ This project is still in the early stages. If you are interested in joining the 
  - Network code for anything added
 
 # Credits
- - @nuukiie on Twitter for the Pokemon devamp sprites and animations (aron, lotad, makuhita, ralts, taillow, whismur, poochyena, wingull, shroomish, surskit, and sableye lines).
+ - @nuukiie on Twitter for the Pokemon devamp sprites and animations (aron, lotad, makuhita, ralts, taillow, whismur, poochyena, wingull, shroomish, surskit, litwick, dwebble, and sableye lines).
+ - Corphish front, back and overworld sprites - sir-feralipogchamp on discord.
+ - Crawdaunt overworld sprites - sir-feralipogchamp on discord.
+ - Crawdaunt front and back sprites - sir-feralipogchamp, Mr Dustman, Goose on discord..
+ - Dwebble overworld sprites - Sadfish, Mr Dustman on discord.
+ - Crustle overworld sprites - Goose on discord.
+ - Litwick, Lampent and Chandelure overworld sprites - Goose on discord.
+ - Mimikyu overworld sprites - boomtox-the-boombox on discord.
+ - Mimikyu original front/back sprites - Kuroko Aizawa (todo: platform?)
+ - Mimikyu front/back sprites recoloring - boomtox-the-boombox, Mr Dustman on discord.
  - Megaman-Omega on Deviantart for the overworld pokemon sprites.
  - Manik-Needlemouse on Deviantart for the ghost overworld sprite.
  - GlitchxCity on Youtube for the Pokemon Mansion Remix music.
+

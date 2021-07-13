@@ -1,0 +1,21 @@
+IgglybuffEvosAttacks:
+	db EVOLVE_HAPPINESS, TR_ANYTIME, JIGGLYPUFF
+	db 0 ; no more evolutions
+	db 1, POUND
+	db 1, SING
+	db 4, CHARM
+	db 6, FAIRY_WIND
+	db 9, DEFENSE_CURL
+	db 11, ROLLOUT
+	db 14, POWER_BALLAD
+	db 16, DOUBLESLAP
+	db 18, FEINT_ATTACK
+	db 21, SWEET_KISS
+	db 23, NOISE_PULSE
+	db 26, DIZZY_PUNCH
+	db 28, WILD_CHARGE
+	db 31, PERISH_SONG
+	db 33, HYPER_VOICE
+	db 36, PLAY_ROUGH
+	db 38, MUSTARD_GAS
+	db 0 ; no more level-up moves

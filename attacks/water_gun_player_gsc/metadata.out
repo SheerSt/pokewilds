@@ -1,0 +1,179 @@
+1, player_healthbar_gone
+2, player_healthbar_gone screenshot:0,0,160,144
+3, player_healthbar_gone
+4, player_healthbar_gone
+5, player_healthbar_gone
+6, player_healthbar_gone
+7, player_healthbar_gone
+8, player_healthbar_gone
+9, player_healthbar_gone
+10, player_healthbar_gone
+11, player_healthbar_gone
+12, player_healthbar_gone
+13, player_healthbar_gone
+14, player_healthbar_gone
+15, player_healthbar_gone
+16, player_healthbar_gone
+17, player_healthbar_gone
+18, player_healthbar_gone
+19, player_healthbar_gone
+20, player_healthbar_gone
+21, player_healthbar_gone
+22, player_healthbar_gone
+23, player_healthbar_gone
+24, player_healthbar_gone
+25, player_healthbar_gone
+26, player_healthbar_gone
+27, player_healthbar_gone
+28, player_healthbar_gone
+29, player_healthbar_gone
+30, player_healthbar_gone
+31, player_healthbar_gone
+32, player_healthbar_gone
+33, player_healthbar_gone
+34, player_healthbar_gone
+35, player_healthbar_gone
+36, player_healthbar_gone
+37, player_healthbar_gone
+38, player_healthbar_gone
+39, player_healthbar_gone
+40, player_healthbar_gone
+41, player_healthbar_gone
+42, player_healthbar_gone
+43, player_healthbar_gone
+44, player_healthbar_gone
+45, player_healthbar_gone
+46, player_healthbar_gone
+47, player_healthbar_gone
+48, player_healthbar_gone
+49, player_healthbar_gone
+50, player_healthbar_gone
+51, player_healthbar_gone
+52, player_healthbar_gone
+53, player_healthbar_gone
+54, player_healthbar_gone
+55, player_healthbar_gone
+56, player_healthbar_gone
+57, player_healthbar_gone
+58, player_healthbar_gone
+59, player_healthbar_gone
+60, player_healthbar_gone
+61, player_healthbar_gone
+62, player_healthbar_gone
+63, player_healthbar_gone
+64, player_healthbar_gone
+65, player_healthbar_gone
+66, player_healthbar_gone
+67, player_healthbar_gone
+68, player_healthbar_gone
+69, player_healthbar_gone
+70, player_healthbar_gone row_copy:28,30 row_copy:29,30 row_copy:30,32
+71, player_healthbar_gone row_copy:26,28 row_copy:27,30 row_copy:28,30 row_copy:29,31 row_copy:30,32 row_copy:31,34 row_copy:32,34
+72, player_healthbar_gone row_copy:25,26 row_copy:26,28 row_copy:27,29 row_copy:28,31 row_copy:29,31 row_copy:30,33 row_copy:31,33 row_copy:32,34 row_copy:33,34
+73, player_healthbar_gone row_copy:22,20 row_copy:23,21 row_copy:24,23 row_copy:26,27 row_copy:27,29 row_copy:28,30 row_copy:29,32 row_copy:30,32 row_copy:31,33 row_copy:32,33 row_copy:34,33 row_copy:35,33 row_copy:36,34
+74, player_healthbar_gone row_copy:20,18 row_copy:21,19 row_copy:22,19 row_copy:23,21 row_copy:24,22 row_copy:25,24 row_copy:27,28 row_copy:28,30 row_copy:29,31 row_copy:30,32 row_copy:31,32 row_copy:33,32 row_copy:34,32 row_copy:35,33 row_copy:36,33 row_copy:37,35 row_copy:38,36
+75, player_healthbar_gone row_copy:20,18 row_copy:21,19 row_copy:22,19 row_copy:23,21 row_copy:24,22 row_copy:25,24 row_copy:27,28 row_copy:28,30 row_copy:29,31 row_copy:30,32 row_copy:31,32 row_copy:33,32 row_copy:34,32 row_copy:35,33 row_copy:36,33 row_copy:37,35 row_copy:38,36
+76, player_healthbar_gone row_copy:18,19 row_copy:20,19 row_copy:21,19 row_copy:22,20 row_copy:23,20 row_copy:24,22 row_copy:25,23 row_copy:26,25 row_copy:28,29 row_copy:29,31 row_copy:30,31 row_copy:32,31 row_copy:33,31 row_copy:34,32 row_copy:35,32 row_copy:36,34 row_copy:37,35 row_copy:38,37 row_copy:40,41
+77, player_healthbar_gone row_copy:18,19 row_copy:20,19 row_copy:21,19 row_copy:22,20 row_copy:23,20 row_copy:24,22 row_copy:25,23 row_copy:26,25 row_copy:28,29 row_copy:29,31 row_copy:30,31 row_copy:32,31 row_copy:33,31 row_copy:34,32 row_copy:35,32 row_copy:36,34 row_copy:37,35 row_copy:38,37 row_copy:40,41
+78, player_healthbar_gone row_copy:16,19 row_copy:17,19 row_copy:18,20 row_copy:19,20 row_copy:21,20 row_copy:22,20 row_copy:23,21 row_copy:24,21 row_copy:25,23 row_copy:26,24 row_copy:27,26 row_copy:29,30 row_copy:31,30 row_copy:32,30 row_copy:33,31 row_copy:34,31 row_copy:35,33 row_copy:36,34 row_copy:37,36 row_copy:39,40 row_copy:40,42 row_copy:41,43 row_copy:42,45
+79, player_healthbar_gone row_copy:16,19 row_copy:17,19 row_copy:18,20 row_copy:19,20 row_copy:21,20 row_copy:22,20 row_copy:23,21 row_copy:24,21 row_copy:25,23 row_copy:26,24 row_copy:27,26 row_copy:29,30 row_copy:31,30 row_copy:32,30 row_copy:33,31 row_copy:34,31 row_copy:35,33 row_copy:36,34 row_copy:37,36 row_copy:39,40 row_copy:40,42 row_copy:41,43 row_copy:42,45
+80, player_healthbar_gone row_copy:15,16 row_copy:16,17 row_copy:17,19 row_copy:18,19 row_copy:19,20 row_copy:23,22 row_copy:24,23 row_copy:25,23 row_copy:26,25 row_copy:27,26 row_copy:31,30 row_copy:32,31 row_copy:33,31 row_copy:34,33 row_copy:35,34 row_copy:39,40 row_copy:40,41 row_copy:41,43 row_copy:42,43 row_copy:43,44
+81, player_healthbar_gone row_copy:15,16 row_copy:16,17 row_copy:17,19 row_copy:18,19 row_copy:19,20 row_copy:23,22 row_copy:24,23 row_copy:25,23 row_copy:26,25 row_copy:27,26 row_copy:31,30 row_copy:32,31 row_copy:33,31 row_copy:34,33 row_copy:35,34 row_copy:39,40 row_copy:40,41 row_copy:41,43 row_copy:42,43 row_copy:43,44
+82, player_healthbar_gone row_copy:12,11 row_copy:16,17 row_copy:17,18 row_copy:18,20 row_copy:19,20 row_copy:20,21 row_copy:24,23 row_copy:25,24 row_copy:26,24 row_copy:27,26 row_copy:28,27 row_copy:30,29 row_copy:31,30 row_copy:32,30 row_copy:33,32 row_copy:34,33 row_copy:38,39 row_copy:39,40 row_copy:40,42 row_copy:41,42 row_copy:42,43 row_copy:46,45
+83, player_healthbar_gone row_copy:12,11 row_copy:16,17 row_copy:17,18 row_copy:18,20 row_copy:19,20 row_copy:20,21 row_copy:24,23 row_copy:25,24 row_copy:26,24 row_copy:27,26 row_copy:28,27 row_copy:30,29 row_copy:31,30 row_copy:32,30 row_copy:33,32 row_copy:34,33 row_copy:38,39 row_copy:39,40 row_copy:40,42 row_copy:41,42 row_copy:42,43 row_copy:46,45
+84, player_healthbar_gone row_copy:8,10 row_copy:9,10 row_copy:10,12 row_copy:11,9 row_copy:12,11 row_copy:13,12 row_copy:17,18 row_copy:18,19 row_copy:19,21 row_copy:20,21 row_copy:21,22 row_copy:25,24 row_copy:26,25 row_copy:27,25 row_copy:28,27 row_copy:29,28 row_copy:30,29 row_copy:31,29 row_copy:32,31 row_copy:33,32 row_copy:37,38 row_copy:38,39 row_copy:39,41 row_copy:40,41 row_copy:41,42 row_copy:45,44 row_copy:46,45 row_copy:47,45 row_copy:48,47
+85, player_healthbar_gone row_copy:8,10 row_copy:9,10 row_copy:10,12 row_copy:11,9 row_copy:12,11 row_copy:13,12 row_copy:17,18 row_copy:18,19 row_copy:19,21 row_copy:20,21 row_copy:21,22 row_copy:25,24 row_copy:26,25 row_copy:27,25 row_copy:28,27 row_copy:29,28 row_copy:30,29 row_copy:31,29 row_copy:32,31 row_copy:33,32 row_copy:37,38 row_copy:38,39 row_copy:39,41 row_copy:40,41 row_copy:41,42 row_copy:45,44 row_copy:46,45 row_copy:47,45 row_copy:48,47
+86, player_healthbar_gone row_copy:6,8 row_copy:7,10 row_copy:8,10 row_copy:9,11 row_copy:10,12 row_copy:11,14 row_copy:12,14 row_copy:13,12 row_copy:14,13 row_copy:18,19 row_copy:19,20 row_copy:20,22 row_copy:21,22 row_copy:22,23 row_copy:26,25 row_copy:27,26 row_copy:28,26 row_copy:29,28 row_copy:30,28 row_copy:31,30 row_copy:32,31 row_copy:36,37 row_copy:37,38 row_copy:38,40 row_copy:39,40 row_copy:40,41 row_copy:44,43 row_copy:45,44 row_copy:46,44 row_copy:47,46 row_copy:48,47
+87, player_healthbar_gone row_copy:6,8 row_copy:7,10 row_copy:8,10 row_copy:9,11 row_copy:10,12 row_copy:11,14 row_copy:12,14 row_copy:13,12 row_copy:14,13 row_copy:18,19 row_copy:19,20 row_copy:20,22 row_copy:21,22 row_copy:22,23 row_copy:26,25 row_copy:27,26 row_copy:28,26 row_copy:29,28 row_copy:30,28 row_copy:31,30 row_copy:32,31 row_copy:36,37 row_copy:37,38 row_copy:38,40 row_copy:39,40 row_copy:40,41 row_copy:44,43 row_copy:45,44 row_copy:46,44 row_copy:47,46 row_copy:48,47
+88, player_healthbar_gone row_copy:5,6 row_copy:6,8 row_copy:7,9 row_copy:8,11 row_copy:9,11 row_copy:10,13 row_copy:11,13 row_copy:12,14 row_copy:13,14 row_copy:15,14 row_copy:19,20 row_copy:20,21 row_copy:21,23 row_copy:22,23 row_copy:23,24 row_copy:27,26 row_copy:28,27 row_copy:29,27 row_copy:30,29 row_copy:31,30 row_copy:35,36 row_copy:36,37 row_copy:37,39 row_copy:38,39 row_copy:39,40 row_copy:43,42 row_copy:44,43 row_copy:45,43 row_copy:46,45 row_copy:47,46 row_copy:51,52 row_copy:52,53
+89, player_healthbar_gone row_copy:5,6 row_copy:6,8 row_copy:7,9 row_copy:8,11 row_copy:9,11 row_copy:10,13 row_copy:11,13 row_copy:12,14 row_copy:13,14 row_copy:15,14 row_copy:19,20 row_copy:20,21 row_copy:21,23 row_copy:22,23 row_copy:23,24 row_copy:27,26 row_copy:28,27 row_copy:29,27 row_copy:30,29 row_copy:31,30 row_copy:35,36 row_copy:36,37 row_copy:37,39 row_copy:38,39 row_copy:39,40 row_copy:43,42 row_copy:44,43 row_copy:45,43 row_copy:46,45 row_copy:47,46 row_copy:51,52 row_copy:52,53
+90, player_healthbar_gone row_copy:2,0 row_copy:3,1 row_copy:4,3 row_copy:6,7 row_copy:7,9 row_copy:8,10 row_copy:9,12 row_copy:10,12 row_copy:11,13 row_copy:12,13 row_copy:14,13 row_copy:15,13 row_copy:16,14 row_copy:20,21 row_copy:21,22 row_copy:22,24 row_copy:23,24 row_copy:24,25 row_copy:28,27 row_copy:29,28 row_copy:30,29 row_copy:34,35 row_copy:35,36 row_copy:36,38 row_copy:37,38 row_copy:38,39 row_copy:42,41 row_copy:43,42 row_copy:44,42 row_copy:45,44 row_copy:46,45 row_copy:50,51 row_copy:51,52 row_copy:52,54 row_copy:53,54 row_copy:54,55
+91, player_healthbar_gone row_copy:2,0 row_copy:3,1 row_copy:4,3 row_copy:6,7 row_copy:7,9 row_copy:8,10 row_copy:9,12 row_copy:10,12 row_copy:11,13 row_copy:12,13 row_copy:14,13 row_copy:15,13 row_copy:16,14 row_copy:20,21 row_copy:21,22 row_copy:22,24 row_copy:23,24 row_copy:24,25 row_copy:28,27 row_copy:29,28 row_copy:30,29 row_copy:34,35 row_copy:35,36 row_copy:36,38 row_copy:37,38 row_copy:38,39 row_copy:42,41 row_copy:43,42 row_copy:44,42 row_copy:45,44 row_copy:46,45 row_copy:50,51 row_copy:51,52 row_copy:52,54 row_copy:53,54 row_copy:54,55
+92, player_healthbar_gone row_copy:3,1 row_copy:4,2 row_copy:5,4 row_copy:7,8 row_copy:8,10 row_copy:9,11 row_copy:10,12 row_copy:11,12 row_copy:13,12 row_copy:14,12 row_copy:15,13 row_copy:16,13 row_copy:17,15 row_copy:18,16 row_copy:21,22 row_copy:22,23 row_copy:23,25 row_copy:24,25 row_copy:25,26 row_copy:29,28 row_copy:33,34 row_copy:34,35 row_copy:35,37 row_copy:36,37 row_copy:37,38 row_copy:41,40 row_copy:42,41 row_copy:43,41 row_copy:44,43 row_copy:45,44 row_copy:49,50 row_copy:50,51 row_copy:51,53 row_copy:52,53 row_copy:53,54
+93, player_healthbar_gone row_copy:3,1 row_copy:4,2 row_copy:5,4 row_copy:7,8 row_copy:8,10 row_copy:9,11 row_copy:10,12 row_copy:11,12 row_copy:13,12 row_copy:14,12 row_copy:15,13 row_copy:16,13 row_copy:17,15 row_copy:18,16 row_copy:21,22 row_copy:22,23 row_copy:23,25 row_copy:24,25 row_copy:25,26 row_copy:29,28 row_copy:33,34 row_copy:34,35 row_copy:35,37 row_copy:36,37 row_copy:37,38 row_copy:41,40 row_copy:42,41 row_copy:43,41 row_copy:44,43 row_copy:45,44 row_copy:49,50 row_copy:50,51 row_copy:51,53 row_copy:52,53 row_copy:53,54
+94, player_healthbar_gone row_copy:2,0 row_copy:3,0 row_copy:4,2 row_copy:5,3 row_copy:6,5 row_copy:8,9 row_copy:9,11 row_copy:10,11 row_copy:12,11 row_copy:13,11 row_copy:14,12 row_copy:15,12 row_copy:16,14 row_copy:17,15 row_copy:18,17 row_copy:20,21 row_copy:22,23 row_copy:23,24 row_copy:24,26
+95, player_healthbar_gone
+96, player_healthbar_gone row_copy:2,0 row_copy:3,1 row_copy:4,1 row_copy:5,3 row_copy:6,4 row_copy:7,6 row_copy:9,10 row_copy:11,10 row_copy:12,10 row_copy:13,11 row_copy:14,11 row_copy:15,13 row_copy:16,14 row_copy:17,16 row_copy:19,20 row_copy:20,22 row_copy:21,23 row_copy:22,25
+97, player_healthbar_gone row_copy:2,0 row_copy:3,1 row_copy:4,1 row_copy:5,3 row_copy:6,4 row_copy:7,6 row_copy:9,10 row_copy:11,10 row_copy:12,10 row_copy:13,11 row_copy:14,11 row_copy:15,13 row_copy:16,14 row_copy:17,16 row_copy:19,20 row_copy:20,22 row_copy:21,23 row_copy:22,25
+98, player_healthbar_gone row_copy:3,2 row_copy:4,3 row_copy:5,3 row_copy:6,5 row_copy:7,6 row_copy:11,10 row_copy:12,11 row_copy:13,11 row_copy:14,13 row_copy:15,14 row_copy:19,20 row_copy:20,21 row_copy:21,23 row_copy:22,23 row_copy:23,24
+99, player_healthbar_gone row_copy:3,2 row_copy:4,3 row_copy:5,3 row_copy:6,5 row_copy:7,6 row_copy:11,10 row_copy:12,11 row_copy:13,11 row_copy:14,13 row_copy:15,14 row_copy:19,20 row_copy:20,21 row_copy:21,23 row_copy:22,23 row_copy:23,24
+100, player_healthbar_gone row_copy:4,3 row_copy:5,4 row_copy:6,4 row_copy:7,6 row_copy:8,7 row_copy:10,9 row_copy:11,10 row_copy:12,10 row_copy:13,12 row_copy:14,13 row_copy:18,19 row_copy:19,20 row_copy:20,22 row_copy:21,22 row_copy:22,23 row_copy:26,25
+101, player_healthbar_gone row_copy:4,3 row_copy:5,4 row_copy:6,4 row_copy:7,6 row_copy:8,7 row_copy:10,9 row_copy:11,10 row_copy:12,10 row_copy:13,12 row_copy:14,13 row_copy:18,19 row_copy:19,20 row_copy:20,22 row_copy:21,22 row_copy:22,23 row_copy:26,25
+102, player_healthbar_gone row_copy:5,4 row_copy:6,5 row_copy:7,5 row_copy:8,7 row_copy:9,8 row_copy:10,9 row_copy:11,9 row_copy:12,11 row_copy:13,12 row_copy:17,18 row_copy:18,19 row_copy:19,21 row_copy:20,21 row_copy:21,22 row_copy:25,24 row_copy:26,25 row_copy:27,25 row_copy:28,27 row_copy:48,50 row_copy:49,50 row_copy:50,52
+103, player_healthbar_gone row_copy:5,4 row_copy:6,5 row_copy:7,5 row_copy:8,7 row_copy:9,8 row_copy:10,9 row_copy:11,9 row_copy:12,11 row_copy:13,12 row_copy:17,18 row_copy:18,19 row_copy:19,21 row_copy:20,21 row_copy:21,22 row_copy:25,24 row_copy:26,25 row_copy:27,25 row_copy:28,27 row_copy:48,50 row_copy:49,50 row_copy:50,52
+104, player_healthbar_gone row_copy:2,3 row_copy:6,5 row_copy:7,6 row_copy:8,6 row_copy:9,8 row_copy:10,8 row_copy:11,10 row_copy:12,11 row_copy:16,17 row_copy:17,18 row_copy:18,20 row_copy:19,20 row_copy:20,21 row_copy:24,23 row_copy:25,24 row_copy:26,24 row_copy:27,26 row_copy:28,27 row_copy:46,48 row_copy:47,50 row_copy:48,50 row_copy:49,51 row_copy:50,52 row_copy:51,54 row_copy:52,54
+105, player_healthbar_gone row_copy:2,3 row_copy:6,5 row_copy:7,6 row_copy:8,6 row_copy:9,8 row_copy:10,8 row_copy:11,10 row_copy:12,11 row_copy:16,17 row_copy:17,18 row_copy:18,20 row_copy:19,20 row_copy:20,21 row_copy:24,23 row_copy:25,24 row_copy:26,24 row_copy:27,26 row_copy:28,27 row_copy:46,48 row_copy:47,50 row_copy:48,50 row_copy:49,51 row_copy:50,52 row_copy:51,54 row_copy:52,54
+106, player_healthbar_gone row_copy:2,3 row_copy:3,4 row_copy:7,6 row_copy:8,7 row_copy:9,7 row_copy:10,9 row_copy:11,10 row_copy:15,16 row_copy:16,17 row_copy:17,19 row_copy:18,19 row_copy:19,20 row_copy:23,22 row_copy:24,23 row_copy:25,23 row_copy:26,25 row_copy:27,26 row_copy:31,32 row_copy:32,33 row_copy:45,46 row_copy:46,48 row_copy:47,49 row_copy:48,51 row_copy:49,51 row_copy:50,53 row_copy:51,53 row_copy:52,54 row_copy:53,54
+107, player_healthbar_gone row_copy:2,3 row_copy:3,4 row_copy:7,6 row_copy:8,7 row_copy:9,7 row_copy:10,9 row_copy:11,10 row_copy:15,16 row_copy:16,17 row_copy:17,19 row_copy:18,19 row_copy:19,20 row_copy:23,22 row_copy:24,23 row_copy:25,23 row_copy:26,25 row_copy:27,26 row_copy:31,32 row_copy:32,33 row_copy:45,46 row_copy:46,48 row_copy:47,49 row_copy:48,51 row_copy:49,51 row_copy:50,53 row_copy:51,53 row_copy:52,54 row_copy:53,54
+108, player_healthbar_gone row_copy:2,4 row_copy:3,4 row_copy:4,5 row_copy:8,7 row_copy:9,8 row_copy:10,9 row_copy:14,15 row_copy:15,16 row_copy:16,18 row_copy:17,18 row_copy:18,19 row_copy:22,21 row_copy:23,22 row_copy:24,22 row_copy:25,24 row_copy:26,25 row_copy:30,31 row_copy:31,32 row_copy:32,34 row_copy:33,34 row_copy:34,35 row_copy:42,40 row_copy:43,41 row_copy:44,43 row_copy:46,47 row_copy:47,49 row_copy:48,50 row_copy:49,52 row_copy:50,52 row_copy:51,53 row_copy:52,53 row_copy:54,53 row_copy:55,53
+109, player_healthbar_gone row_copy:2,4 row_copy:3,4 row_copy:4,5 row_copy:8,7 row_copy:9,8 row_copy:10,9 row_copy:14,15 row_copy:15,16 row_copy:16,18 row_copy:17,18 row_copy:18,19 row_copy:22,21 row_copy:23,22 row_copy:24,22 row_copy:25,24 row_copy:26,25 row_copy:30,31 row_copy:31,32 row_copy:32,34 row_copy:33,34 row_copy:34,35 row_copy:42,40 row_copy:43,41 row_copy:44,43 row_copy:46,47 row_copy:47,49 row_copy:48,50 row_copy:49,52 row_copy:50,52 row_copy:51,53 row_copy:52,53 row_copy:54,53 row_copy:55,53
+110, player_healthbar_gone row_copy:2,4 row_copy:3,4 row_copy:4,5 row_copy:8,7 row_copy:9,8 row_copy:10,9 row_copy:14,15 row_copy:15,16 row_copy:16,18 row_copy:17,18 row_copy:18,19 row_copy:22,21 row_copy:23,22 row_copy:24,22 row_copy:25,24 row_copy:26,25 row_copy:30,31 row_copy:31,32 row_copy:32,34 row_copy:33,34 row_copy:34,35 row_copy:42,40 row_copy:43,41 row_copy:44,43 row_copy:46,47 row_copy:47,49 row_copy:48,50 row_copy:49,52 row_copy:50,52 row_copy:51,53 row_copy:52,53 row_copy:54,53 row_copy:55,53
+111, player_healthbar_gone row_copy:2,3 row_copy:3,5 row_copy:4,5 row_copy:5,6 row_copy:9,8 row_copy:13,14 row_copy:14,15 row_copy:15,17 row_copy:16,17 row_copy:17,18 row_copy:21,20 row_copy:22,21 row_copy:23,21 row_copy:24,23 row_copy:25,24 row_copy:29,30 row_copy:30,31 row_copy:31,33 row_copy:32,33 row_copy:33,34 row_copy:40,38 row_copy:41,39 row_copy:42,39 row_copy:43,41 row_copy:44,42 row_copy:45,44 row_copy:47,48 row_copy:48,50 row_copy:49,51 row_copy:50,52 row_copy:51,52 row_copy:53,52 row_copy:54,52 row_copy:55,53
+112, player_healthbar_gone row_copy:2,3 row_copy:3,5 row_copy:4,5 row_copy:5,6 row_copy:9,8 row_copy:13,14 row_copy:14,15 row_copy:15,17 row_copy:16,17 row_copy:17,18 row_copy:21,20 row_copy:22,21 row_copy:23,21 row_copy:24,23 row_copy:25,24 row_copy:29,30 row_copy:30,31 row_copy:31,33 row_copy:32,33 row_copy:33,34 row_copy:40,38 row_copy:41,39 row_copy:42,39 row_copy:43,41 row_copy:44,42 row_copy:45,44 row_copy:47,48 row_copy:48,50 row_copy:49,51 row_copy:50,52 row_copy:51,52 row_copy:53,52 row_copy:54,52 row_copy:55,53
+113, player_healthbar_gone row_copy:2,3 row_copy:3,4 row_copy:4,6 row_copy:5,6 row_copy:6,7 row_copy:12,13 row_copy:13,14 row_copy:14,16 row_copy:15,16 row_copy:16,17 row_copy:20,19 row_copy:21,20 row_copy:22,20 row_copy:23,22 row_copy:24,23 row_copy:28,29 row_copy:29,30 row_copy:30,32 row_copy:31,32 row_copy:32,33 row_copy:36,35 row_copy:37,36 row_copy:38,36 row_copy:40,39 row_copy:41,39 row_copy:42,40 row_copy:43,40 row_copy:44,42 row_copy:45,43 row_copy:46,45 row_copy:48,49 row_copy:49,51 row_copy:50,51 row_copy:52,51 row_copy:53,51 row_copy:54,52 row_copy:55,52
+114, player_healthbar_gone
+115, player_healthbar_gone
+116, player_healthbar_gone
+117, player_healthbar_gone row_copy:35,36 row_copy:36,37 row_copy:37,39 row_copy:38,39 row_copy:39,40 row_copy:43,42 row_copy:44,43 row_copy:45,43 row_copy:46,45 row_copy:47,46 row_copy:51,50 row_copy:52,51 row_copy:53,51 row_copy:54,53 row_copy:55,54
+118, player_healthbar_gone row_copy:35,36 row_copy:36,37 row_copy:37,39 row_copy:38,39 row_copy:39,40 row_copy:43,42 row_copy:44,43 row_copy:45,43 row_copy:46,45 row_copy:47,46 row_copy:51,50 row_copy:52,51 row_copy:53,51 row_copy:54,53 row_copy:55,54
+119, player_healthbar_gone row_copy:32,31 row_copy:36,37 row_copy:37,38 row_copy:38,40 row_copy:39,40 row_copy:40,41 row_copy:44,43 row_copy:45,44 row_copy:46,44 row_copy:47,46 row_copy:48,47 row_copy:50,49 row_copy:51,50 row_copy:52,50 row_copy:53,52 row_copy:54,53
+120, player_healthbar_gone row_copy:32,31 row_copy:36,37 row_copy:37,38 row_copy:38,40 row_copy:39,40 row_copy:40,41 row_copy:44,43 row_copy:45,44 row_copy:46,44 row_copy:47,46 row_copy:48,47 row_copy:50,49 row_copy:51,50 row_copy:52,50 row_copy:53,52 row_copy:54,53
+121, player_healthbar_gone row_copy:30,29 row_copy:31,29 row_copy:32,31 row_copy:33,32 row_copy:37,38 row_copy:38,39 row_copy:39,41 row_copy:40,41 row_copy:41,42 row_copy:45,44 row_copy:46,45 row_copy:47,45 row_copy:48,47 row_copy:49,48 row_copy:50,49 row_copy:51,49 row_copy:52,51 row_copy:53,52
+122, player_healthbar_gone row_copy:30,29 row_copy:31,29 row_copy:32,31 row_copy:33,32 row_copy:37,38 row_copy:38,39 row_copy:39,41 row_copy:40,41 row_copy:41,42 row_copy:45,44 row_copy:46,45 row_copy:47,45 row_copy:48,47 row_copy:49,48 row_copy:50,49 row_copy:51,49 row_copy:52,51 row_copy:53,52
+123, player_healthbar_gone row_copy:30,29 row_copy:31,30 row_copy:32,30 row_copy:33,32 row_copy:34,33 row_copy:38,39 row_copy:39,40 row_copy:40,42 row_copy:41,42 row_copy:42,43 row_copy:46,45 row_copy:47,46 row_copy:48,46 row_copy:49,48 row_copy:50,48 row_copy:51,50 row_copy:52,51
+124, player_healthbar_gone row_copy:30,29 row_copy:31,30 row_copy:32,30 row_copy:33,32 row_copy:34,33 row_copy:38,39 row_copy:39,40 row_copy:40,42 row_copy:41,42 row_copy:42,43 row_copy:46,45 row_copy:47,46 row_copy:48,46 row_copy:49,48 row_copy:50,48 row_copy:51,50 row_copy:52,51
+125, player_healthbar_gone row_copy:26,27 row_copy:27,28 row_copy:31,30 row_copy:32,31 row_copy:33,31 row_copy:34,33 row_copy:35,34 row_copy:39,40 row_copy:40,41 row_copy:41,43 row_copy:42,43 row_copy:43,44 row_copy:47,46 row_copy:48,47 row_copy:49,47 row_copy:50,49 row_copy:51,50 row_copy:55,56
+126, player_healthbar_gone row_copy:26,27 row_copy:27,28 row_copy:31,30 row_copy:32,31 row_copy:33,31 row_copy:34,33 row_copy:35,34 row_copy:39,40 row_copy:40,41 row_copy:41,43 row_copy:42,43 row_copy:43,44 row_copy:47,46 row_copy:48,47 row_copy:49,47 row_copy:50,49 row_copy:51,50 row_copy:55,56
+127, player_healthbar_gone row_copy:24,25 row_copy:25,26 row_copy:26,28 row_copy:27,28 row_copy:28,29 row_copy:32,31 row_copy:33,32 row_copy:34,32 row_copy:35,34 row_copy:36,35 row_copy:40,41 row_copy:41,42 row_copy:42,44 row_copy:43,44 row_copy:44,45 row_copy:48,47 row_copy:49,48 row_copy:50,49 row_copy:54,55 row_copy:55,56
+128, player_healthbar_gone row_copy:24,25 row_copy:25,26 row_copy:26,28 row_copy:27,28 row_copy:28,29 row_copy:32,31 row_copy:33,32 row_copy:34,32 row_copy:35,34 row_copy:36,35 row_copy:40,41 row_copy:41,42 row_copy:42,44 row_copy:43,44 row_copy:44,45 row_copy:48,47 row_copy:49,48 row_copy:50,49 row_copy:54,55 row_copy:55,56
+129, player_healthbar_gone row_copy:25,26 row_copy:26,27 row_copy:27,29 row_copy:28,29 row_copy:29,30 row_copy:33,32 row_copy:34,33 row_copy:35,33 row_copy:36,35 row_copy:37,36 row_copy:41,42 row_copy:42,43 row_copy:43,45 row_copy:44,45 row_copy:45,46 row_copy:49,48 row_copy:53,54 row_copy:54,55 row_copy:55,56
+130, player_healthbar_gone row_copy:25,26 row_copy:26,27 row_copy:27,29 row_copy:28,29 row_copy:29,30 row_copy:33,32 row_copy:34,33 row_copy:35,33 row_copy:36,35 row_copy:37,36 row_copy:41,42 row_copy:42,43 row_copy:43,45 row_copy:44,45 row_copy:45,46 row_copy:49,48 row_copy:53,54 row_copy:54,55 row_copy:55,56
+131, player_healthbar_gone row_copy:20,18 row_copy:21,20 row_copy:22,21
+132, player_healthbar_gone
+133, player_healthbar_gone
+134, player_healthbar_gone
+135, player_healthbar_gone
+136, player_healthbar_gone
+137, player_healthbar_gone
+138, player_healthbar_gone
+139, player_healthbar_gone
+140, player_healthbar_gone
+141, player_healthbar_gone
+142, player_healthbar_gone
+143, player_healthbar_gone
+144, player_healthbar_gone
+145, player_healthbar_gone
+146, player_healthbar_gone
+147, player_healthbar_gone
+148, player_healthbar_gone
+149, player_healthbar_gone
+150, player_healthbar_gone
+151, player_healthbar_gone
+152, player_healthbar_gone
+153, player_healthbar_gone
+154, player_healthbar_gone
+155, player_healthbar_gone
+156, player_healthbar_gone
+157, player_healthbar_gone
+158, player_healthbar_gone
+159, player_healthbar_gone
+160, player_healthbar_gone
+161, player_healthbar_gone
+162, player_healthbar_gone
+163, player_healthbar_gone
+164, player_healthbar_gone
+165, player_healthbar_gone
+166, player_healthbar_gone
+167, player_healthbar_gone
+168, player_healthbar_gone
+169, player_healthbar_gone
+170, player_healthbar_gone
+171, player_healthbar_gone
+172, player_healthbar_gone
+173, player_healthbar_gone
+174, player_healthbar_gone
+175, player_healthbar_gone
+176, player_healthbar_gone
+177, player_healthbar_gone
+178, player_healthbar_gone
+179, player_healthbar_gone

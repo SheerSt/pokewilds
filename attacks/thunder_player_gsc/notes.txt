@@ -1,0 +1,1 @@
+metadata-old.out is the original anim. using anim with reduced flashing lights

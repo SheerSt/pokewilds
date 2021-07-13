@@ -4,17 +4,9 @@
 
 ## How to Play
  - **DISCLAIMER:** this is currently in Alpha. Things are getting there, but still not fully complete. I am working hard to find and fix bugs; however, **expect to find bugs.** If you find a bug, please consider creating an issue here on github describing it (that would help me out a ton).
- - Windows - Download /builds/latest/pokemon-wilds.exe and run.
-   - *Alternatively, download and run /builds/latest/pokemon-wilds.jar if the exe doesn't work.*
- - Mac - Download /builds/latest/pokemon-wilds.jar and run.
-   - I do not own a mac and I haven't been able to test the game on one. If you try running on mac and hit issues, please open an issue here.
- - **NOTE:** If you are running pokemon-wilds.jar and you want to generate large maps (anything larger than size M), you will need to run 'java -jar -Xmx1024M pokemon-wilds.jar' in a command window to launch the game. In order to support large maps the java heap space needs to be increased, which is what the -Xmx1024M argument does. I know this is annoying but unfortunately there isn't a way around this step, the game will crash without it if you try to generate any map above size M.
- - Java is required in order to run (it's required by libGDX, the engine this is built on). If you don't have java installed, a popup may appear pointing you to java installation instructions.
+ - Windows - Download pokemon-wilds-windows64 from https://github.com/SheerSt/pokemon-wilds/releases/latest/ and extract files. Open the unzipped directory and run pokemon-wilds.exe.
+   - If the exe is not running, alternatively try running pokemon-wilds.jar in the same directory.
  - Controls: Arrow keys to move, keyboard Z = A button, keyboard X = B button, keyboard Enter = Start button. Hold keyboard X to run.
-
-## v0.1 gameplay video
-
-https://www.youtube.com/watch?v=ndQ0d0hhIRQ
 
 ## Full-resolution images of procedurally generated maps (along with various screenshots)
 
@@ -28,7 +20,32 @@ I have been using a set of techniques to 'rip' sprites and animations from the c
 
 In the future I hope that the game can also support graphics from other generations, as well as a map editor mode that could serve as a platform for custom games.
 
-# v0.4 (Latest)
+# v0.6 (Latest):
+ - Added level-scaling for encounters in tall grass. Pokemon will be near to the average level of Pokemon in your party. Level-scaling will only raise a Pokemon's level up to level 50. Roaming overworld Pokemon and Pokemon in dungeons do not have level scaling applied.
+ - Regi dungeon and a mechanic for obtaining Regirock, steel, ice, eleki, drago, and gigas (no more additional detail to avoid spoilers).
+  - Dungeon is generated when creating a new world.
+ - Crush Grip, Thunder Cage and Dragon Energy added (TC and DE use modified Thunder and Scary Face anims respectively)
+ - More interior things - house plant, shelf, table, stool, torches, dresser and various carpets.
+  - You can change the player's color using the dresser.
+ - Added a stats screen
+  - Still missing some things like PP, dex number etc.
+ - Removed day/night cycle while inside the pokemon mansion (and dungeons in general)
+ - Added the 'Escape Rope' key item, which transports the player back to the nearest shore location.
+ - Changed the name of the 'stone' item to 'hard stone'
+ - Fixed bug preventing the use of moomoo milk and berry juice in battle.
+ - Added harvestables nevermeltice to ice types, dragon fang and scale to dragon types, spell tag to ghost types, and magnet to electric types.
+ - Two level 55 dragonite now spawn on the edge of the beach (there will always be two on the map after the first day).
+  - They will likely be moved to a different biome in the future. This is just so that the player has access to dragon scale and dragon fang.
+ - Ice types habitat is now snow (changed from grass).
+ - Delibird spawns in the snow biome. It will produce any harvestable at random.
+ - Added water/rock/psychic club theme from pokemon gameboy tcg game to overworld musics and removed the ambient nature noise track (except for when player initially loads game)
+ - Attack type now displayed in attack menu during battle (PP is not implemented in the game)
+ - Dark types can now use the field move 'attack' - the Pokemon will initiate battle with other Pokemon you interact with.
+ - You can plant grass using miracle seeds.
+ - Added appropriate mechanics for all apricorn balls except for lure (pending fishing being added to the game).
+ - Various tweaks.
+
+# v0.4
  - **NOTE:** Previously I had advertised multiplayer support - however, this has proven to be too costly to maintain during development and I don't want to maintain it if nobody is using it yet. I am currently focusing on single player, with multiplayer planned for down the road. The option for multiplayer still exists, but many things are not working in it currently (flying, battle mechanics, pokemon item harvesting, and others).
  - New FLY HM allows you to ride on the back of certain Pokemon and fly around the map (pidgeot, aerodactyl, charizard, dragonite, salamence, ho-oh, lugia, skarmory, articuno, zapdos, moltres, crobat, noctowl, xatu, flygon, togekiss, swellow, altaria, rayquaza, farfetch'd, drifblim, honchkrow, and fearow atm. Not all of these pokemon are currently obtainable.)
 
@@ -87,18 +104,60 @@ This project is still in the early stages. If you are interested in joining the 
  - Network code for anything added
 
 # Credits
+v0.7 Credits:
+ - Credits to the Prism team for various Pokemon front and back sprites - numel, gible, cacnea, skorupi, feebas, trapinch, cranidos, shieldon, lileep, anorith, beldum, solrock, lunatone, duskull, sylveon, leafeon, glaceon, weavile, mamoswine, magmortar, mismagius, and rhyperior lines.
+ - Credits to Nuuk on discord (nuukiie on Twitter) for various Pokemon front and back sprites - maractus, nosepass, larvesta, lotad, and zigzagoon lines.
+ - Combee and Vespiquen front, back and overworld sprites - TerraTerraCotta on discord.
+ - Cutiefly and Ribombee front, back and overworld sprites - TerraTerraCotta on discord (and Sadfish for Cutiefly overworld sprites)
+ - Bronzor and Bronzong front and back sprites - SkwovetSquire on discord.
+ - Sandile line front sprites - Goose and Sadfish on discord.
+ - Sandile line back and overworld sprites - Sadfish on discord.
+ - Sigilyph front/back sprites - Sadfish on discord.
+ - Sigilyph overworld sprites - Mr Dustman on discord.
+ - Darumaka and Galarian Darumaka front/back sprites - Goose on discord.
+ - Darumaka overworld sprites - Goose on discord.
+ - Galarian Darumaka oveworld sprites - Mr Dustman on discord.
+ - Galarian Darmanitan overworld sprites - Sadfish and Mr Dustman on discord.
+ - Darmanitan and Zen Darmanitan overworld sprites - Poisonous Gas and Mr Dustman on discord.
+ - Galarian Darmanitan front/back sprites - Mr Dustman on discord.
+ - Galarian Zen Darmanitan back sprite - Sir Feralipogchamp on discord.
+ - Zen Darmanitan front sprite - Sir Feralipogchamp on discord.
+ - Zen Darmanitan back sprite - Mr Dustman on discord.
+ - Darmanitan front sprite - Poisonous Gas on discord.
+ - Darmanitan back sprite - Mr Dustman on discord.
+ - Elgyem and Beheeyem overworld sprites - Sadfish and Goose on discord.
+ - Elgyem and Beheeyem front/back sprites - Goose on discord.
+ - Hippopotas and Hippowdon front, back and overworld sprites - Sadfish on discord.
+ - Camerupt front sprites - Poisonous Gas and Goose on discord.
+ - Wooper, Wingull, Linoone and Unown overworld sprites - Snak on discord.
+ - Weedle, Kakuna, Beedrill, Abamosnow, Ratatta, and Raticate overworld sprites - Internet_Goblin on discord.
+ - Larvesta, Poochyena and Nosepass overworld sprites - Sadfish on discord.
+ - Maractus overworld sprites - EeVeeEe on discord.
+ - Zigzagoon oveworld sprite - Miserable Pile Of Secrets and Kalvinz on discord.
+ - Fossil item icons - SkwovetSquire on discord.
+ - Relic castle tile devamps - SkwovetSquire on discord.
+ - Ruined fossil lab tiles - SkwovetSquire on discord.
+ - Interior paintings, plushes, couches, vanity mirrors, windows, and pots - TerraTerraCotta on discord.
+ - Various interior paintings - SkwovetSquire on discord.
+ - Indoor clock sprite - boomtox the boombox on discord.
+ - Cacturn 'dust tornado' sprite - Mr Dustman on discord.
+ - Trapinch 'trapping' sprite - Mr Dustman on discord.
+ - Player sprite while moving through sand pit - Epharam on discord.
+ - Alolan Exeggutor front and back sprites - Gmerc.
+
+v0.6 (and prior) Credits:
  - Regirock, Registeel, Regice, and Regigigas front and back sprites - Mr Dustman, Sadfish and Poisonous Gas on discord.
  - Regieleki and Regidrago front and back sprites - Mr Dustman on discord.
  - Regieleki overworld sprites and 'alternate' Regi sprites - Mr Dustman on discord.
  - Regigigas 'standing' sprite in dungeon - Mr Dustman on discord.
  - Crush Grip attack sprites - Mr Dustman on discord.
- - Regidrago and Regirock overworld sprites - sir feralipogchamp on discord.
+ - Regidrago, Regirock, Regice and Registeel overworld sprites - sir feralipogchamp on discord.
  - Campfire sprite coloration and torch sprites - boomtox-the-boombox on discord.
  - Scorbunny and Raboot front and overworld sprites - Internet_Goblin on discord.
  - Cinderace overworld sprites - Internet_Goblin on discord.
  - Punching bag sprite - Goose on discord.
  - Regi battle music - Alifib on youtube.
- - Regi dungeon concept and mechanics - Kalvinz, Internet_Goblin, Sadfish, Mr Dustman on discord.
+ - Regi dungeon concept and mechanics - Internet_Goblin, Sadfish, Mr Dustman on discord.
  - nuukiie on Twitter for Pokemon devamp sprites and animations (aron, lotad, makuhita, ralts, taillow, whismur, poochyena, wingull, shroomish, surskit, litwick, dwebble, and sableye lines).
  - Corphish front, back and overworld sprites - sir feralipogchamp on discord.
  - Crawdaunt overworld sprites - sir feralipogchamp on discord.
@@ -113,4 +172,5 @@ This project is still in the early stages. If you are interested in joining the 
  - Megaman-Omega on Deviantart for the overworld pokemon sprites.
  - Manik-Needlemouse on Deviantart for the ghost overworld sprite.
  - GlitchxCity on Youtube for the Pokemon Mansion Remix music.
+ - Various overworld sprites - Chamber, SOLO0993, Blue Emerald, Lake, Neslug, Pikachu25, and Ryta.
 

@@ -1,0 +1,36 @@
+MewEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, IRON_DEFENSE
+	db 1, WRAP
+	db 1, METRONOME
+	db 1, TWISTER
+	db 1, POUND
+	db 4, TRANSFORM
+	db 7, TELEPORT
+	db 10, ANCIENTPOWER
+	db 14, RAGE
+	db 18, FEINT_ATTACK
+	db 22, SELFDESTRUCT
+	db 26, PAIN_SPLIT
+	db 30, HYPNOSIS
+	db 34, WILD_CHARGE
+	db 38, HEAL_BELL
+	db 42, NATURE_POWER
+	db 46, DRAIN_PUNCH
+	db 50, ZEN_HEADBUTT
+	db 54, SPITE
+	db 58, DRAGON_PULSE
+	db 62, X_SCISSOR
+	db 66, OUTRAGE
+	db 70, EARTH_POWER
+	db 74, SOFTBOILED
+	db 78, AMNESIA
+	db 82, BARRIER
+	db 86, LEWISITE
+	db 90, BATON_PASS
+	db 94, NASTY_PLOT
+	db 98, AURA_SPHERE
+	db 100,PSYCHIC_M
+	db 0 ; no more level-up moves
+
+	;

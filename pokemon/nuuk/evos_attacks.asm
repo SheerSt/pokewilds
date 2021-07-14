@@ -1543,3 +1543,32 @@ RunerigusEvosAttacks:
 	db 56, POWER_SPLIT
 	db 62, DESTINY_BOND
 	db 0 ; no more level-up moves
+
+TykerEvosAttacks:
+	db EVOLVE_LEVEL, 31, STRAIGAR
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 1, THUNDER_WAVE
+	db 5, TAIL_WHIP
+	db 12, THUNDERSHOCK
+	db 17, ROAR
+	db 25, SPARK
+	db 29, SLAM
+	db 37, SCARY_FACE
+	db 41, THUNDERBOLT
+	db 45, AGILITY
+	db 0 ; no more level-up moves
+
+StraigarEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 1, THUNDER_WAVE
+	db 5, TAIL_WHIP
+	db 15, THUNDERSHOCK
+	db 20, ROAR
+	db 27, SPARK
+	db 32, SLAM
+	db 39, SCARY_FACE
+	db 43, THUNDERBOLT
+	db 47, AGILITY
+	db 0 ; no more level-up moves

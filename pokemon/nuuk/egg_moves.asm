@@ -245,3 +245,5 @@ GyamaskEggMoves:
 	db MEMENTO
 
 TrevenantEggMoves:
+
+AmbipomEggMoves:

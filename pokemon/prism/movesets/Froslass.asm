@@ -10,7 +10,7 @@ FroslassEvosAttacks:
 	db 30, DESTINY_BOND
 	db 34, FREEZE_BURN
 	db 38, SING
-	db 42, HAIL
+	db 42, ICE_BEAM
 	db 46, SHADOW_BALL
 	db 50, ICE_BEAM
 	db 54, PAIN_SPLIT

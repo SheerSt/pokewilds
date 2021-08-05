@@ -13,5 +13,5 @@
 	db ABILITY_SNOW_CLOAK, ABILITY_SNOW_CLOAK ;abilities
 	db 0, 0 ;padding
 	db MEDIUM_FAST ;growth rate
-	dn INANIMATE, FAIRY ;egg groups  
+	dn EGG_MINERAL, EGG_FAIRY ;egg groups  
 

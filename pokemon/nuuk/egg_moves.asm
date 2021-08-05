@@ -247,3 +247,13 @@ GyamaskEggMoves:
 TrevenantEggMoves:
 
 AmbipomEggMoves:
+
+GdarumakaEggMoves:
+	db FLAME_WHEEL
+	db FOCUS_PUNCH
+	db FREEZE_DRY
+	db HAMMER_ARM
+	db INCENERATE
+	db POWER_UP_PUNCH
+	db TAKE_DOWN
+	db YAWN

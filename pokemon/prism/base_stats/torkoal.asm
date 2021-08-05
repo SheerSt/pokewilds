@@ -13,5 +13,5 @@
 	db ABILITY_WHITE_SMOKE, ABILITY_WHITE_SMOKE ;abilities
 	db 0, 0 ;padding
 	db MEDIUM_FAST ;growth rate
-	dn FIELD, FIELD ;egg groups
+	dn EGG_FIELD, EGG_FIELD ;egg groups
 

@@ -39,6 +39,8 @@ WhismurEggMoves:
 WingullEggMoves:
 	db GUST
 	db TWISTER
+  
+  
 
 ShroomishEggMoves:
 	db CHARM
@@ -257,3 +259,49 @@ GdarumakaEggMoves:
 	db POWER_UP_PUNCH
 	db TAKE_DOWN
 	db YAWN
+
+PumpkabooEggMoves:
+	db CURSE
+	db DESTINY_BOND
+	db DISABLE
+
+CarvanhaEggMoves:
+	db ANCIENTPOWER
+	db DESTINY_BOND
+	db DOUBLE_EDGE
+	db THRASH
+	db WATER_PULSE
+
+SandygastEggMoves:
+	db ANCIENTPOWER
+	db CURSE
+	db DESTINY_BOND
+	db SPIT_UP
+	db STOCKPILE
+	db SWALLOW
+
+LuvdiscEggMoves:
+	db AQUA_JET
+	db AQUA_RING
+	db BRINE
+	db CAPTIVATE
+	db ENTRAINMENT
+	db HEAL_PULSE
+	db MUD_SPORT
+	db SPLASH
+	db SUPERSONIC
+	db WATER_SPORT
+
+DuraludonEggMoves:
+	db MIRROR_COAT
+	db NIGHT_SLASH
+	db SLASH
+
+SnomEggMoves:
+	db BUG_BITE
+	db FAIRY_WIND
+	db MIRROR_COAT
+
+JirachiEggMoves:
+
+CosmogEggMoves:

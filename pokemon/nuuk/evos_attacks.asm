@@ -178,7 +178,7 @@ LudicoloEvosAttacks:
 
 KirliaEvosAttacks:
 	db EVOLVE_LEVEL, 30, GARDEVOIR
-	; db EVOLVE_ITEM_MALE, DAWN_STONE, GALLADE  ; TODO: uncomment once added
+	db EVOLVE_ITEM_MALE, DAWN_STONE, GALLADE
 	db 0 ; no more evolutions
 	db 1, CONFUSE_RAY
 	db 1, CHARM
@@ -225,7 +225,6 @@ GardevoirEvosAttacks:
 	db 57, PSYCHIC
 	db 62, HEAL_BELL
 	db 0 ; no more level-up moves
-
 
 ExploudEvosAttacks:
 	db 0 ; no more evolutions
@@ -511,6 +510,8 @@ SableyeEvosAttacks:
 	db 63, WILL_O_WISP
 	db 0 ; no more level-up moves
 
+; TODO: looks good after this point?
+  
 SnoverEvosAttacks:
 	db EVOLVE_LEVEL, 40, ABOMASNOW
 	db 0 ; no more evolutions
@@ -1575,16 +1576,23 @@ StraigarEvosAttacks:
 
 AmbipomEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, THUNDER_WAVE
-	db 5, TAIL_WHIP
-	db 15, THUNDERSHOCK
-	db 20, ROAR
-	db 27, SPARK
-	db 32, SLAM
-	db 39, SCARY_FACE
-	db 43, THUNDERBOLT
-	db 47, AGILITY
+	db 1, ASTONISH
+	db 1, DUAL_CHOP
+	db 1, SAND_ATTACK
+	db 1, SCRATCH
+	db 1, TAIL_WHIP
+	db 4, SAND_ATTACK
+	db 8, ASTONISH
+	db 11, BATON_PASS
+	db 15, TICKLE
+	db 18, FURY_SWIPES
+	db 22, SWIFT
+	db 25, SCREECH
+	db 29, AGILITY
+	db 32, DOUBLE_HIT
+	db 36, FLING
+	db 39, NASTY_PLOT
+	db 43, LAST_RESORT
 	db 0 ; no more level-up moves
 
 GdarumakaEvosAttacks:
@@ -1642,4 +1650,257 @@ GdarmanitanzenEvosAttacks:
 	db 44, BLIZZARD
 	db 50, THRASH
 	db 56, SUPERPOWER
+	db 0 ; no more level-up moves
+
+PumpkabooEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, ASTONISH
+	db 1, TRICK_OR_TREAT
+	db 4, SHADOW_SNEAK
+	db 8, CONFUSE_RAY
+	db 12, RAZOR_LEAF
+	db 12, TRICK_OR_TREAT
+	db 16, LEECH_SEED
+	db 20, BULLET_SEED
+	db 24, SCARY_FACE
+	db 24, TRICK_OR_TREAT
+	db 28, WORRY_SEED
+	db 32, SEED_BOMB
+	db 36, SHADOW_BALL
+	db 36, TRICK_OR_TREAT
+	db 40, TRICK
+	db 44, PAIN_SPLIT
+	db 0 ; no more level-up moves
+
+CarvanhaEvosAttacks:
+	db EVOLVE_LEVEL, 30, SHARPEDO
+	db 0 ; no more evolutions
+	db 1, AQUA_JET
+	db 1, LEER
+	db 4, POISON_FANG
+	db 8, FOCUS_ENERGY
+	db 12, SCARY_FACE
+	db 16, BITE
+	db 20, ICE_FANG
+	db 24, SCREECH
+	db 28, SWAGGER
+	db 32, CRUNCH
+	db 36, AGILITY
+	db 40, LIQUIDATION
+	db 44, TAKE_DOWN
+	db 0 ; no more level-up moves
+
+SharpedoEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, AQUA_JET
+	db 1, FOCUS_ENERGY
+	db 1, LEER
+	db 1, NIGHT_SLASH
+	db 1, POISON_FANG
+	db 1, SLASH
+	db 12, SCARY_FACE
+	db 16, BITE
+	db 20, ICE_FANG
+	db 24, SCREECH
+	db 28, SWAGGER
+	db 34, CRUNCH
+	db 40, AGILITY
+	db 46, LIQUIDATION
+	db 52, TAKE_DOWN
+	db 0 ; no more level-up moves
+
+SandygastEvosAttacks:
+	db EVOLVE_LEVEL, 42, PALOSSAND
+	db 0 ; no more evolutions
+	db 1, ABSORB
+	db 1, HARDEN
+	db 5, ASTONISH
+	db 10, SAND_TOMB
+	db 15, MEGA_DRAIN
+	db 20, SAND_ATTACK
+	db 25, BULLDOZE
+	db 30, HYPNOSIS
+	db 35, GIGA_DRAIN
+	db 40, IRON_DEFENSE
+	db 45, SHADOW_BALL
+	db 50, EARTH_POWER
+	db 55, SHORE_UP
+	db 60, SANDSTORM
+	db 0 ; no more level-up moves
+
+PalossandEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, ABSORB
+	db 1, ASTONISH
+	db 1, HARDEN
+	db 1, SAND_TOMB
+	db 15, MEGA_DRAIN
+	db 20, SAND_ATTACK
+	db 25, BULLDOZE
+	db 30, HYPNOSIS
+	db 35, GIGA_DRAIN
+	db 40, IRON_DEFENSE
+	db 47, SHADOW_BALL
+	db 54, EARTH_POWER
+	db 61, SHORE_UP
+	db 68, SANDSTORM
+	db 0 ; no more level-up moves
+
+LuvdiscEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, CHARM
+	db 1, TACKLE
+	db 4, WATER_GUN
+	db 7, AGILITY
+	db 9, DRAINING_KISS
+	db 13, LUCKY_CHANT
+	db 17, WATER_PULSE
+	db 20, ATTRACT
+	db 22, HEART_STAMP
+	db 26, FLAIL
+	db 31, SWEET_KISS
+	db 34, TAKE_DOWN
+	db 37, CAPTIVATE
+	db 40, AQUA_RING
+	db 42, SOAK
+	db 46, HYDRO_PUMP
+	db 49, SAFEGUARD
+	db 0 ; no more level-up moves
+
+DuraludonEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, LEER
+	db 1, METAL_CLAW
+	db 6, ROCK_SMASH
+	db 12, HONE_CLAWS
+	db 18, METAL_SOUND
+	db 24, BREAKING_SWIPE
+	db 30, DRAGON_TAIL
+	db 36, IRON_DEFENSE
+	db 42, LASER_FOCUS
+	db 48, DRAGON_CLAW
+	db 54, FLASH_CANNON
+	db 60, METAL_BURST
+	db 66, HYPER_BEAM
+	db 0 ; no more level-up moves
+
+SnomEvosAttacks:
+;	db EVOLVE_LEVEL, 42, FROSMOTH  TODO: correct evo
+	db 0 ; no more evolutions
+	db 1, POWDER_SNOW
+	db 1, STRUGGLE_BUG
+	db 0 ; no more level-up moves
+
+JirachiEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, CONFUSION
+	db 1, WISH
+	db 7, SWIFT
+	db 14, HELPING_HAND
+	db 21, LIFE_DEW
+	db 28, ZEN_HEADBUTT
+	db 35, GRAVITY
+	db 42, PSYCHIC
+	db 49, METEOR_MASH
+	db 56, HEALING_WISH
+	db 63, REST
+	db 70, FUTURE_SIGHT
+	db 77, DOUBLE_EDGE
+	db 84, COSMIC_POWER
+	db 91, LAST_RESORT
+	db 98, DOOM_DESIRE
+	db 0 ; no more level-up moves
+
+CosmogEvosAttacks:
+	db EVOLVE_LEVEL, 43, COSMOEM
+	db 0 ; no more evolutions
+	db 1, SPLASH
+	db 1, TELEPORT
+	db 0 ; no more level-up moves
+
+CosmoemEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, COSMIC_POWER
+	db 1, TELEPORT
+	db 0 ; no more level-up moves
+
+GalladeEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, CALM_MIND
+	db 1, CHARM
+	db 1, CONFUSION
+	db 1, DISARMING_VOICE
+	db 1, DOUBLE_TEAM
+	db 1, DRAINING_KISS
+	db 1, DREAM_EATER
+	db 1, FURY_CUTTER
+	db 1, FUTURE_SIGHT
+	db 1, GROWL
+	db 1, HYPNOSIS
+	db 1, IMPRISON
+	db 1, LEER
+	db 1, LIFE_DEW
+	db 1, NIGHT_SLASH
+	db 1, PSYBEAM
+	db 1, PSYCHIC
+	db 1, SLASH
+	db 9, HELPING_HAND
+	db 12, FEINT
+	db 15, TELEPORT
+	db 18, AERIAL_ACE
+	db 23, FALSE_SWIPE
+	db 28, PROTECT
+	db 35, SWORDS_DANCE
+	db 42, PSYCHO_CUT
+	db 49, HEAL_PULSE
+	db 56, QUICK_GUARD
+	db 56, WIDE_GUARD
+	db 63, CLOSE_COMBAT
+	db 0 ; no more level-up moves
+
+
+DusknoirEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, ASTONISH
+	db 1, BIND
+	db 1, DISABLE
+	db 1, FIRE_PUNCH
+	db 1, GRAVITY
+	db 1, ICE_PUNCH
+	db 1, LEER
+	db 1, SHADOW_PUNCH
+	db 1, SHADOW_SNEAK
+	db 1, THUNDER_PUNCH
+	db 12, CONFUSE_RAY
+	db 16, NIGHT_SHADE
+	db 20, PAYBACK
+	db 24, WILL_O_WISP
+	db 28, MEAN_LOOK
+	db 32, HEX
+	db 36, CURSE
+	db 42, SHADOW_BALL
+	db 48, FUTURE_SIGHT
+	db 54, DESTINY_BOND
+	db 0 ; no more level-up moves
+
+FrosmothEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, ATTRACT
+	db 1, HELPING_HAND
+	db 1, ICY_WIND
+	db 1, POWDER_SNOW
+	db 1, STRUGGLE_BUG
+	db 4, STUN_SPORE
+	db 8, INFESTATION
+	db 12, MIST
+	db 16, DEFOG
+	db 21, FEATHER_DANCE
+	db 24, AURORA_BEAM
+	db 28, HAIL
+	db 32, BUG_BUZZ
+	db 36, AURORA_VEIL
+	db 40, BLIZZARD
+	db 44, TAILWIND
+	db 48, WIDE_GUARD
+	db 52, QUIVER_DANCE
 	db 0 ; no more level-up moves

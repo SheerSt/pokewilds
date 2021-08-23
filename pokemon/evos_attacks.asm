@@ -1148,7 +1148,7 @@ MagnetonEvosAttacks:
 	db 53, ZAP_CANNON
 	db 0 ; no more level-up moves
 
-FarfetchDEvosAttacks:
+Farfetch_dEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 7, SAND_ATTACK
@@ -1874,9 +1874,9 @@ EeveeEvosAttacks:
 	db EVOLVE_ITEM, FIRE_STONE, FLAREON
 	db EVOLVE_HAPPINESS, TR_MORNDAY, ESPEON
 	db EVOLVE_HAPPINESS, TR_NITE, UMBREON
-    db EVOLVE_ITEM, ICE_STONE, GLACEON
-    db EVOLVE_ITEM, LEAF_STONE, LEAFEON
-    db EVOLVE_ITEM, SHINY_STONE, SYLVEON
+	db EVOLVE_ITEM, ICE_STONE, GLACEON
+	db EVOLVE_ITEM, LEAF_STONE, LEAFEON
+	db EVOLVE_ITEM, SHINY_STONE, SYLVEON
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
@@ -2619,6 +2619,7 @@ JumpluffEvosAttacks:
 	db 0 ; no more level-up moves
 
 AipomEvosAttacks:
+	db EVOLVE_MOVE, DOUBLE_HIT, AMBIPOM
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, TAIL_WHIP
@@ -2653,7 +2654,7 @@ SunfloraEvosAttacks:
 	db 0 ; no more level-up moves
 
 YanmaEvosAttacks:
-	;db EVOLVE_MOVE, ANCIENTPOWER, YANMEGA
+	db EVOLVE_MOVE, ANCIENTPOWER, YANMEGA
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, FORESIGHT

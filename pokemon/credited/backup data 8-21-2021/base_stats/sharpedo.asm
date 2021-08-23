@@ -1,0 +1,17 @@
+	db SHARPEDO
+
+	db 70, 120, 40, 95, 95, 40
+  ;  hp  atk  def  spd sat sdf
+
+	db WATER, DARK
+	db 60 ;catch rate
+	db 161 ;exp rate
+	db NO_ITEM, NO_ITEM
+	db GENDER_F50
+	db 100 ;unknown
+	db 20 ;egg cycles
+	db 5 ;unknown
+	dn 7, 7 ;picture dimensions
+	db 0, 0 ;padding
+	db SLOW ;growth rate
+	dn EGG_WATER2, EGG_WATER2 ;egg groups

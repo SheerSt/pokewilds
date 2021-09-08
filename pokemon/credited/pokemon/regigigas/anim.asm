@@ -1,2 +1,2 @@
-	frame 0, 80
+	frame 0, 150
 	endanim

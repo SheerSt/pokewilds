@@ -263,38 +263,38 @@ Moves:
 	move ROCK_SMASH,   EFFECT_DEFENSE_DOWN_HIT,   20, FIGHTING, 100, 15,  50
 	move WHIRLPOOL,    EFFECT_TRAP_TARGET,        15, WATER,     70, 15,   0
 	move BEAT_UP,      EFFECT_BEAT_UP,            10, DARK,     100, 10,   0
-    ; Below are added moves from prism/moves.asm. The stats looked correct.
-    ;
-    move AQUA_JET,      EFFECT_PRIORITY_HIT,       40, WATER,      100,    20,     0
-    move AURA_SPHERE,   EFFECT_ALWAYS_HIT,         80, FIGHTING,   100,    20,     0
-    move AERIAL_ACE,    EFFECT_ALWAYS_HIT,         60, FLYING,     100,    20,     0
-    move BULLET_PUNCH,  EFFECT_PRIORITY_HIT,       40, STEEL,      100,    30,     0
-    move ZEN_HEADBUTT,  EFFECT_FLINCH_HIT,         80, PSYCHIC,     90,    15,    20
-    move IRON_DEFENSE,  EFFECT_DEFENSE_UP_2,        0, STEEL,      100,    15,   100
-    move BUG_BUZZ,      EFFECT_SP_DEF_DOWN_HIT,    90, BUG,        100,    10,    10
-    move FEINT_ATTACK,  EFFECT_ALWAYS_HIT,         60, DARK,       100,    20,     0
-    move DRAGON_PULSE,  EFFECT_NORMAL_HIT,         90, DRAGON,     100,    10,     0
-    move DRAIN_PUNCH,   EFFECT_LEECH_HIT,          75, FIGHTING,   100,    10,     0
-    move HYPER_VOICE,   EFFECT_NORMAL_HIT,         90, NORMAL,     100,    10,     0
-    move NASTY_PLOT,    EFFECT_SP_ATK_UP_2,         0, DARK,       100,    20,     0
-    move ENERGY_BALL,   EFFECT_SP_DEF_DOWN_HIT,    90, GRASS,      100,    10,    10
-    move ASTONISH,      EFFECT_FLINCH_HIT,         30, GHOST,      100,    75,     0
-    move FLASH_CANNON,  EFFECT_SP_DEF_DOWN_HIT,    80, STEEL,      100,    10,    10
-    move WILL_O_WISP,   EFFECT_BURN,                0, FIRE,        85,    15,     0
-    move SEED_BOMB,     EFFECT_NORMAL_HIT,         80, GRASS,      100,    15,     0
-    move NIGHT_SLASH,   EFFECT_NORMAL_HIT,         70, DARK,       100,    15,     0
-    move POISON_JAB,    EFFECT_POISON_HIT,         80, POISON,     100,    15,    30
-    move SIGNAL_BEAM,   EFFECT_CONFUSE_HIT,        75, BUG,        100,    15,    10
-    move METEOR_MASH,   EFFECT_ATTACK_UP,          90, STEEL,      90,    100,    20
-    move DRAGON_CLAW,   EFFECT_NORMAL_HIT,         80, DRAGON,     100,    15,     0
-    move IRON_HEAD,     EFFECT_FLINCH_HIT,         80, STEEL,      100,    15,    30
-    move POWER_GEM,     EFFECT_NORMAL_HIT,         80, ROCK,       100,    20,     0
-    move AIR_SLASH,     EFFECT_FLINCH_HIT,        100, FLYING,      95,    15,    30
-    move DARK_PULSE,    EFFECT_FLINCH_HIT,         80, DARK,       100,    15,    20
-    move EARTH_POWER,   EFFECT_SP_DEF_DOWN_HIT,    90, GROUND,     100,    10,    10
-    move PSYCHO_CUT,    EFFECT_NORMAL_HIT,         70, PSYCHIC,    100,    20,     0
-    move SHADOW_CLAW,   EFFECT_NORMAL_HIT,         70, GHOST,      100,    15,     0
-    move PLAY_ROUGH,    EFFECT_ATTACK_DOWN_HIT,    90, FAIRY,       90,    10,    10
+	; Below are added moves from prism/moves.asm. The stats looked correct.
+	;
+	move AQUA_JET,      EFFECT_PRIORITY_HIT,       40, WATER,      100,    20,     0
+	move AURA_SPHERE,   EFFECT_ALWAYS_HIT,         80, FIGHTING,   100,    20,     0
+	move AERIAL_ACE,    EFFECT_ALWAYS_HIT,         60, FLYING,     100,    20,     0
+	move BULLET_PUNCH,  EFFECT_PRIORITY_HIT,       40, STEEL,      100,    30,     0
+	move ZEN_HEADBUTT,  EFFECT_FLINCH_HIT,         80, PSYCHIC,     90,    15,    20
+	move IRON_DEFENSE,  EFFECT_DEFENSE_UP_2,        0, STEEL,      100,    15,   100
+	move BUG_BUZZ,      EFFECT_SP_DEF_DOWN_HIT,    90, BUG,        100,    10,    10
+	move FEINT_ATTACK,  EFFECT_ALWAYS_HIT,         60, DARK,       100,    20,     0
+	move DRAGON_PULSE,  EFFECT_NORMAL_HIT,         90, DRAGON,     100,    10,     0
+	move DRAIN_PUNCH,   EFFECT_LEECH_HIT,          75, FIGHTING,   100,    10,     0
+	move HYPER_VOICE,   EFFECT_NORMAL_HIT,         90, NORMAL,     100,    10,     0
+	move NASTY_PLOT,    EFFECT_SP_ATK_UP_2,         0, DARK,       100,    20,     0
+	move ENERGY_BALL,   EFFECT_SP_DEF_DOWN_HIT,    90, GRASS,      100,    10,    10
+	move ASTONISH,      EFFECT_FLINCH_HIT,         30, GHOST,      100,    75,     0
+	move FLASH_CANNON,  EFFECT_SP_DEF_DOWN_HIT,    80, STEEL,      100,    10,    10
+	move WILL_O_WISP,   EFFECT_BURN,                0, FIRE,        85,    15,     0
+	move SEED_BOMB,     EFFECT_NORMAL_HIT,         80, GRASS,      100,    15,     0
+	move NIGHT_SLASH,   EFFECT_NORMAL_HIT,         70, DARK,       100,    15,     0
+	move POISON_JAB,    EFFECT_POISON_HIT,         80, POISON,     100,    15,    30
+	move SIGNAL_BEAM,   EFFECT_CONFUSE_HIT,        75, BUG,        100,    15,    10
+	move METEOR_MASH,   EFFECT_ATTACK_UP,          90, STEEL,      90,    100,    20
+	move DRAGON_CLAW,   EFFECT_NORMAL_HIT,         80, DRAGON,     100,    15,     0
+	move IRON_HEAD,     EFFECT_FLINCH_HIT,         80, STEEL,      100,    15,    30
+	move POWER_GEM,     EFFECT_NORMAL_HIT,         80, ROCK,       100,    20,     0
+	move AIR_SLASH,     EFFECT_FLINCH_HIT,        100, FLYING,      95,    15,    30
+	move DARK_PULSE,    EFFECT_FLINCH_HIT,         80, DARK,       100,    15,    20
+	move EARTH_POWER,   EFFECT_SP_DEF_DOWN_HIT,    90, GROUND,     100,    10,    10
+	move PSYCHO_CUT,    EFFECT_NORMAL_HIT,         70, PSYCHIC,    100,    20,     0
+	move SHADOW_CLAW,   EFFECT_NORMAL_HIT,         70, GHOST,      100,    15,     0
+	move PLAY_ROUGH,    EFFECT_ATTACK_DOWN_HIT,    90, FAIRY,       90,    10,    10
 	; Below are added moves not in prism
 	;
 	move DRAGON_ENERGY, EFFECT_DRAGON_ENERGY,    150, DRAGON,   100,  5,   0
@@ -306,4 +306,13 @@ Moves:
 	move STRUGGLE_BUG,  EFFECT_SP_ATK_DOWN_HIT,   50, BUG,      100, 20, 100
 	move FAIRY_WIND,    EFFECT_NORMAL_HIT,        40, FAIRY,    100, 30,   0
 	move AIR_CUTTER,    EFFECT_NORMAL_HIT,        60, FLYING,   95,  25,   0
-    move DOUBLE_HIT,    EFFECT_DOUBLE_HIT,        30, NORMAL,   90,  10,   0
+	move DOUBLE_HIT,    EFFECT_DOUBLE_HIT,        30, NORMAL,   90,  10,   0
+	move SHOCK_WAVE,    EFFECT_ALWAYS_HIT,        60, NORMAL,   100, 10,   0
+	move BRAVE_BIRD,    EFFECT_RECOIL_HIT,       120, FLYING,   100, 15,   0
+	move FLARE_BLITZ,   EFFECT_BURN_HIT,         120, FIRE,     100, 15,  10
+	move HEAD_CHARGE,   EFFECT_RECOIL_HIT,       120, NORMAL,   100, 15,   0
+	move HEAD_SMASH,    EFFECT_RECOIL_HIT,       150, ROCK,      80,  5,   0
+	move LIGHT_OF_RUIN, EFFECT_RECOIL_HIT,       140, FAIRY,     90,  5,   0
+	move VOLT_TACKLE,   EFFECT_RECOIL_HIT,       120, ELECTRIC, 100, 15,   0
+	move WILD_CHARGE,   EFFECT_RECOIL_HIT,        90, ELECTRIC, 100, 15,   0
+	move WOOD_HAMMER,   EFFECT_RECOIL_HIT,       120, ELECTRIC, 100, 15,   0

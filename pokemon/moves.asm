@@ -270,7 +270,7 @@ Moves:
 	move AERIAL_ACE,    EFFECT_ALWAYS_HIT,         60, FLYING,     100,    20,     0
 	move BULLET_PUNCH,  EFFECT_PRIORITY_HIT,       40, STEEL,      100,    30,     0
 	move ZEN_HEADBUTT,  EFFECT_FLINCH_HIT,         80, PSYCHIC,     90,    15,    20
-	move IRON_DEFENSE,  EFFECT_DEFENSE_UP_2,        0, STEEL,      100,    15,   100
+	move IRON_DEFENSE,  EFFECT_DEFENSE_UP_2,        0, STEEL,      100,    15,     0
 	move BUG_BUZZ,      EFFECT_SP_DEF_DOWN_HIT,    90, BUG,        100,    10,    10
 	move FEINT_ATTACK,  EFFECT_ALWAYS_HIT,         60, DARK,       100,    20,     0
 	move DRAGON_PULSE,  EFFECT_NORMAL_HIT,         90, DRAGON,     100,    10,     0

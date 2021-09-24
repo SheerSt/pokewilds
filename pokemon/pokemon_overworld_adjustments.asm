@@ -687,3 +687,93 @@ Appletun:
  db i, 442
  db found, true
  db flip, true
+
+Murkrow:
+ db i, 443
+ db found, true
+ db flip, false
+
+Honchkrow:
+ db i, 444
+ db found, true
+ db flip, false
+
+Remoraid:
+ db i, 445
+ db found, true
+ db flip, false
+
+Octillery:
+ db i, 446
+ db found, true
+ db flip, false
+
+Stonjourner:
+ db i, 447
+ db found, true
+ db flip, false
+
+Delibird:
+ db i, 448
+ db found, true
+ db flip, false
+
+Flapple:
+ db i, 449
+ db found, true
+ db flip, false
+
+Qwilfish:
+ db i, 450
+ db found, true
+ db flip, false
+
+Shuckle:
+ db i, 451
+ db found, true
+ db flip, false
+
+Marowak:
+ db i, 452
+ db found, true
+ db flip, false
+
+AMarowack:
+ db i, 453
+ db found, true
+ db flip, false
+
+Primeape:
+ db i, 454
+ db found, true
+ db flip, false
+
+Phione:
+ db i, 455
+ db found, true
+ db flip, false
+
+Manaphy:
+ db i, 456
+ db found, true
+ db flip, false
+
+Happiny:
+ db i, 457
+ db found, true
+ db flip, false
+
+Heracross:
+ db i, 458
+ db found, true
+ db flip, false
+
+Bellossom:
+ db i, 459
+ db found, true
+ db flip, false
+
+Drowzee:
+ db i, 460
+ db found, true
+ db flip, false

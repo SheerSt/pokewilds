@@ -1,0 +1,2 @@
+put this into cries.asm
+	mon_cry CRY_MAGCARGO,    $061,  $15f ; MINUN

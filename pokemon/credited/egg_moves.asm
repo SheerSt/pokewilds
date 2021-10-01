@@ -4216,3 +4216,12 @@ DreepyEggMoves:
 	db GRUDGE
 	db SUCKER_PUNCH
 
+AmarowakEggMoves:
+	db ANCIENT_POWER
+	db BELLY_DRUM
+	db CURSE
+	db DETECT
+	db DOUBLE_KICK
+	db LEER
+	db PERISH_SONG
+	db SKULL_BASH

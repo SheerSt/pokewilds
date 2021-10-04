@@ -782,3 +782,8 @@ Dusknoir:
  db i, 461
  db found, true
  db flip, true
+
+Dusknoir:
+ db i, 462
+ db found, true
+ db flip, false

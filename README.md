@@ -130,7 +130,7 @@ v0.7 Credits:
  - Hippopotas and Hippowdon front, back and overworld sprites - Sadfish on discord.
  - Camerupt front sprites - Poisonous Gas and Goose on discord.
  - Wooper, Wingull, Linoone and Unown overworld sprites - Snak on discord.
- - Weedle, Kakuna, Beedrill, Abamosnow, Ratatta, and Raticate overworld sprites - Internet_Goblin on discord.
+ - Weedle, Kakuna, Beedrill, Abomasnow, Ratatta, and Raticate overworld sprites - Internet_Goblin on discord.
  - Larvesta, Poochyena and Nosepass overworld sprites - Sadfish on discord.
  - Maractus overworld sprites - EeVeeEe on discord.
  - Zigzagoon oveworld sprite - Miserable Pile Of Secrets and Kalvinz on discord.

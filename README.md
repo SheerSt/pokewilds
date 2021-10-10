@@ -104,7 +104,69 @@ This project is still in the early stages. If you are interested in joining the 
  - Network code for anything added
 
 # Credits
-v0.7 Credits:
+**Credits for v0.8:** - Special thank-you to everyone who contributed this update!
+Battle sprites:
+ - Credits to the Prism team for many Pokemon front and back sprites.
+ - Credits to Nuuk on discord (nuukiie on twitter) for many Pokemon front and back sprites.
+ - Applin front sprites - ICantBelieveItsNotBowser on discord
+ - Applin back sprites - ICantBelieveItsNotBowser and betsybugaboo on discord
+ - Probopass, Mantyke front and back sprites - SkwovetSquire on discord
+ - Luvdisc, Sandygast, Palossand front and back sprites - betsybugaboo on discord
+ - Ambipom front and back sprites - Internet_Goblin on discord
+ - Duraludon front sprites - betsybugaboo on discord
+ - Duraludon back sprite - PotatoCheep on discord
+
+Overworld sprites: 
+ - Phantump overworld sprites - Goose on discord
+ - Alolan Raichu, Galar Yamask, Cacturne, Mantyke, Mantine, and Remoraid overworld sprites - Sadfish on discord
+ - Trevenant, Sandslash, Ekans, Arbok, Sharpedo, Dratini, Dragonair, Dragonite, Ledyba, Hoothoot, Sandshrew, Aipom, Ambipom, Miltank, Sudowoodo, Horsea, Seadra, Kingdra, Smoochum and Jinx overworld sprites - Internet_Goblin on discord
+ - Golduck, Hatenna, Kabuto, Mightyena, Noivern, Omanyte, Omastar, Pelipper, Psyduck, Wailmer, and Wailord overworld sprites - Gargoyle on discord
+ - Pumpkaboo, Snom, Frosmoth, Sandygast, Palossand, Goomy, Hoppip, Azurill, Dodrio, Doduo, Entei, Gloom, Gourgeist, Vileplume, Starmie, Quagsire, Oddish, Staryu, Skiploom, Jumpluff, Poliwag, Sunflora, Politoed, Poliwhirl, Poliwrath, Raikou, Suicune, Sunkern, Applin, Alolan Marowak, Bellosom, Heracross, Primeape, Marowak, Bellossom and Delibird overworld sprites - betsybugaboo on discord
+ - Bidoof overworld sprites - LuxBeacon and betsybugaboo on discord
+ - Bibarel, Buizel, Floatzel, Hatterene, Minun, Noibat, Pikipek, Plusle, Trumbeak, Appletun, Happiny, Drowzee, Luvdisc, Manaphy, Phione, Shuckle, Flapple, Octillery, Stonjourner, Corphish, Crawdaunt, Duraludon, Dedenne, Carbink, Diancie and Volbeat overworld sprites - LuxBeacon on discord
+ - Qwilfish overworld sprites - kyro909 on discord
+ - Toucannon overworld sprites - Invader and LuxBeacon on discord
+ - Murkrow and Honchkrow overworld sprites - Invader on discord
+ - Grimer, Muk, Pinsir, Diglett, Dugtrio, Wooloo, Mr. Mime overworld sprites - Snak on discord
+ - Voltorb overworld sprites - Goose and Internet_Goblin on discord
+ - Klefki, Honedge overworld sprites - Et3rniti on discord
+ - Carvanha overworld sprites - Molk on discord
+ - Probopass overworld sprites - SkwovetSquire on discord
+
+Player sprites:
+ - Lyra back, walking and fishing sprites - Twilier / Reshidove on Deviantart
+ - Lyra running, sleeping and sitting sprites - betsybugaboo on discord
+ - Brendan back sprite -  Lockerz102 and A.J. Nitro
+ - Hilbert, Hilda, Rosa, Calem, Serena back sprites - Solo993 on Deviantart
+ - Hilbert overworld sprites - Gargoyle on discord
+ - Hilda overworld sprites - EeVeeEe on discord
+ - Rosa, Chase overworld sprites - Internet_Goblin on discord
+ - Calem, Serena, Gloria overworld sprites - betsybugaboo on discord
+ - Gloria, May, Chase, Red, Leaf back sprites - Gargoyle on discord
+ - Mint back sprite - LunaMaddalena on deviantart (edit by Badsy the Edgecat on discord)
+ - Mark back sprite - LunaMaddalena on deviantart (edit by LuxBeacon on discord)
+ - Lunick, Summer, Kellyn overworld and back sprites - LuxBeacon on discord
+
+Other:
+ - Item descriptions - betsybugaboo on discord
+ - Gen 2 item bag menu images - ForeverBurning on discord
+ - Following Pokemon dialogue - SkwovetSquire and LuxBeacon on discord
+ - Wilds-Dex google doc - Internet_Goblin on discord
+ - Waterfall animation - Quilchess on discord
+ - Puddle ripple animation - ICantBelieveItsNotBowser on discord
+ - Phione/Manaphy egg - SkwovetSquire on discord
+ - Pokemon storage chest sprite - TerraTerraCotta on discord
+ - Berry tree sprites - LuxBeacon on discord
+ - Brendan back sprite - Lockerz102 and A.J. Nitro
+ - Hilda and Rosa back sprites - Solo993 on Deviantart (note - they didn't do all of them)
+ - Chase, Mark, Mint, Rosa, Brendan, May, Elaine and Leaf overworld sprites - Internet_Goblin on discord
+ - Hilda overworld sprites - EeVeeEe on discord
+ - Tundra biome house tileset - Internet_Goblin on discord
+ - Wooded Lake biome house tileset - Gargoyle on discord
+ - Various code help (bug fixes, adding sprites, and more) - ForeverBurning on discord
+ - Regigigas battle music - Zame on Youtube
+
+**v0.7 Credits:**
  - Credits to the Prism team for various Pokemon front and back sprites - numel, gible, cacnea, skorupi, feebas, trapinch, cranidos, shieldon, lileep, anorith, beldum, solrock, lunatone, duskull, sylveon, leafeon, glaceon, weavile, mamoswine, magmortar, mismagius, and rhyperior lines.
  - Credits to Nuuk on discord (nuukiie on Twitter) for various Pokemon front and back sprites - maractus, nosepass, larvesta, lotad, and zigzagoon lines.
  - Combee and Vespiquen front, back and overworld sprites - TerraTerraCotta on discord.
@@ -145,7 +207,7 @@ v0.7 Credits:
  - Player sprite while moving through sand pit - Epharam on discord.
  - Alolan Exeggutor front and back sprites - Gmerc.
 
-v0.6 (and prior) Credits:
+**v0.6 (and prior) Credits:**
  - Regirock, Registeel, Regice, and Regigigas front and back sprites - Mr Dustman, Sadfish and Poisonous Gas on discord.
  - Regieleki and Regidrago front and back sprites - Mr Dustman on discord.
  - Regieleki overworld sprites and 'alternate' Regi sprites - Mr Dustman on discord.

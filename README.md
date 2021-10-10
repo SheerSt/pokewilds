@@ -105,6 +105,7 @@ This project is still in the early stages. If you are interested in joining the 
 
 # Credits
 **Credits for v0.8:** - Special thank-you to everyone who contributed this update!
+
 Battle sprites:
  - Credits to the Prism team for many Pokemon front and back sprites.
  - Credits to Nuuk on discord (nuukiie on twitter) for many Pokemon front and back sprites.

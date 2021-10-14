@@ -86,6 +86,7 @@ In the future I hope that the game can also support graphics from other generati
 
 If you are interested in helping with code, please create an issue here saying that you're interested and we can work out the details of what currently needs done. Here are some examples:
  - Battle system mechanics (ex: attack effects that aren't implemented)
+ - 'Versioning' system so that the game can check for updates.
  - Finding / fixing bugs (more info on the Pokemon Wilds discord server)
  - General organization and refactors
  - Support for more kinds of game mods (ex: being able to mod biome spawns)

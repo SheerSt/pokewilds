@@ -74,11 +74,6 @@ In the future I hope that the game can also support graphics from other generati
  - Full Gen 2 engine replication (battle mechanics, attacks, etc).
  - Other Generations.
 
-## Known Issues
- - Music will occasionally get messed up (I'm working to fix it). Restart the game as a temporary workaround.
- - Some attacks aren't implemented and do nothing (mirror move, metronome, rain dance, and similar attacks.)
- - If your party is full and you catch a pokemon and you previously slept indoors, the pokemon (may?) duplicate and do weird stuff.
-
 # FAQ
  - Is it possible to migrate my save from a previous version?
    - This currently isn't supported, but there's a chance it will work. If it doesn't work, PM me with your save file and I should be able to migrate it for you.

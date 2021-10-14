@@ -14395,7 +14395,7 @@ KlefkiEvosAttacks:
 	db 0 ; no more level-up moves
 
 PhantumpEvosAttacks:
-	db EVOLVE_TRADE, , TREVENANT
+	db EVOLVE_ITEM, LEAF_STONE, TREVENANT
 	db 0 ; no more evolutions
 	db 1, ASTONISH
 	db 1, TACKLE
@@ -18000,7 +18000,6 @@ CalyrexEvosAttacks:
 	db 0 ; no more level-up moves
 
 AmarowakEvosAttacks:
-	db EVOLVE_LEVEL, 33, CAMERUPT
 	db 0 ; no more evolutions
 	db 1, DOUBLE_EDGE
 	db 1, FALSE_SWIPE

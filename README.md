@@ -89,12 +89,14 @@ In the future I hope that the game can also support graphics from other generati
  
 # Contributing
 
-This project is still in the early stages. If you are interested in joining the project, please create an issue here saying that you're interested and we can work out the details of what currently needs done. Loosely, here is the current list:
- - Rips of Gen 2 attack animations 
-   - This process basically involves recording an uncompressed video of an attack using an emulator, and running a python script to rip the animation frames. I will provide more detail if an issue is created. This is definitely the highest-priority task.
- - Battle system mechanics and animations (trainer battles, status effects, temporary stat changes, etc)
- - Finding and fixing bugs (admittedly not super fun but much needed)
- - Network code for anything added
+If you are interested in helping with code, please create an issue here saying that you're interested and we can work out the details of what currently needs done. Here are some examples:
+ - Battle system mechanics (ex: attack effects that aren't implemented)
+ - Finding / fixing bugs (more info on the Pokemon Wilds discord server)
+ - General organization and refactors
+ - Support for more kinds of game mods (ex: being able to mod biome spawns)
+ - Small features and enhancements (ex: being able to using fishing rods while surfing)
+
+Feel free to DM me on the Pokemon Wilds discord server also regarding this, whatever works best for you.
 
 # Credits
 **Credits for v0.8:** - Special thank-you to everyone who contributed this update!

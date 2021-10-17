@@ -20,58 +20,51 @@ I have been using a set of techniques to 'rip' sprites and animations from the c
 
 In the future I hope that the game can also support graphics from other generations, as well as a map editor mode that could serve as a platform for custom games.
 
-# v0.6 (Latest):
- - Added level-scaling for encounters in tall grass. Pokemon will be near to the average level of Pokemon in your party. Level-scaling will only raise a Pokemon's level up to level 50. Roaming overworld Pokemon and Pokemon in dungeons do not have level scaling applied.
- - Regi dungeon and a mechanic for obtaining Regirock, steel, ice, eleki, drago, and gigas (no more additional detail to avoid spoilers).
-  - Dungeon is generated when creating a new world.
- - Crush Grip, Thunder Cage and Dragon Energy added (TC and DE use modified Thunder and Scary Face anims respectively)
- - More interior things - house plant, shelf, table, stool, torches, dresser and various carpets.
-  - You can change the player's color using the dresser.
- - Added a stats screen
-  - Still missing some things like PP, dex number etc.
- - Removed day/night cycle while inside the pokemon mansion (and dungeons in general)
- - Added the 'Escape Rope' key item, which transports the player back to the nearest shore location.
- - Changed the name of the 'stone' item to 'hard stone'
- - Fixed bug preventing the use of moomoo milk and berry juice in battle.
- - Added harvestables nevermeltice to ice types, dragon fang and scale to dragon types, spell tag to ghost types, and magnet to electric types.
- - Two level 55 dragonite now spawn on the edge of the beach (there will always be two on the map after the first day).
-  - They will likely be moved to a different biome in the future. This is just so that the player has access to dragon scale and dragon fang.
- - Ice types habitat is now snow (changed from grass).
- - Delibird spawns in the snow biome. It will produce any harvestable at random.
- - Added water/rock/psychic club theme from pokemon gameboy tcg game to overworld musics and removed the ambient nature noise track (except for when player initially loads game)
- - Attack type now displayed in attack menu during battle (PP is not implemented in the game)
- - Dark types can now use the field move 'attack' - the Pokemon will initiate battle with other Pokemon you interact with.
- - You can plant grass using miracle seeds.
- - Added appropriate mechanics for all apricorn balls except for lure (pending fishing being added to the game).
- - Various tweaks.
-
-# v0.4
- - **NOTE:** Previously I had advertised multiplayer support - however, this has proven to be too costly to maintain during development and I don't want to maintain it if nobody is using it yet. I am currently focusing on single player, with multiplayer planned for down the road. The option for multiplayer still exists, but many things are not working in it currently (flying, battle mechanics, pokemon item harvesting, and others).
- - New FLY HM allows you to ride on the back of certain Pokemon and fly around the map (pidgeot, aerodactyl, charizard, dragonite, salamence, ho-oh, lugia, skarmory, articuno, zapdos, moltres, crobat, noctowl, xatu, flygon, togekiss, swellow, altaria, rayquaza, farfetch'd, drifblim, honchkrow, and fearow atm. Not all of these pokemon are currently obtainable.)
-
-# v0.3
- - Pokemon mansion dungeon now will spawn in a random location in the overworld!
-   - Getting inside will require a secret key that also spawns in the overworld.
-   - Navigating the dungeon will require you to complete a puzzle involving hidden switches and doors.
-   - Make it to the end of the dungeon for a surprise (okay not anymore I guess) battle with a Legendary Pokemon!
- - Pokemon can be placed in the overworld and will roam around.
- - Shinies.
- - Various fixes and enhancements.
-
-# v0.2
- - Pokefarms - you can build fences, let your pokemon out to walk around, and grow trees by planting Apricorns.
- - Crafting - you can craft Apricorns into Pokeballs at a campfire.
- - Smart building - tiles that you build will 'snap' together and form the structure as you build it.
- - Host mode - option to host a server. Allows you to zoom around the map like an observer.
-
-# v0.1
- - Procedurally generated beach, forest, mountain and snow biomes with their own unique pokemon.
- - All Gen 2 Pokemon + Crystal intro animations.
- - Support for the most battle mechanics (wild battle, level up, evolution, attacks, running, catching, etc.)
- - Rips of some attack animations.
- - Building stuff.
- - Saving/Loading worlds.
- - Currently desktop and Android support only.
+# v0.8 (Latest) Updates and Changes:
+ - Water types can Surf.
+ - Surf or Fly to the edge of the map to generate a new World.
+   - The new world will not contain dungeons from previous worlds (regi dungeon, pokemon mansion and desert ruins currently)
+ - Psychic types know Teleport. Build warp tiles and teleport to them (from the Pokemon menu or the Map)
+   - Interact with a warp tile to set label text (visible from the Map or when walking over the tile)
+   - The new world will contain content from the most recent version of the game (even if an old save file is used)
+ - Guide menu added (contains game faqs)
+ - All pokemon that are gen 3+ now use their gen 8 (or highest available) stats and learnsets. ie no more prism stats or learnsets.
+   - This will inevitably introduce some bugs since it's a big change.
+ - You can build signs and gravestones now. Interact to set sign text.
+ - Special / Physical split added. Move category displayed in-battle now. Special / Physical split is toggle-able via the settings.txt file.
+ - Large trees are now cuttable by fully-evolved grass types.
+ - Berry trees - cutting berry trees will yield berry seeds. Berry seeds will grow different types of berry trees depending on the soil they are planted in.
+   - desert -> rawst, beach -> pecha, forest -> persim, snow -> aspear, savanna -> cheri, graveyard -> chesto, <secret> -> lum.
+ - Pokemon storage box added
+   - Pokemon can be nicknamed or released while using the storage box.
+ - Various sub-biomes added - volcano, tidal, wooded lake, graveyard, savanna.
+   - Each contains unique pokemon, buried items and activities.
+   - Spiritomb urn can be found in the graveyard.
+   - Tides go up twice per day and down twice per day.
+   - Animated coastline added to whole island.
+   - There's a lot more here but I'll let people explore and find out :)
+ - Various biomes improved or updated - tundra and mountains (various small tweaks elsewhere).
+ - Fairy types now drop Stardust, Fighting types drop Binding Band, Ghost types drop Life Force.
+ - Tundra and Wooded Lake house variants added.
+ - You can build an upstairs to houses. Place new floor in an upstairs using 'Floor' tiles.
+  - A house can contain a number of floors equal to the number of exterior walls it has, extending vertically.
+ - You can change bed sheets by building a floor over the bed.
+ - New trainer types added (Thank you to everyone who contributed backsprites! they look awesome :)) - more info in the wilds-dex doc.
+ - Campfires should cause less lag at night (code optimizations added)
+ - Improvements made to a certain legendary battle (WIP).
+ - 'Kiln' can be built indoors. Pokeballs can be upgraded at the Kiln (new Pokeballs include quick ball, timer ball, net ball, dive ball, nest ball, dream ball, heal ball. Dusk ball, great ball and ultra ball moved to the Kiln)
+ - Many Pokemon overworld sprites updated.
+ - Various new Pokemon added.
+ - Additions to battle mechanics - trap damage fixed, recoil damage added, selfdestruct effect added, and various others.
+ - Keybinding for keyboards added (settings.txt in the game directory).
+ - Mods support added for some things
+   - Pokemon base stats, learnsets, and egg moves can be modded. normal.pal no longer required for some pokemon.
+   - New player types can be added in the mods/ folder.
+   - All music can be modded by mirroring the folder structure from the git repo in the mods/ folder.
+   - All graphics can be modded by mirroring the folder structure from the git repo in the mods/ folder.
+ - Various bug fixes and tweaks.
+   - Night is brighter now.
+ - UI's updated to Gen 2 style.
 
 # Future aims and goals for the project
  - Map editor.
@@ -80,11 +73,6 @@ In the future I hope that the game can also support graphics from other generati
  - Pokemon breeding / shinies
  - Full Gen 2 engine replication (battle mechanics, attacks, etc).
  - Other Generations.
-
-## Known Issues
- - Music will occasionally get messed up (I'm working to fix it). Restart the game as a temporary workaround.
- - Some attacks aren't implemented and do nothing (mirror move, metronome, rain dance, and similar attacks.)
- - If your party is full and you catch a pokemon and you previously slept indoors, the pokemon (may?) duplicate and do weird stuff.
 
 # FAQ
  - Is it possible to migrate my save from a previous version?
@@ -96,15 +84,81 @@ In the future I hope that the game can also support graphics from other generati
  
 # Contributing
 
-This project is still in the early stages. If you are interested in joining the project, please create an issue here saying that you're interested and we can work out the details of what currently needs done. Loosely, here is the current list:
- - Rips of Gen 2 attack animations 
-   - This process basically involves recording an uncompressed video of an attack using an emulator, and running a python script to rip the animation frames. I will provide more detail if an issue is created. This is definitely the highest-priority task.
- - Battle system mechanics and animations (trainer battles, status effects, temporary stat changes, etc)
- - Finding and fixing bugs (admittedly not super fun but much needed)
- - Network code for anything added
+If you are interested in helping with code, please create an issue here saying that you're interested and we can work out the details of what currently needs done. Here are some examples:
+ - Battle system mechanics (ex: attack effects that aren't implemented)
+ - 'Versioning' system so that the game can check for updates.
+ - Finding / fixing bugs (more info on the Pokemon Wilds discord server)
+ - General organization and refactors
+ - Support for more kinds of game mods (ex: being able to mod biome spawns)
+ - Small features and enhancements (ex: being able to using fishing rods while surfing)
+
+Feel free to DM me on the Pokemon Wilds discord server also regarding this, whatever works best for you.
 
 # Credits
-v0.7 Credits:
+**Credits for v0.8:** - Special thank-you to everyone who contributed this update!
+
+Battle sprites:
+ - Credits to the Prism team for many Pokemon front and back sprites.
+ - Credits to Nuuk on discord (nuukiie on twitter) for many Pokemon front and back sprites.
+ - Applin front sprites - ICantBelieveItsNotBowser on discord
+ - Applin back sprites - ICantBelieveItsNotBowser and betsybugaboo on discord
+ - Probopass, Mantyke front and back sprites - SkwovetSquire on discord
+ - Luvdisc, Sandygast, Palossand front and back sprites - betsybugaboo on discord
+ - Ambipom front and back sprites - Internet_Goblin on discord
+ - Duraludon front sprites - betsybugaboo on discord
+ - Duraludon back sprite - PotatoCheep on discord
+
+Overworld sprites: 
+ - Phantump overworld sprites - Goose on discord
+ - Alolan Raichu, Galar Yamask, Cacturne, Mantyke, Mantine, and Remoraid overworld sprites - Sadfish on discord
+ - Trevenant, Sandslash, Ekans, Arbok, Sharpedo, Dratini, Dragonair, Dragonite, Ledyba, Hoothoot, Sandshrew, Aipom, Ambipom, Miltank, Sudowoodo, Horsea, Seadra, Kingdra, Smoochum and Jinx overworld sprites - Internet_Goblin on discord
+ - Golduck, Hatenna, Kabuto, Mightyena, Noivern, Omanyte, Omastar, Pelipper, Psyduck, Wailmer, and Wailord overworld sprites - Gargoyle on discord
+ - Pumpkaboo, Snom, Frosmoth, Sandygast, Palossand, Goomy, Hoppip, Azurill, Dodrio, Doduo, Entei, Gloom, Gourgeist, Vileplume, Starmie, Quagsire, Oddish, Staryu, Skiploom, Jumpluff, Poliwag, Sunflora, Politoed, Poliwhirl, Poliwrath, Raikou, Suicune, Sunkern, Applin, Alolan Marowak, Bellosom, Heracross, Primeape, Marowak, Bellossom and Delibird overworld sprites - betsybugaboo on discord
+ - Bidoof overworld sprites - LuxBeacon and betsybugaboo on discord
+ - Bibarel, Buizel, Floatzel, Hatterene, Minun, Noibat, Pikipek, Plusle, Trumbeak, Appletun, Happiny, Drowzee, Luvdisc, Manaphy, Phione, Shuckle, Flapple, Octillery, Stonjourner, Corphish, Crawdaunt, Duraludon, Dedenne, Carbink, Diancie and Volbeat overworld sprites - LuxBeacon on discord
+ - Qwilfish overworld sprites - kyro909 on discord
+ - Toucannon overworld sprites - Invader and LuxBeacon on discord
+ - Murkrow and Honchkrow overworld sprites - Invader on discord
+ - Grimer, Muk, Pinsir, Diglett, Dugtrio, Wooloo, Mr. Mime overworld sprites - Snak on discord
+ - Voltorb overworld sprites - Goose and Internet_Goblin on discord
+ - Klefki, Honedge overworld sprites - Et3rniti on discord
+ - Carvanha overworld sprites - Molk on discord
+ - Probopass overworld sprites - SkwovetSquire on discord
+
+Player sprites:
+ - Lyra back, walking and fishing sprites - Twilier / Reshidove on Deviantart
+ - Lyra running, sleeping and sitting sprites - betsybugaboo on discord
+ - Brendan back sprite -  Lockerz102 and A.J. Nitro
+ - Hilbert, Hilda, Rosa, Calem, Serena back sprites - Solo993 on Deviantart
+ - Hilbert overworld sprites - Gargoyle on discord
+ - Hilda overworld sprites - EeVeeEe on discord
+ - Rosa, Chase overworld sprites - Internet_Goblin on discord
+ - Calem, Serena, Gloria overworld sprites - betsybugaboo on discord
+ - Gloria, May, Chase, Red, Leaf back sprites - Gargoyle on discord
+ - Mint back sprite - LunaMaddalena on deviantart (edit by Badsy the Edgecat on discord)
+ - Mark back sprite - LunaMaddalena on deviantart (edit by LuxBeacon on discord)
+ - Lunick, Summer, Kellyn overworld and back sprites - LuxBeacon on discord
+
+Other:
+ - Item descriptions - betsybugaboo on discord
+ - Gen 2 item bag menu images - ForeverBurning on discord
+ - Following Pokemon dialogue - SkwovetSquire and LuxBeacon on discord
+ - Wilds-Dex google doc - Internet_Goblin on discord
+ - Waterfall animation - Quilchess on discord
+ - Puddle ripple animation - ICantBelieveItsNotBowser on discord
+ - Phione/Manaphy egg - SkwovetSquire on discord
+ - Pokemon storage chest sprite - TerraTerraCotta on discord
+ - Berry tree sprites - LuxBeacon on discord
+ - Brendan back sprite - Lockerz102 and A.J. Nitro
+ - Hilda and Rosa back sprites - Solo993 on Deviantart (note - they didn't do all of them)
+ - Chase, Mark, Mint, Rosa, Brendan, May, Elaine and Leaf overworld sprites - Internet_Goblin on discord
+ - Hilda overworld sprites - EeVeeEe on discord
+ - Tundra biome house tileset - Internet_Goblin on discord
+ - Wooded Lake biome house tileset - Gargoyle on discord
+ - Various code help (bug fixes, adding sprites, and more) - ForeverBurning on discord
+ - Regigigas battle music - Zame on Youtube
+
+**v0.7 Credits:**
  - Credits to the Prism team for various Pokemon front and back sprites - numel, gible, cacnea, skorupi, feebas, trapinch, cranidos, shieldon, lileep, anorith, beldum, solrock, lunatone, duskull, sylveon, leafeon, glaceon, weavile, mamoswine, magmortar, mismagius, and rhyperior lines.
  - Credits to Nuuk on discord (nuukiie on Twitter) for various Pokemon front and back sprites - maractus, nosepass, larvesta, lotad, and zigzagoon lines.
  - Combee and Vespiquen front, back and overworld sprites - TerraTerraCotta on discord.
@@ -130,7 +184,7 @@ v0.7 Credits:
  - Hippopotas and Hippowdon front, back and overworld sprites - Sadfish on discord.
  - Camerupt front sprites - Poisonous Gas and Goose on discord.
  - Wooper, Wingull, Linoone and Unown overworld sprites - Snak on discord.
- - Weedle, Kakuna, Beedrill, Abamosnow, Ratatta, and Raticate overworld sprites - Internet_Goblin on discord.
+ - Weedle, Kakuna, Beedrill, Abomasnow, Rattata, and Raticate overworld sprites - Internet_Goblin on discord.
  - Larvesta, Poochyena and Nosepass overworld sprites - Sadfish on discord.
  - Maractus overworld sprites - EeVeeEe on discord.
  - Zigzagoon oveworld sprite - Miserable Pile Of Secrets and Kalvinz on discord.
@@ -145,7 +199,7 @@ v0.7 Credits:
  - Player sprite while moving through sand pit - Epharam on discord.
  - Alolan Exeggutor front and back sprites - Gmerc.
 
-v0.6 (and prior) Credits:
+**v0.6 (and prior) Credits:**
  - Regirock, Registeel, Regice, and Regigigas front and back sprites - Mr Dustman, Sadfish and Poisonous Gas on discord.
  - Regieleki and Regidrago front and back sprites - Mr Dustman on discord.
  - Regieleki overworld sprites and 'alternate' Regi sprites - Mr Dustman on discord.

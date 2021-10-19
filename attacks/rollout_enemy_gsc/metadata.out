@@ -28,29 +28,29 @@
 28, enemy_healthbar_gone
 29, enemy_healthbar_gone
 30, enemy_healthbar_gone
-31, enemy_healthbar_gone
-32, enemy_healthbar_gone enemy_translate_x:-2
-33, enemy_healthbar_gone enemy_translate_x:-4
-34, enemy_healthbar_gone enemy_translate_x:-6
-35, enemy_healthbar_gone enemy_translate_x:-8
-36, enemy_healthbar_gone enemy_translate_x:-10
-37, enemy_healthbar_gone enemy_translate_x:-8
-38, enemy_healthbar_gone enemy_translate_x:-6
-39, enemy_healthbar_gone enemy_translate_x:-4
-40, enemy_healthbar_gone enemy_translate_x:-2
-41, enemy_healthbar_gone
+31, enemy_healthbar_gone screen_translate_y:1
+32, enemy_healthbar_gone
+33, enemy_healthbar_gone screen_translate_y:1
+34, enemy_healthbar_gone enemy_translate_x:-4
+35, enemy_healthbar_gone screen_translate_y:1
+36, enemy_healthbar_gone enemy_translate_x:-8
+37, enemy_healthbar_gone screen_translate_y:1
+38, enemy_healthbar_gone enemy_translate_x:-8
+39, enemy_healthbar_gone screen_translate_y:1
+40, enemy_healthbar_gone enemy_translate_x:-4
+41, enemy_healthbar_gone screen_translate_y:1
 42, enemy_healthbar_gone
-43, enemy_healthbar_gone
+43, enemy_healthbar_gone screen_translate_y:1
 44, enemy_healthbar_gone
-45, enemy_healthbar_gone
+45, enemy_healthbar_gone screen_translate_y:1
 46, enemy_healthbar_gone
-47, enemy_healthbar_gone
+47, enemy_healthbar_gone screen_translate_y:1
 48, enemy_healthbar_gone
-49, enemy_healthbar_gone
+49, enemy_healthbar_gone screen_translate_y:1
 50, enemy_healthbar_gone
-51, enemy_healthbar_gone
+51, enemy_healthbar_gone screen_translate_y:1
 52, enemy_healthbar_gone
-53, enemy_healthbar_gone
+53, enemy_healthbar_gone screen_translate_y:1
 54, enemy_healthbar_gone
 55, enemy_healthbar_gone
 56, enemy_healthbar_gone

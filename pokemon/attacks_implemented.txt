@@ -164,7 +164,6 @@ thunderbolt
 thundershock
 thunderwave
 toxic
-transform
 tri attack
 twister
 vicegrip

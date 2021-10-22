@@ -98,22 +98,6 @@ In the future I hope that the game can also support graphics from other generati
    - Night is brighter now.
  - UI's updated to Gen 2 style.
 
-# Future aims and goals for the project
- - Map editor.
- - Support for other platforms (controls, screen resizing).
- - Larger proc-gen worlds with more biomes (desert, graveyard, dungeons, ...)
- - Pokemon breeding / shinies
- - Full Gen 2 engine replication (battle mechanics, attacks, etc).
- - Other Generations.
-
-# FAQ
- - Is it possible to migrate my save from a previous version?
-   - This currently isn't supported, but there's a chance it will work. If it doesn't work, PM me with your save file and I should be able to migrate it for you.
- - Can I cheat just to see what the game is like lol?
-   - Yeah
-     - Open a command window in the same folder as pokemon-wilds.exe by shift+right-clicking in the folder and selecting "Open command window here."
-     - Run the command "pokemon-wilds.exe dev". Once you have generated a map, you will spawn with some high-level pokemon, a secret key and 99 master balls. You can zoom the camera around the map like you can in host mode, and can walk through walls by holding the space bar while moving.
- 
 # Contributing
 
 If you are interested in helping with code, please create an issue here saying that you're interested and we can work out the details of what currently needs done. Here are some examples:

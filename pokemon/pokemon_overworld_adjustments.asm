@@ -443,7 +443,7 @@ Palossand:
  db found, true
  db flip, false
 
-Pacharisu:
+Dedenne:
  db i, 394
  db found, true
  db flip, true
@@ -458,7 +458,7 @@ Frosmoth:
  db found, true
  db flip, false
 
-Duoblade:
+Honedge:
  db i, 397
  db found, true
  db flip, false
@@ -783,7 +783,12 @@ Dusknoir:
  db found, true
  db flip, true
 
-Dusknoir:
+Carvanha:
  db i, 462
+ db found, true
+ db flip, false
+
+Swirlix:
+ db i, 463
  db found, true
  db flip, false

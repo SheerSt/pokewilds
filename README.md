@@ -153,6 +153,7 @@ Overworld sprites:
  - Croagunk overworld sprites - SCHLIEMONI on discord
  - Shuckle overworld sprites - betsybugaboo on discord
  - Cramorant overworld sprites - Sadfish on discord
+ - Cubone overworld sprites - uchuu on discord
 
 Player sprites:
  - Lyra back, walking and fishing sprites - Twilier / Reshidove on Deviantart

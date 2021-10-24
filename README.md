@@ -127,19 +127,32 @@ Battle sprites:
 Overworld sprites: 
  - Phantump overworld sprites - Goose on discord
  - Alolan Raichu, Galar Yamask, Cacturne, Mantyke, Mantine, and Remoraid overworld sprites - Sadfish on discord
- - Trevenant, Sandslash, Ekans, Arbok, Sharpedo, Dratini, Dragonair, Dragonite, Ledyba, Hoothoot, Sandshrew, Aipom, Ambipom, Miltank, Sudowoodo, Horsea, Seadra, Kingdra, Smoochum and Jinx overworld sprites - Internet_Goblin on discord
+ - Trevenant, Sandslash, Ekans, Arbok, Sharpedo, Dratini, Dragonair, Dragonite, Ledyba, Hoothoot, Sandshrew, Aipom, Ambipom, Miltank, Sudowoodo, Horsea, Seadra, Kingdra, Smoochum, Noctowl, Nidoking and Jinx overworld sprites - Internet_Goblin on discord
  - Golduck, Hatenna, Kabuto, Mightyena, Noivern, Omanyte, Omastar, Pelipper, Psyduck, Wailmer, and Wailord overworld sprites - Gargoyle on discord
  - Pumpkaboo, Snom, Frosmoth, Sandygast, Palossand, Goomy, Hoppip, Azurill, Dodrio, Doduo, Entei, Gloom, Gourgeist, Vileplume, Starmie, Quagsire, Oddish, Staryu, Skiploom, Jumpluff, Poliwag, Sunflora, Politoed, Poliwhirl, Poliwrath, Raikou, Suicune, Sunkern, Applin, Alolan Marowak, Bellosom, Heracross, Primeape, Marowak, Bellossom and Delibird overworld sprites - betsybugaboo on discord
  - Bidoof overworld sprites - LuxBeacon and betsybugaboo on discord
- - Bibarel, Buizel, Floatzel, Hatterene, Minun, Noibat, Pikipek, Plusle, Trumbeak, Appletun, Happiny, Drowzee, Luvdisc, Manaphy, Phione, Shuckle, Flapple, Octillery, Stonjourner, Corphish, Crawdaunt, Duraludon, Dedenne, Carbink, Diancie and Volbeat overworld sprites - LuxBeacon on discord
+ - Bibarel, Buizel, Floatzel, Hatterene, Minun, Noibat, Pikipek, Plusle, Trumbeak, Appletun, Happiny, Drowzee, Luvdisc, Manaphy, Phione, Flapple, Octillery, Stonjourner, Corphish, Crawdaunt, Duraludon, Dedenne, Carbink, Electrike, Diancie, Munchlax and Volbeat overworld sprites - LuxBeacon on discord
  - Qwilfish overworld sprites - kyro909 on discord
  - Toucannon overworld sprites - Invader and LuxBeacon on discord
  - Murkrow and Honchkrow overworld sprites - Invader on discord
  - Grimer, Muk, Pinsir, Diglett, Dugtrio, Wooloo, Mr. Mime overworld sprites - Snak on discord
  - Voltorb overworld sprites - Goose and Internet_Goblin on discord
- - Klefki, Honedge overworld sprites - Et3rniti on discord
- - Carvanha overworld sprites - Molk on discord
- - Probopass overworld sprites - SkwovetSquire on discord
+ - Pancham, Dhelmise, Klefki, Honedge overworld sprites - Et3rniti on discord
+ - Carvanha, Starly, and Staravia overworld sprites - Molk on discord
+ - Probopass, Mime Jr, Oshawott, Girafarig and Pachirisu overworld sprites - SkwovetSquire on discord
+ - Drilbur, Excadrill, Hydreigon, Zweilous and Deino overworld sprites - EeVeeEe on discord
+ - NidoranF, Nidorina, Nidoqueen, Skarmory, Tauros, Jirachi, Cosmog, Cosmoem and Aerodactyl overworld sprites - Sage on discord
+ - NidoranM overworld sprites - Sir Fear-ali on discord
+ - Milcery and Cufant overworld sprites - SkwovetSquire and LuxBeacon on discord
+ - Cottonee, Dewott, Meowstic_M and Meowstic_F overworld sprite - hades da god on discord
+ - Whimsicott overworld sprite - hades da god and Et3rniti on discord
+ - Pangoro overworld sprite - hades da god and SkwovetSquire on discord
+ - Lilligant, Golett, Petilil, Ledian and Golurk overworld sprites - Sayaka on discord.
+ - Clefairy overworld sprites - Meowmie on discord
+ - Hattrem overworld sprites - Filth-sama on discord
+ - Croagunk overworld sprites - SCHLIEMONI on discord
+ - Shuckle overworld sprites - betsybugaboo on discord
+ - Cramorant overworld sprites - Sadfish on discord
 
 Player sprites:
  - Lyra back, walking and fishing sprites - Twilier / Reshidove on Deviantart

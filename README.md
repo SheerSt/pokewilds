@@ -170,6 +170,7 @@ Player sprites:
  - Lunick, Summer, Kellyn overworld and back sprites - LuxBeacon on discord
 
 Other:
+ - Fence gate sprite - Sakaya on discord
  - Item descriptions - betsybugaboo on discord
  - Gen 2 item bag menu images - ForeverBurning on discord
  - Following Pokemon dialogue - SkwovetSquire and LuxBeacon on discord

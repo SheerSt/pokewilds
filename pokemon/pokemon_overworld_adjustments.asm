@@ -792,3 +792,208 @@ Swirlix:
  db i, 463
  db found, true
  db flip, false
+
+Electrike:
+ db i, 464
+ db found, true
+ db flip, false
+
+Starly:
+ db i, 465
+ db found, true
+ db flip, false
+
+Staravia:
+ db i, 466
+ db found, true
+ db flip, false
+
+Hydreigon:
+ db i, 467
+ db found, true
+ db flip, false
+
+Nidoran_F:
+ db i, 468
+ db found, true
+ db flip, true
+
+Nidorina:
+ db i, 469
+ db found, true
+ db flip, true
+
+Nidoqueen:
+ db i, 470
+ db found, true
+ db flip, true
+
+Tauros:
+ db i, 471
+ db found, true
+ db flip, true
+
+Skarmory:
+ db i, 472
+ db found, true
+ db flip, false
+
+Aerodactyl:
+ db i, 473
+ db found, true
+ db flip, false
+
+Nidoran_M:
+ db i, 474
+ db found, true
+ db flip, true
+
+Jirachi:
+ db i, 475
+ db found, true
+ db flip, false
+
+Cosmog:
+ db i, 476
+ db found, true
+ db flip, false
+
+Cosmoem:
+ db i, 477
+ db found, true
+ db flip, false
+
+Zweilous:
+ db i, 478
+ db found, true
+ db flip, true
+
+Deino:
+ db i, 479
+ db found, true
+ db flip, true
+
+Girafarig:
+ db i, 480
+ db found, true
+ db flip, false
+
+Cufant:
+ db i, 481
+ db found, true
+ db flip, false
+
+Pachirisu:
+ db i, 482
+ db found, true
+ db flip, false
+
+Milcery:
+ db i, 483
+ db found, true
+ db flip, false
+
+Cottonee:
+ db i, 484
+ db found, true
+ db flip, false
+
+Noctowl:
+ db i, 485
+ db found, true
+ db flip, false
+
+Nidoking:
+ db i, 486
+ db found, true
+ db flip, true
+
+Cubone:
+ db i, 487
+ db found, true
+ db flip, true
+
+Whimsicott:
+ db i, 488
+ db found, true
+ db flip, false
+
+Dhelmise:
+ db i, 489
+ db found, true
+ db flip, false
+
+Drilbur:
+ db i, 490
+ db found, true
+ db flip, true
+
+Excadrill:
+ db i, 491
+ db found, true
+ db flip, true
+
+Mime_Jr:
+ db i, 492
+ db found, true
+ db flip, false
+
+Pancham:
+ db i, 493
+ db found, true
+ db flip, false
+
+Golett:
+ db i, 494
+ db found, true
+ db flip, true
+
+Golurk:
+ db i, 495
+ db found, true
+ db flip, true
+
+Oshawott:
+ db i, 496
+ db found, true
+ db flip, false
+
+Pangoro:
+ db i, 497
+ db found, true
+ db flip, false
+
+Ledian:
+ db i, 498
+ db found, true
+ db flip, false
+
+Lilligant:
+ db i, 499
+ db found, true
+ db flip, false
+
+Petilil:
+ db i, 500
+ db found, true
+ db flip, true
+
+Munchlax:
+ db i, 501
+ db found, true
+ db flip, true
+
+Dewott:
+ db i, 502
+ db found, true
+ db flip, false
+
+Hattrem:
+ db i, 503
+ db found, true
+ db flip, true
+
+Clefairy:
+ db i, 504
+ db found, true
+ db flip, true

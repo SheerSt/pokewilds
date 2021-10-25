@@ -1,21 +1,21 @@
 	db REMORAID ; 223
 
 	db  35,  65,  35,  65,  65,  35
-	;   hp  atk  def  spd  sat  sdf
+  ;  hp  atk  def  spd sat sdf
 
 	db WATER, WATER ; type
 	db 190 ; catch rate
-	db 78 ; base exp
-	db NO_ITEM, NO_ITEM ; items
+	db 60 ; base exp
+	db NO_ITEM, NO_ITEM
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/remoraid/front.dimensions"
-	db 0, 0, 0, 0 ; padding
+	INCBIN "gfx/pokemon/remoraid/front.dimensions
+	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_WATER_1, EGG_WATER_2 ; egg groups
+	dn EGG_WATER1, EGG_WATER2 ; egg groups
 
 	; tm/hm learnset
-	tmhm CURSE, TOXIC, HIDDEN_POWER, SNORE, HYPER_BEAM, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, RETURN, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SWIFT, DEFENSE_CURL, REST, ATTRACT, THIEF, SURF, WHIRLPOOL, FLAMETHROWER, ICE_BEAM
+	tmhm SIGNAL_BEAM, THIEF, CHARGE_BEAM, THUNDER_WAVE, FIRE_BLAST, FLAMETHROWER, SUNNY_DAY, BOUNCE, SEED_BOMB, BLIZZARD, ICE_BEAM, ICY_WIND, HYPER_BEAM, FACADE, HIDDEN_POWER, ROUND, SNORE, FRUSTRATION, RETURN, ATTRACT, CONFIDE, DOUBLE_TEAM, HELPING_HAND, PROTECT, SLEEP_TALK, SUBSTITUTE, SWAGGER, GUNK_SHOT, TOXIC, PSYCHIC, REST, SMACK_DOWN, SURF, DIVE, SCALD, WATERFALL, WATER_PULSE, RAIN_DANCE, ENDURE, SCREECH, FOCUS_ENERGY, SWIFT, ASSURANCE, BULLET_SEED, MUD_SHOT, WHIRLPOOL, HYDRO_PUMP, ROCK_BLAST, BRINE
 	; end

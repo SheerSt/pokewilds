@@ -144,7 +144,7 @@ Overworld sprites:
  - NidoranF, Nidorina, Nidoqueen, Skarmory, Tauros, Jirachi, Cosmog, Cosmoem and Aerodactyl overworld sprites - Sage on discord
  - NidoranM overworld sprites - Sir Fear-ali on discord
  - Milcery and Cufant overworld sprites - SkwovetSquire and LuxBeacon on discord
- - Cottonee, Dewott, Meowstic_M and Meowstic_F overworld sprite - hades da god on discord
+ - Cottonee, Dewott overworld sprite - hades da god on discord
  - Whimsicott overworld sprite - hades da god and Et3rniti on discord
  - Pangoro overworld sprite - hades da god and SkwovetSquire on discord
  - Lilligant, Golett, Petilil, Ledian and Golurk overworld sprites - Sayaka on discord.

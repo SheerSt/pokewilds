@@ -1,7 +1,7 @@
-	db DEFAULT ; Display name (DEFAULT for default name).
+    db DEFAULT ; Display name (DEFAULT for default name).
 
-    db 286 ; Dex number.
-    db <It knocks out foes with quick, virtually invisible punches.> ; Dex entry.
+    db 235 ; Dex number.
+    db <The color of the mysterious fluid secreted from its tail is predetermined for each Smeargle.> ; Dex entry.
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
@@ -23,7 +23,7 @@
     db 0 ; Headbutt.
     db 0 ; Attack (always able on DARK).
     db 0 ; Charm (always able on FAIRY).
-    db 0 ; Paint.
+    db 1 ; Paint.
 
     ; Overworld properties (0 = no, 1 = yes).
 

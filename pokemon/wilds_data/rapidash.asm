@@ -1,7 +1,7 @@
 	db DEFAULT ; Display name (DEFAULT for default name).
 
-    db 286 ; Dex number.
-    db <It knocks out foes with quick, virtually invisible punches.> ; Dex entry.
+    db 78 ; Dex number.
+    db <It just loves to gallop. The faster it goes, the longer the swaying flames of its mane will become.> ; Dex entry.
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
@@ -13,7 +13,7 @@
     db 0 ; Cut (always able on GRASS).
     db 0 ; Smash (always able on ROCK).
     db 0 ; Dig (always able on GROUND).
-    db 0 ; Ride.
+    db 1 ; Ride.
     db 0 ; Fly.
     db 0 ; Surf (always able on final WATER evolutions).
     db 0 ; Teleport (always able on PSYCHIC).

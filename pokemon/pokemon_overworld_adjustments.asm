@@ -997,3 +997,13 @@ Clefairy:
  db i, 504
  db found, true
  db flip, true
+
+Croagunk:
+ db i, 505
+ db found, true
+ db flip, true
+
+Cramorant:
+ db i, 506
+ db found, true
+ db flip, true

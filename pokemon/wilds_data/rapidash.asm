@@ -34,4 +34,7 @@
 
     db 1 ; Flip third frame of OW animation? (1 = yes, 0 = no)
 
+    db 39.2 ; Weight in kg.
+    db 1.2 ; Height in meters.
+
     db DEFAULT ; Base form (DEFAULT for default mon, MON_NAME for a specific mon).

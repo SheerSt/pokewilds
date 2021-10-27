@@ -19,7 +19,7 @@
     db 0 ; Teleport (always able on PSYCHIC).
     db 0 ; Flash (always able on FIRE).
     db 0 ; Repel (always able on POISON).
-    db 0 ; Power (always able on ELECTRIC).
+    db 0 ; Power (always able on ELECTRIC).zx
     db 0 ; Headbutt.
     db 0 ; Attack (always able on DARK).
     db 0 ; Charm (always able on FAIRY).
@@ -33,5 +33,8 @@
     db 0 ; Flee from player.
 
     db 1 ; Flip third frame of OW animation? (1 = yes, 0 = no)
+
+    db 39.2 ; Weight in kg.
+    db 1.2 ; Height in meters.
 
     db DEFAULT ; Base form (DEFAULT for default mon, MON_NAME for a specific mon).

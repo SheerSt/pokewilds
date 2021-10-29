@@ -114,8 +114,8 @@ Feel free to DM me on the Pokemon Wilds discord server also regarding this, what
 **Credits for v0.8:** - Special thank-you to everyone who contributed this update!
 
 Battle sprites:
- - Credits to the Prism team for many Pokemon front and back sprites.
- - Credits to Nuuk on discord (nuukiie on twitter) for many Pokemon front and back sprites.
+ - **Credits to Nuuk on discord (nuukiie on twitter) for many Pokemon front and back sprites.**
+ - **Credits to the Prism team for many Pokemon front and back sprites.**
  - Applin front sprites - ICantBelieveItsNotBowser on discord
  - Applin back sprites - ICantBelieveItsNotBowser and betsybugaboo on discord
  - Probopass, Mantyke front and back sprites - SkwovetSquire on discord
@@ -169,7 +169,17 @@ Player sprites:
  - Mark back sprite - LunaMaddalena on deviantart (edit by LuxBeacon on discord)
  - Lunick, Summer, Kellyn overworld and back sprites - LuxBeacon on discord
 
+Music:
+ - Diamond/Pearl League demake - Seiiccubus on discord and youtube
+ - Black/White Dreamyard demake - Seiiccubus on discord and youtube
+ - Diamond/Pearl Route 216 demake - Seiiccubus on discord and youtube
+ - Diamond/Pearl Eterna Forest demake - Seiiccubus on discord and youtube
+ - Black/White Route 10 demake - Seiiccubus on discord and youtube
+ - RSE Route 113 demake - Seiiccubus on discord and youtube
+ - Regigigas battle music - Zame on Youtube
+
 Other:
+ - Rips of many attack animations - Liminalia on github
  - Fence gate sprite - Sakaya on discord
  - Item descriptions - betsybugaboo on discord
  - Gen 2 item bag menu images - ForeverBurning on discord
@@ -187,7 +197,6 @@ Other:
  - Tundra biome house tileset - Internet_Goblin on discord
  - Wooded Lake biome house tileset - Gargoyle on discord
  - Various code help (bug fixes, adding sprites, and more) - ForeverBurning on discord
- - Regigigas battle music - Zame on Youtube
 
 **v0.7 Credits:**
  - Credits to the Prism team for various Pokemon front and back sprites - numel, gible, cacnea, skorupi, feebas, trapinch, cranidos, shieldon, lileep, anorith, beldum, solrock, lunatone, duskull, sylveon, leafeon, glaceon, weavile, mamoswine, magmortar, mismagius, and rhyperior lines.

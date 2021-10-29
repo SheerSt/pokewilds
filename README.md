@@ -32,7 +32,7 @@ In the future I hope that the game can also support graphics from other generati
  - If the game stops loading your save file (ie it's corrupted), you can try using the save file's backup with contains your second-to-last save.
    - The backup save is named `<game-name>.sav.backup`
    - Rename `<game-name>.sav.backup` to `<new-game-name>.sav.zip` and extract contents
-     - Extracted contents need to be a directory called <new-game-name>.sav/ with game, map0,0 etc files inside
+     - Extracted contents need to be a directory called `<new-game-name>.sav/` with game, map0,0 etc files inside
    - Load
 
 ## Dev mode instructions and capabilities:

@@ -87,6 +87,7 @@ mega horn
 mega kick
 mega punch
 metal claw
+metronome
 milk drink
 minimize
 moonlight

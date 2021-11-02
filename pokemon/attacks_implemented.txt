@@ -83,7 +83,7 @@ mach punch
 mean look
 meditate
 mega drain
-mega horn
+megahorn
 mega kick
 mega punch
 metal claw

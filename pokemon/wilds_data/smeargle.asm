@@ -1,9 +1,17 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 235 ; Dex number.
-    db <The color of the mysterious fluid secreted from its tail is predetermined for each Smeargle.> ; Dex entry.
+    db <The unique creations produced by each Smeargle are painted using the fluid that oozes from its tail. This is how it marks its territory.> ; Dex entry.
 
-    db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
+    db 58.0 ; Weight in kg.
+    db 1.2 ; Height in meters.
+
+    db DEFAULT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
+
+    db RUINS_OUTER ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
+    db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
+    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 
@@ -19,7 +27,7 @@
     db 0 ; Teleport (always able on PSYCHIC).
     db 0 ; Flash (always able on FIRE).
     db 0 ; Repel (always able on POISON).
-    db 0 ; Power (always able on ELECTRIC).
+    db 0 ; Power (always able on ELECTRIC).zx
     db 0 ; Headbutt.
     db 0 ; Attack (always able on DARK).
     db 0 ; Charm (always able on FAIRY).
@@ -28,13 +36,13 @@
     ; Overworld properties (0 = no, 1 = yes).
 
     db 0 ; Swim-only movement.
-    db 0 ; Always aggressive.
-    db 0 ; Never aggressive.
     db 0 ; Flee from player.
+    db 0 ; Lunge at player.
+    db 1 ; Aggression level (0 = never aggro, 1 = normal, 2 = always aggro).
 
-    db 1 ; Flip third frame of OW animation? (1 = yes, 0 = no)
+    ; Overworld sprite properties.
 
-    db 39.2 ; Weight in kg.
-    db 1.2 ; Height in meters.
-
-    db DEFAULT ; Base form (DEFAULT for default mon, MON_NAME for a specific mon).
+    db 1 ; Flip third frame of walking animation? (1 = yes, 0 = no)
+    db 0 ; Flip fourth frame of walking animation? (1 = yes, 0 = no)
+    db 0 ; Can move in the overworld (0 = can nove ; 1 = can't move).
+    db 0 ; Water offset for OW sprites, in pixels.

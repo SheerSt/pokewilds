@@ -10,8 +10,8 @@
     db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
-    db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db DESERT ; Biome(s) in which aggressive groups might appear (NONE for no groups).
+    db cactus2  ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

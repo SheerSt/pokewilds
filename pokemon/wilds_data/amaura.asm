@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 698 ; Dex number.
-    db <This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.> ; Dex entry.
+    db <This ancient Pokï¿½mon was restored from part of its body that had been frozen in ice for over 100 million years.> ; Dex entry.
 
     db 25.2 ; Weight in kg.
     db 1.3 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 181 ; Dex number.
-    db <Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away.> ; Dex entry.
+    db <Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokï¿½mon to send signals back and forth with others far away.> ; Dex entry.
 
     db 61.5 ; Weight in kg.
     db 1.4 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

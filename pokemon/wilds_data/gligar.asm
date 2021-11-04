@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 207 ; Dex number.
-    db <Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.> ; Dex entry.
+    db <Gligar glides through the air without a sound as if it were sliding. This Pokï¿½mon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.> ; Dex entry.
 
     db 64.8 ; Weight in kg.
     db 1.1 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

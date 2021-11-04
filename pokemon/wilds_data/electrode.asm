@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 101 ; Dex number.
-    db <Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.> ; Dex entry.
+    db <Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokï¿½mon exploding all over the place from eating too much electricity.> ; Dex entry.
 
     db 66.6 ; Weight in kg.
     db 1.2 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

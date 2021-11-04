@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 161 ; Dex number.
-    db <When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.> ; Dex entry.
+    db <When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokï¿½mon becomes separated from its pack, it becomes incapable of sleep due to fear.> ; Dex entry.
 
     db 6.0 ; Weight in kg.
     db 0.8 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db SAVANNA SAVANNA ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

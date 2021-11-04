@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 314 ; Dex number.
-    db <Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.> ; Dex entry.
+    db <Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokï¿½mon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.> ; Dex entry.
 
     db 17.7 ; Weight in kg.
     db 0.6 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

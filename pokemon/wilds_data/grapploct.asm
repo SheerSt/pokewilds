@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 853 ; Dex number.
-    db <A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.> ; Dex entry.
+    db <A body made up of nothing but muscle makes the grappling moves this Pokï¿½mon performs with its tentacles tremendously powerful.> ; Dex entry.
 
     db 39.0 ; Weight in kg.
     db 1.6 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

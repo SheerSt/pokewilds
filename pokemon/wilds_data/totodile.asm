@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 158 ; Dex number.
-    db <Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.> ; Dex entry.
+    db <Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokï¿½mon may think it is just playfully nipping, its bite has enough power to cause serious injury.> ; Dex entry.
 
     db 9.5 ; Weight in kg.
     db 0.6 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db BEACH TIDAL_BEACH TIDAL_BEACH_ROCKS TIDAL_BEACH_PLATEAU TIDAL_BEACH_WATER ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

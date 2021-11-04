@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 548 ; Dex number.
-    db <Petilil appears around sources of clean water. Boiling leaves from this Pokémon's head results in a liquid that's sometimes used as a bug repellent.> ; Dex entry.
+    db <Petilil appears around sources of clean water. Boiling leaves from this Pokï¿½mon's head results in a liquid that's sometimes used as a bug repellent.> ; Dex entry.
 
     db 6.6 ; Weight in kg.
     db 0.5 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

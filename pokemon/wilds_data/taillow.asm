@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 276 ; Dex number.
-    db <Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokémon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.> ; Dex entry.
+    db <Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokï¿½mon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.> ; Dex entry.
 
     db 2.3 ; Weight in kg.
     db 0.3 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db FOREST SAVANNA WOODED_LAKE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

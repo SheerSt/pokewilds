@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 198 ; Dex number.
-    db <They awaken at dusk and take wing in the twilight, leading to the expression, “Get home before the Murkrow fly.”> ; Dex entry.
+    db <They awaken at dusk and take wing in the twilight, leading to the expression, ï¿½Get home before the Murkrow fly.ï¿½> ; Dex entry.
 
     db 2.1 ; Weight in kg.
     db 0.5 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db DEEP_FOREST WOODED_LAKE GRAVEYARD ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

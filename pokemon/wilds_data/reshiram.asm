@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 643 ; Dex number.
-    db <Flames spew from its tail as it flies through the sky like a jet airplane. It's said that this Pokémon will scorch the world.> ; Dex entry.
+    db <Flames spew from its tail as it flies through the sky like a jet airplane. It's said that this Pokï¿½mon will scorch the world.> ; Dex entry.
 
     db 330.0 ; Weight in kg.
     db 3.2 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

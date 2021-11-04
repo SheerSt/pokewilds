@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 542 ; Dex number.
-    db <Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.> ; Dex entry.
+    db <Upon finding a small Pokï¿½mon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.> ; Dex entry.
 
     db 20.5 ; Weight in kg.
     db 1.2 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

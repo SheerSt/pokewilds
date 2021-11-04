@@ -1,17 +1,17 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 34 ; Dex number.
-    db <Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.> ; Dex entry.
+    db <Nidoking's thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokï¿½mon goes on a rampage, there is no stopping it.> ; Dex entry.
 
     db 62.0 ; Weight in kg.
     db 1.4 ; Height in meters.
 
     db DEFAULT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
-    db nididoran_f ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
+    db NIDORAN_F ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

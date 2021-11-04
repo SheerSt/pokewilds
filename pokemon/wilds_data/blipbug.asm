@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 824 ; Dex number.
-    db <A constant collector of information, this Pokémon is very smart. Very strong is what it isn't.> ; Dex entry.
+    db <A constant collector of information, this Pokï¿½mon is very smart. Very strong is what it isn't.> ; Dex entry.
 
     db 8.0 ; Weight in kg.
     db 0.4 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

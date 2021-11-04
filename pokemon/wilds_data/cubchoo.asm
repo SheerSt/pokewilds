@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 613 ; Dex number.
-    db <When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.> ; Dex entry.
+    db <When this Pokï¿½mon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn't like.> ; Dex entry.
 
     db 8.5 ; Weight in kg.
     db 0.5 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

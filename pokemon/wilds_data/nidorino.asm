@@ -7,11 +7,11 @@
     db 0.9 ; Height in meters.
 
     db DEFAULT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
-    db nididoran_f ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
+    db NIDORAN_F ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db DEEP_FOREST ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

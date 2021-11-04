@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 358 ; Dex number.
-    db <Chimecho makes its cries echo inside its hollow body. When this Pokémon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.> ; Dex entry.
+    db <Chimecho makes its cries echo inside its hollow body. When this Pokï¿½mon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.> ; Dex entry.
 
     db 1.0 ; Weight in kg.
     db 0.6 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db GRAVEYARD ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

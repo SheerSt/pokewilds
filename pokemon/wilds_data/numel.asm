@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 322 ; Dex number.
-    db <Numel is extremely dull witted—it doesn't notice being hit. However, it can't stand hunger for even a second. This Pokémon's body is a seething cauldron of boiling magma.> ; Dex entry.
+    db <Numel is extremely dull wittedï¿½it doesn't notice being hit. However, it can't stand hunger for even a second. This Pokï¿½mon's body is a seething cauldron of boiling magma.> ; Dex entry.
 
     db 24.0 ; Weight in kg.
     db 0.7 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db DESERT VOLCANO ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

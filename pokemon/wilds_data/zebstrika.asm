@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 523 ; Dex number.
-    db <When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.> ; Dex entry.
+    db <When this ill-tempered Pokï¿½mon runs wild, it shoots lightning from its mane in all directions.> ; Dex entry.
 
     db 79.5 ; Weight in kg.
     db 1.6 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

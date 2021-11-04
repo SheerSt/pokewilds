@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 451 ; Dex number.
-    db <After burrowing into the sand, it waits patiently for prey to come near. This Pokémon and Sizzlipede share common descent.> ; Dex entry.
+    db <After burrowing into the sand, it waits patiently for prey to come near. This Pokï¿½mon and Sizzlipede share common descent.> ; Dex entry.
 
     db 12.0 ; Weight in kg.
     db 0.8 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

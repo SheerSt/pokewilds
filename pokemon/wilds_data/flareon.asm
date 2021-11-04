@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 136 ; Dex number.
-    db <Once it has stored up enough heat, this Pokémon's body temperature can reach up to 1,700 degrees Fahrenheit.> ; Dex entry.
+    db <Once it has stored up enough heat, this Pokï¿½mon's body temperature can reach up to 1,700 degrees Fahrenheit.> ; Dex entry.
 
     db 25.0 ; Weight in kg.
     db 0.9 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

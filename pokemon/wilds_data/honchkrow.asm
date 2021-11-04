@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 430 ; Dex number.
-    db <A single cry from this nocturnal Pokémon, and more than a hundred of its Murkrow cronies will assemble.> ; Dex entry.
+    db <A single cry from this nocturnal Pokï¿½mon, and more than a hundred of its Murkrow cronies will assemble.> ; Dex entry.
 
     db 27.3 ; Weight in kg.
     db 0.9 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

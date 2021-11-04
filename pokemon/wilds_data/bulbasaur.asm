@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 1 ; Dex number.
-    db <There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.> ; Dex entry.
+    db <There is a plant seed on its back right from the day this Pokï¿½mon is born. The seed slowly grows larger.> ; Dex entry.
 
     db 6.9 ; Weight in kg.
     db 0.7 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db FOREST SAVANNA ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

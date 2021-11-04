@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 638 ; Dex number.
-    db <It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.> ; Dex entry.
+    db <It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokï¿½mon obey it.> ; Dex entry.
 
     db 250.0 ; Weight in kg.
     db 2.1 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

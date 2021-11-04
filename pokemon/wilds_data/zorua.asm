@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 570 ; Dex number.
-    db <Zorua is a timid Pokémon. This disposition seems to be what led to the development of Zorua's ability to take on the forms of other creatures.> ; Dex entry.
+    db <Zorua is a timid Pokï¿½mon. This disposition seems to be what led to the development of Zorua's ability to take on the forms of other creatures.> ; Dex entry.
 
     db 12.5 ; Weight in kg.
     db 0.7 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 275 ; Dex number.
-    db <A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.> ; Dex entry.
+    db <A Pokï¿½mon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.> ; Dex entry.
 
     db 59.6 ; Weight in kg.
     db 1.3 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

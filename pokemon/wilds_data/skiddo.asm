@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 672 ; Dex number.
-    db <Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.> ; Dex entry.
+    db <Thought to be one of the first Pokï¿½mon to live in harmony with humans, it has a placid disposition.> ; Dex entry.
 
     db 31.0 ; Weight in kg.
     db 0.9 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

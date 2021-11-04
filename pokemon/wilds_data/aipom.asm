@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 190 ; Dex number.
-    db <Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy.> ; Dex entry.
+    db <Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokï¿½mon uses its tail so much, its real hands have become rather clumsy.> ; Dex entry.
 
     db 11.5 ; Weight in kg.
     db 0.8 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db SAVANNA ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

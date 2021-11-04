@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 664 ; Dex number.
-    db <When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.> ; Dex entry.
+    db <When under attack from bird Pokï¿½mon, it spews a poisonous black powder that causes paralysis on contact.> ; Dex entry.
 
     db 2.5 ; Weight in kg.
     db 0.3 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

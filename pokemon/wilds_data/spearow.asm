@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 21 ; Dex number.
-    db <Its short wings make it inept at flying. It moves about hurriedly and pecks at Bug-type Pokémon in the tall grass.> ; Dex entry.
+    db <Its short wings make it inept at flying. It moves about hurriedly and pecks at Bug-type Pokï¿½mon in the tall grass.> ; Dex entry.
 
     db 2.0 ; Weight in kg.
     db 0.3 ; Height in meters.
@@ -11,7 +11,7 @@
 
     db FOREST SAVANNA ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 
@@ -36,7 +36,7 @@
     ; Overworld properties (0 = no, 1 = yes).
 
     db 0 ; Swim-only movement.
-    db 0 ; Flee from player.
+    db 1 ; Flee from player.
     db 0 ; Lunge at player.
     db 1 ; Aggression level (0 = never aggro, 1 = normal, 2 = always aggro).
 

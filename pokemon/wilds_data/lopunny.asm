@@ -6,8 +6,7 @@
     db 33.3 ; Weight in kg.
     db 1.2 ; Height in meters.
 
-    db BUNEARY, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
-    db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
+    db BUNEARY 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).

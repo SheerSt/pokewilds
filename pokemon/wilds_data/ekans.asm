@@ -6,7 +6,7 @@
     db 6.9 ; Weight in kg.
     db 2.0 ; Height in meters.
 
-    db DEFAULT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db EKANS, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
     db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db SAVANNA WOODED_LAKE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).

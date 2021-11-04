@@ -6,7 +6,7 @@
     db 11.5 ; Weight in kg.
     db 0.6 ; Height in meters.
 
-    db DEFAULT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db CORPHISH, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
     db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db BEACH TIDAL_BEACH TIDAL_BEACH_ROCKS TIDAL_BEACH_PLATEAU WOODED_LAKE_FISHING ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).

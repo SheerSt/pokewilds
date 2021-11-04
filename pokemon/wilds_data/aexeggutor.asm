@@ -6,7 +6,7 @@
     db 0 ; Weight in kg.
     db 0 ; Height in meters.
 
-    db exeggcute, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db EXEGGCUTE, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
     db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db TIDAL_BEACH ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).

@@ -6,7 +6,7 @@
     db 15.2 ; Weight in kg.
     db 0.7 ; Height in meters.
 
-    db DEFAULT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db SANDILE, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
     db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db SAND_PIT RUINS_INNER SAND_FISHING SAND_FISHING ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).

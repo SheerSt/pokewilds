@@ -6,13 +6,13 @@
     db 3.3 ; Weight in kg.
     db 1.8 ; Height in meters.
 
-    db DEFAULT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db DRATINI, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
     db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db WOODED_LAKE_FISHING ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
     db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
-    db water ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
+    db WATER ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 
     ; Field moves (0 = unable, 1 = able, 2 = force unable).

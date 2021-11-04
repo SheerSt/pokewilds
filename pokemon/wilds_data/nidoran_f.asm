@@ -6,8 +6,8 @@
     db 7.0 ; Weight in kg.
     db 0.4 ; Height in meters.
 
-    db DEFAULT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
-    db nididoran_m ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
+    db NIDORAN_F, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db NIDIDORAN_M ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db SAVANNA ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).

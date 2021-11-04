@@ -6,7 +6,7 @@
     db 6.6 ; Weight in kg.
     db 0.7 ; Height in meters.
 
-    db DEFAULT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db COTTONEE, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
     db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).

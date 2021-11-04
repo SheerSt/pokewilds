@@ -6,7 +6,7 @@
     db 6.4 ; Weight in kg.
     db 1.0 ; Height in meters.
 
-    db DEFAULT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db BELLSPROUT, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
     db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).

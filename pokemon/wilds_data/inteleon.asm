@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 818 ; Dex number.
-    db <Gigantamax Inteleon's Water Gun move fires at Mach 7. As the Pokémon takes aim, it uses the crest on its head to gauge wind and temperature.> ; Dex entry.
+    db <Gigantamax Inteleon's Water Gun move fires at Mach 7. As the Pokï¿½mon takes aim, it uses the crest on its head to gauge wind and temperature.> ; Dex entry.
 
     db 45.2 ; Weight in kg.
     db 1.9 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

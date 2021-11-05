@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 830 ; Dex number.
-    db <The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.> ; Dex entry.
+    db <The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokï¿½mon can benefit from them.> ; Dex entry.
 
     db 2.5 ; Weight in kg.
     db 0.5 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

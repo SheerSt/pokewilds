@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 103 ; Dex number.
-    db <Blazing sunlight has brought out the true form and powers of this Pokémon.> ; Dex entry.
+    db <Blazing sunlight has brought out the true form and powers of this Pokï¿½mon.> ; Dex entry.
 
     db 120.0 ; Weight in kg.
     db 2.0 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

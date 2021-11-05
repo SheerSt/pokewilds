@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 253 ; Dex number.
-    db <The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.> ; Dex entry.
+    db <The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest. This Pokï¿½mon is a master at climbing trees in jungles.> ; Dex entry.
 
     db 21.6 ; Weight in kg.
     db 0.9 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 365 ; Dex number.
-    db <Walrein's two massively developed tusks can totally shatter blocks of ice weighing 10 tons with one blow. This Pokémon's thick coat of blubber insulates it from subzero temperatures.> ; Dex entry.
+    db <Walrein's two massively developed tusks can totally shatter blocks of ice weighing 10 tons with one blow. This Pokï¿½mon's thick coat of blubber insulates it from subzero temperatures.> ; Dex entry.
 
     db 150.6 ; Weight in kg.
     db 1.4 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

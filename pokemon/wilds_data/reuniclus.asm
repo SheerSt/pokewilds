@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 579 ; Dex number.
-    db <While it could use its psychic abilities in battle, this Pokémon prefers to swing its powerful arms around to beat opponents into submission.> ; Dex entry.
+    db <While it could use its psychic abilities in battle, this Pokï¿½mon prefers to swing its powerful arms around to beat opponents into submission.> ; Dex entry.
 
     db 20.1 ; Weight in kg.
     db 1.0 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

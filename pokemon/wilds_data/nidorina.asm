@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 30 ; Dex number.
-    db <When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.> ; Dex entry.
+    db <When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokï¿½mon appears to become nervous if separated from the others.> ; Dex entry.
 
     db 20.0 ; Weight in kg.
     db 0.8 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db DEEP_FOREST ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

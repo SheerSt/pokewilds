@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 60 ; Dex number.
-    db <For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.> ; Dex entry.
+    db <For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokï¿½mon's innards showing through the skin.> ; Dex entry.
 
     db 12.4 ; Weight in kg.
     db 0.6 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db MOUNTAIN_WATER WOODED_LAKE WOODED_LAKE_FISHING OASIS OASIS_POND RIVER ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 765 ; Dex number.
-    db <With waves of its fan—made from leaves and its own fur—Oranguru skillfully gives instructions to other Pokémon.> ; Dex entry.
+    db <With waves of its fanï¿½made from leaves and its own furï¿½Oranguru skillfully gives instructions to other Pokï¿½mon.> ; Dex entry.
 
     db 76.0 ; Weight in kg.
     db 1.5 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

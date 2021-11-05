@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 149 ; Dex number.
-    db <This Pokémon saved a shipwrecked man, taking him to a remote island—a paradise occupied solely by Dragonite.> ; Dex entry.
+    db <This Pokï¿½mon saved a shipwrecked man, taking him to a remote islandï¿½a paradise occupied solely by Dragonite.> ; Dex entry.
 
     db 210.0 ; Weight in kg.
     db 2.2 ; Height in meters.

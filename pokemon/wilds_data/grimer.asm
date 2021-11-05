@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 88 ; Dex number.
-    db <Its main source of food is the slimy industrial waste of factories. This Pokémon's numbers have been decreasing in recent years.> ; Dex entry.
+    db <Its main source of food is the slimy industrial waste of factories. This Pokï¿½mon's numbers have been decreasing in recent years.> ; Dex entry.
 
     db 30.0 ; Weight in kg.
     db 0.9 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db PKMNMANSION ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

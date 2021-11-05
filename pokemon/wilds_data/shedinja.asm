@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 292 ; Dex number.
-    db <A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves.> ; Dex entry.
+    db <A most peculiar Pokï¿½mon that somehow appears in a Pokï¿½ Ball when a Nincada evolves.> ; Dex entry.
 
     db 1.2 ; Weight in kg.
     db 0.8 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

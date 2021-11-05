@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 837 ; Dex number.
-    db <Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.> ; Dex entry.
+    db <Most of its body has the same composition as coal. Fittingly, this Pokï¿½mon was first discovered in coal mines about 400 years ago.> ; Dex entry.
 
     db 12.0 ; Weight in kg.
     db 0.3 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

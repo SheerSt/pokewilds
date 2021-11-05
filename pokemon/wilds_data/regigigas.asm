@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 486 ; Dex number.
-    db <It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.> ; Dex entry.
+    db <It is said to have made Pokï¿½mon that look like itself from a special ice mountain, rocks, and magma.> ; Dex entry.
 
     db 420.0 ; Weight in kg.
     db 3.7 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

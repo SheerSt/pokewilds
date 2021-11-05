@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 110 ; Dex number.
-    db <It mixes gases between its two bodies. It's said that these Pokémon were seen all over the Galar region back in the day.> ; Dex entry.
+    db <It mixes gases between its two bodies. It's said that these Pokï¿½mon were seen all over the Galar region back in the day.> ; Dex entry.
 
     db 9.5 ; Weight in kg.
     db 1.2 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 501 ; Dex number.
-    db <The scalchop on its stomach isn't just used for battle—it can be used to break open hard berries as well.> ; Dex entry.
+    db <The scalchop on its stomach isn't just used for battleï¿½it can be used to break open hard berries as well.> ; Dex entry.
 
     db 5.9 ; Weight in kg.
     db 0.5 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

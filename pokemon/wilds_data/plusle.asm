@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 311 ; Dex number.
-    db <Plusle always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this Pokémon shorts out its body to create the crackling noises of sparks to show its joy.> ; Dex entry.
+    db <Plusle always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this Pokï¿½mon shorts out its body to create the crackling noises of sparks to show its joy.> ; Dex entry.
 
     db 4.2 ; Weight in kg.
     db 0.4 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db SAVANNA ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

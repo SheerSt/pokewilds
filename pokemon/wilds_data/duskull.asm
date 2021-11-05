@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 355 ; Dex number.
-    db <If it finds bad children who won't listen to their parents, it will spirit them away—or so it's said.> ; Dex entry.
+    db <If it finds bad children who won't listen to their parents, it will spirit them awayï¿½or so it's said.> ; Dex entry.
 
     db 15.0 ; Weight in kg.
     db 0.8 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db GRAVEYARD RUINS_INNER ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

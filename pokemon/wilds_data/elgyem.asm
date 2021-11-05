@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 605 ; Dex number.
-    db <If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.> ; Dex entry.
+    db <If this Pokï¿½mon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.> ; Dex entry.
 
     db 9.0 ; Weight in kg.
     db 0.5 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db RUINS_INNER ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

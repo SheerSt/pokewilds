@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 452 ; Dex number.
-    db <Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.> ; Dex entry.
+    db <Its poison is potent, but it rarely sees use. This Pokï¿½mon prefers to use physical force instead, going on rampages with its car-crushing strength.> ; Dex entry.
 
     db 61.5 ; Weight in kg.
     db 1.3 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db DESERT ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

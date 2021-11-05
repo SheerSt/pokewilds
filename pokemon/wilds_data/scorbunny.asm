@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 813 ; Dex number.
-    db <A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.> ; Dex entry.
+    db <A warm-up of running around gets fire energy coursing through this Pokï¿½mon's body. Once that happens, it's ready to fight at full power.> ; Dex entry.
 
     db 4.5 ; Weight in kg.
     db 0.3 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 639 ; Dex number.
-    db <Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.> ; Dex entry.
+    db <Its charge is strong enough to break through a giant castle wall in one blow. This Pokï¿½mon is spoken of in legends.> ; Dex entry.
 
     db 260.0 ; Weight in kg.
     db 1.9 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

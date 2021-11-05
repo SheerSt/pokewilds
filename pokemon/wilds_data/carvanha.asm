@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 318 ; Dex number.
-    db <It won't attack while it's alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.> ; Dex entry.
+    db <It won't attack while it's aloneï¿½not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokï¿½mon attack as a group.> ; Dex entry.
 
     db 20.8 ; Weight in kg.
     db 0.8 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db OCEAN ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 
@@ -34,7 +34,7 @@
 
     ; Overworld properties (0 = no, 1 = yes).
 
-    db 0 ; Swim-only movement.
+    db 1 ; Swim-only movement.
     db 0 ; Flee from player.
     db 0 ; Lunge at player.
     db 1 ; Aggression level (0 = never aggro, 1 = normal, 2 = always aggro).

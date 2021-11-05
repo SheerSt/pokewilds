@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 298 ; Dex number.
-    db <The ball on Azurill's tail bounces like a rubber ball, and it's full of the nutrients the Pokémon needs to grow.> ; Dex entry.
+    db <The ball on Azurill's tail bounces like a rubber ball, and it's full of the nutrients the Pokï¿½mon needs to grow.> ; Dex entry.
 
     db 2.0 ; Weight in kg.
     db 0.2 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db WOODED_LAKE WOODED_LAKE_WATER ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

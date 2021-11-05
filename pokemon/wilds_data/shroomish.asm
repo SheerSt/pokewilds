@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 285 ; Dex number.
-    db <Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pokémon feeds on compost that is made up of fallen, rotted leaves.> ; Dex entry.
+    db <Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pokï¿½mon feeds on compost that is made up of fallen, rotted leaves.> ; Dex entry.
 
     db 4.5 ; Weight in kg.
     db 0.4 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db FOREST WOODED_LAKE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

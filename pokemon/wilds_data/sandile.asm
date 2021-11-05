@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 551 ; Dex number.
-    db <The desert gets cold at night, so when the sun sets, this Pokémon burrows deep into the sand and sleeps until sunrise.> ; Dex entry.
+    db <The desert gets cold at night, so when the sun sets, this Pokï¿½mon burrows deep into the sand and sleeps until sunrise.> ; Dex entry.
 
     db 15.2 ; Weight in kg.
     db 0.7 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db SAND_PIT RUINS_INNER SAND_FISHING SAND_FISHING ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

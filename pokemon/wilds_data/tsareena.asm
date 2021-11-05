@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 763 ; Dex number.
-    db <This feared Pokémon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents.> ; Dex entry.
+    db <This feared Pokï¿½mon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents.> ; Dex entry.
 
     db 21.4 ; Weight in kg.
     db 1.2 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

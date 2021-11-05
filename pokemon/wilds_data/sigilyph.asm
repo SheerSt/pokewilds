@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 561 ; Dex number.
-    db <Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.> ; Dex entry.
+    db <Psychic power allows these Pokï¿½mon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.> ; Dex entry.
 
     db 14.0 ; Weight in kg.
     db 1.4 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db RUINS_OUTER ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

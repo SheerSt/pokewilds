@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 194 ; Dex number.
-    db <This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.> ; Dex entry.
+    db <This Pokï¿½mon lives in cold water. It will leave the water to search for food when it gets cold outside.> ; Dex entry.
 
     db 8.5 ; Weight in kg.
     db 0.4 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db BEACH TIDAL_BEACH WOODED_LAKE WOODED_LAKE_WATER ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

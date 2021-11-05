@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 571 ; Dex number.
-    db <This Pokémon cares deeply about others of its kind, and it will conjure terrifying illusions to keep its den and pack safe.> ; Dex entry.
+    db <This Pokï¿½mon cares deeply about others of its kind, and it will conjure terrifying illusions to keep its den and pack safe.> ; Dex entry.
 
     db 81.1 ; Weight in kg.
     db 1.6 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

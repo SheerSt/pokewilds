@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 286 ; Dex number.
-    db <Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This Pokémon's fighting technique puts boxers to shame.> ; Dex entry.
+    db <Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This Pokï¿½mon's fighting technique puts boxers to shame.> ; Dex entry.
 
     db 39.2 ; Weight in kg.
     db 1.2 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db DEEP_FOREST ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

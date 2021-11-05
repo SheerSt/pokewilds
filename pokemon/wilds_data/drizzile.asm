@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 817 ; Dex number.
-    db <A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.> ; Dex entry.
+    db <A clever combatant, this Pokï¿½mon battles using water balloons created with moisture secreted from its palms.> ; Dex entry.
 
     db 11.5 ; Weight in kg.
     db 0.7 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

@@ -1,4 +1,4 @@
-    db FARFETCH’D ; Display name (DEFAULT for default name).
+    db FARFETCHï¿½D ; Display name (DEFAULT for default name).
 
     db 83 ; Dex number.
     db <The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.> ; Dex entry.
@@ -10,7 +10,7 @@
 
     db WOODED_LAKE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

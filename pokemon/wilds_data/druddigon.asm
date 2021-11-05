@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 621 ; Dex number.
-    db <Druddigon lives in caves, but it never skips sunbathing—it won't be able to move if its body gets too cold.> ; Dex entry.
+    db <Druddigon lives in caves, but it never skips sunbathingï¿½it won't be able to move if its body gets too cold.> ; Dex entry.
 
     db 139.0 ; Weight in kg.
     db 1.6 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

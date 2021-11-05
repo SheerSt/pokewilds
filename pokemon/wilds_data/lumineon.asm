@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 457 ; Dex number.
-    db <With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.> ; Dex entry.
+    db <With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokï¿½monï¿½its natural predators.> ; Dex entry.
 
     db 24.0 ; Weight in kg.
     db 1.2 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

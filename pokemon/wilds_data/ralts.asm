@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 280 ; Dex number.
-    db <It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility.> ; Dex entry.
+    db <It is highly attuned to the emotions of people and Pokï¿½mon. It hides if it senses hostility.> ; Dex entry.
 
     db 6.6 ; Weight in kg.
     db 0.4 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db DEEP_FOREST WOODED_LAKE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

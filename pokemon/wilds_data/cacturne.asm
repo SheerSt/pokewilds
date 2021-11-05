@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 332 ; Dex number.
-    db <During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokémon becomes active at night when the temperature drops.> ; Dex entry.
+    db <During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokï¿½mon becomes active at night when the temperature drops.> ; Dex entry.
 
     db 77.4 ; Weight in kg.
     db 1.3 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db DESERT ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db cactus2  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db cactus2 ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

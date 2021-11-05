@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 487 ; Dex number.
-    db <This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.> ; Dex entry.
+    db <This Pokï¿½mon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.> ; Dex entry.
 
     db 750.0 ; Weight in kg.
     db 4.5 ; Height in meters.
@@ -10,7 +10,7 @@
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

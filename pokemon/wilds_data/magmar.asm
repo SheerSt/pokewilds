@@ -6,11 +6,11 @@
     db 44.5 ; Weight in kg.
     db 1.3 ; Height in meters.
 
-    db MAGBY 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db MAGBY 100 ; Base form(s) (MON_NAME for base species, then chance).
 
     db PKMNMANSION VOLCANO ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
-    db NONE  ; Tile which serves as this mon's disguise (NONE for no disguise).
+    db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
     db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 

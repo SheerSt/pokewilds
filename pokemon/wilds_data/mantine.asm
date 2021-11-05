@@ -6,8 +6,7 @@
     db 220.0 ; Weight in kg.
     db 2.1 ; Height in meters.
 
-    db mantyke, 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
-    db NONE ; Family mons (NONE for none; example: Miltank and Tauros, NidoranF and Nidoking).
+    db MANTYKE 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
 
     db TIDAL_BEACH_WATER ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).

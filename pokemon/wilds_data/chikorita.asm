@@ -6,7 +6,7 @@
     db 6.4 ; Weight in kg.
     db 0.9 ; Height in meters.
 
-    db CHIKORITA 100 ; Base form(s) (DEFAULT for default mon, MON_NAME for a specific mon, then chance).
+    db CHIKORITA 100 ; Base form(s) (MON_NAME for Pokemon's name, then chance to hatch; separate groups with a comma).
 
     db FOREST SAVANNA ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
@@ -26,7 +26,7 @@
     db 0 ; Teleport (always able on PSYCHIC).
     db 0 ; Flash (always able on FIRE).
     db 0 ; Repel (always able on POISON).
-    db 0 ; Power (always able on ELECTRIC).zx
+    db 0 ; Power (always able on ELECTRIC).
     db 0 ; Headbutt.
     db 0 ; Attack (always able on DARK).
     db 0 ; Charm (always able on FAIRY).

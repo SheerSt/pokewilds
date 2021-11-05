@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 37 ; Dex number.
-    db <After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.> ; Dex entry.
+    db <While young, it has six gorgeous tails. When it grows, several new tails are sprouted.> ; Dex entry.
 
     db 9.9 ; Weight in kg.
     db 0.6 ; Height in meters.

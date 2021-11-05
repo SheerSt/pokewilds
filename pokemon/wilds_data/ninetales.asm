@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 38 ; Dex number.
-    db <A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.> ; Dex entry.
+    db <It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.> ; Dex entry.
 
     db 19.9 ; Weight in kg.
     db 1.1 ; Height in meters.

@@ -1,7 +1,7 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
     db 103 ; Dex number.
-    db <Blazing sunlight has brought out the true form and powers of this Pokémon.> ; Dex entry.
+    db <Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.> ; Dex entry.
 
     db 120.0 ; Weight in kg.
     db 2.0 ; Height in meters.

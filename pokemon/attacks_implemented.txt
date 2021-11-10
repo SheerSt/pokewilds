@@ -77,6 +77,7 @@ kinesis
 leech life
 leer
 lick
+light screen
 lovely kiss
 low kick
 mach punch
@@ -115,6 +116,7 @@ rapid spin
 razor leaf
 razor wind
 recover
+reflect
 return
 roar
 rock slide

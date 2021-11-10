@@ -39,8 +39,8 @@ In the future I hope that the game can also support graphics from other generati
  - Starting the game in dev mode (windows 10):
    - Open the folder containing pokemon-wilds.exe
    - Shift + right-click in the folder and select 'Open powershell window here'
-   - Type 'cmd' in the window and press enter.
-   - type pokemon-wilds.exe into the window and press enter.
+   - Type `cmd` in the window and press enter.
+   - type `pokemon-wilds.exe dev` into the window and press enter.
  - Paint tiles anywhere by clicking on the screen
    - Press ctrl to reduce the brush size and alt to increase the brush size
    - Press C and V to cycle through tiles

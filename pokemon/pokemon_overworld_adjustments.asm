@@ -1307,3 +1307,8 @@ Dartrix:
  db i, 566
  db found, true
  db flip, false
+
+Heatmor:
+ db i, 567
+ db found, true
+ db flip, true

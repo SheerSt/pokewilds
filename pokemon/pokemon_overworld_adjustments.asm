@@ -1312,3 +1312,13 @@ Heatmor:
  db i, 567
  db found, true
  db flip, true
+
+Hypno:
+ db i, 568
+ db found, true
+ db flip, true
+
+Wobbuffet:
+ db i, 569
+ db found, true
+ db flip, true

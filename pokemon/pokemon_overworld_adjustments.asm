@@ -1382,3 +1382,8 @@ Sirfetch_d:
  db i, 581
  db found, true
  db flip, true
+
+Brionne:
+ db i, 582
+ db found, true
+ db flip, false

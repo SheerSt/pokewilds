@@ -1322,3 +1322,63 @@ Wobbuffet:
  db i, 569
  db found, true
  db flip, true
+
+Dunsparce:
+ db i, 570
+ db found, true
+ db flip, false
+
+Agrimer:
+ db i, 571
+ db found, true
+ db flip, false
+
+Amuk:
+ db i, 572
+ db found, true
+ db flip, false
+
+Combusken:
+ db i, 573
+ db found, true
+ db flip, true
+
+Blaziken:
+ db i, 574
+ db found, true
+ db flip, true
+
+Trubbish:
+ db i, 575
+ db found, true
+ db flip, true
+
+Grovyle:
+ db i, 576
+ db found, true
+ db flip, true
+
+Sceptile:
+ db i, 577
+ db found, true
+ db flip, true
+
+Gfarfetch_d:
+ db i, 578
+ db found, true
+ db flip, true
+
+Swadloon:
+ db i, 579
+ db found, true
+ db flip, false
+
+Leavanny:
+ db i, 580
+ db found, true
+ db flip, false
+
+Sirfetch_d:
+ db i, 581
+ db found, true
+ db flip, true

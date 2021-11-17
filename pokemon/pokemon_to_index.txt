@@ -436,7 +436,7 @@ Skuntank
 Bronzor
 Bronzong
 Bonsly
-Mime Jr.
+Mime_Jr
 Happiny
 Chatot
 Spiritomb

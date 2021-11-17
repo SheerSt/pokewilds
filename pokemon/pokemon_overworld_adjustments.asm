@@ -1387,3 +1387,13 @@ Brionne:
  db i, 582
  db found, true
  db flip, false
+
+Falinks:
+ db i, 583
+ db found, true
+ db flip, false
+
+Smeargle:
+ db i, 584
+ db found, true
+ db flip, true

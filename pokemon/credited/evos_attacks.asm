@@ -8910,7 +8910,7 @@ BonslyEvosAttacks:
 	db 44, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
-Mime jr.EvosAttacks:
+Mime_jrEvosAttacks:
 	db EVOLVE_MOVE, MIMIC, MRMIME
 	db 0 ; no more evolutions
 	db 1, POUND

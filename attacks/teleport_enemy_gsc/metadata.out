@@ -1,0 +1,149 @@
+1, enemy_healthbar_gone
+2, enemy_healthbar_gone screenshot:0,0,160,144
+3, enemy_healthbar_gone
+4, enemy_healthbar_gone
+5, enemy_healthbar_gone
+6, enemy_healthbar_gone
+7, enemy_healthbar_gone
+8, enemy_healthbar_gone
+9, enemy_healthbar_gone
+10, enemy_healthbar_gone
+11, enemy_healthbar_gone
+12, enemy_healthbar_gone
+13, enemy_healthbar_gone
+14, enemy_healthbar_gone
+15, enemy_healthbar_gone
+16, enemy_healthbar_gone
+17, enemy_healthbar_gone
+18, enemy_healthbar_gone
+19, enemy_healthbar_gone
+20, enemy_healthbar_gone
+21, enemy_healthbar_gone
+22, enemy_healthbar_gone
+23, enemy_healthbar_gone
+24, enemy_healthbar_gone
+25, enemy_healthbar_gone
+26, enemy_healthbar_gone
+27, enemy_healthbar_gone
+28, enemy_healthbar_gone
+29, enemy_healthbar_gone
+30, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+31, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+32, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+33, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+34, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+35, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+36, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+37, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+38, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+39, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+40, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+41, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+42, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+43, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+44, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+45, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+46, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+47, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+48, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+49, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+50, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+51, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+52, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+53, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+54, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+55, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+56, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+57, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+58, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+59, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+60, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+61, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+62, enemy_healthbar_gone row_displace:1.0 displace_target:enemy
+63, enemy_healthbar_gone enemy_sprite_gone
+64, enemy_healthbar_gone enemy_sprite_gone
+65, enemy_healthbar_gone enemy_sprite_gone
+66, enemy_healthbar_gone enemy_sprite_gone
+67, enemy_healthbar_gone enemy_sprite_gone
+68, enemy_healthbar_gone enemy_sprite_gone
+69, enemy_healthbar_gone enemy_sprite_gone
+70, enemy_healthbar_gone enemy_sprite_gone
+71, enemy_healthbar_gone enemy_sprite_gone
+72, enemy_healthbar_gone enemy_sprite_gone
+73, enemy_healthbar_gone enemy_sprite_gone
+74, enemy_healthbar_gone enemy_sprite_gone
+75, enemy_healthbar_gone enemy_sprite_gone
+76, enemy_healthbar_gone enemy_sprite_gone
+77, enemy_healthbar_gone enemy_sprite_gone
+78, enemy_healthbar_gone enemy_sprite_gone
+79, enemy_healthbar_gone enemy_sprite_gone
+80, enemy_healthbar_gone enemy_sprite_gone
+81, enemy_healthbar_gone enemy_sprite_gone
+82, enemy_healthbar_gone enemy_sprite_gone
+83, enemy_healthbar_gone enemy_sprite_gone
+84, enemy_healthbar_gone enemy_sprite_gone
+85, enemy_healthbar_gone enemy_sprite_gone
+86, enemy_healthbar_gone enemy_sprite_gone
+87, enemy_healthbar_gone enemy_sprite_gone
+88, enemy_healthbar_gone enemy_sprite_gone
+89, enemy_healthbar_gone enemy_sprite_gone
+90, enemy_healthbar_gone enemy_sprite_gone
+91, enemy_healthbar_gone enemy_sprite_gone
+92, enemy_healthbar_gone enemy_sprite_gone
+93, enemy_healthbar_gone enemy_sprite_gone
+94, enemy_healthbar_gone enemy_sprite_gone
+95, enemy_healthbar_gone enemy_sprite_gone
+96, enemy_healthbar_gone enemy_sprite_gone
+97, enemy_healthbar_gone enemy_sprite_gone
+98, enemy_healthbar_gone enemy_sprite_gone
+99, enemy_healthbar_gone enemy_sprite_gone
+100, enemy_healthbar_gone enemy_sprite_gone
+101, enemy_healthbar_gone enemy_sprite_gone
+102, enemy_healthbar_gone enemy_sprite_gone
+103, enemy_healthbar_gone enemy_sprite_gone
+104, enemy_healthbar_gone enemy_sprite_gone
+105, enemy_healthbar_gone enemy_sprite_gone
+106, enemy_healthbar_gone enemy_sprite_gone
+107, enemy_healthbar_gone enemy_sprite_gone
+108, enemy_healthbar_gone enemy_sprite_gone
+109, enemy_healthbar_gone enemy_sprite_gone
+110, enemy_healthbar_gone enemy_sprite_gone
+111, enemy_healthbar_gone enemy_sprite_gone
+112, enemy_healthbar_gone enemy_sprite_gone
+113, enemy_healthbar_gone enemy_sprite_gone
+114, enemy_healthbar_gone enemy_sprite_gone
+115, enemy_healthbar_gone enemy_sprite_gone
+116, enemy_healthbar_gone enemy_sprite_gone
+117, enemy_healthbar_gone enemy_sprite_gone
+118, enemy_healthbar_gone enemy_sprite_gone
+119, enemy_healthbar_gone enemy_sprite_gone
+120, enemy_healthbar_gone enemy_sprite_gone
+121, enemy_healthbar_gone enemy_sprite_gone
+122, enemy_healthbar_gone enemy_sprite_gone
+123, enemy_healthbar_gone enemy_sprite_gone
+124, enemy_healthbar_gone enemy_sprite_gone
+125, enemy_healthbar_gone enemy_sprite_gone
+126, enemy_healthbar_gone enemy_sprite_gone
+127, enemy_healthbar_gone enemy_sprite_gone
+128, enemy_healthbar_gone enemy_sprite_gone
+129, enemy_healthbar_gone enemy_sprite_gone
+130, enemy_healthbar_gone enemy_sprite_gone
+131, enemy_healthbar_gone enemy_sprite_gone
+132, enemy_healthbar_gone enemy_sprite_gone
+133, enemy_healthbar_gone enemy_sprite_gone
+134, enemy_healthbar_gone enemy_sprite_gone
+135, enemy_healthbar_gone enemy_sprite_gone
+136, enemy_healthbar_gone enemy_sprite_gone
+137, enemy_healthbar_gone enemy_sprite_gone
+138, enemy_healthbar_gone enemy_sprite_gone
+139, enemy_healthbar_gone enemy_sprite_gone
+140, enemy_healthbar_gone enemy_sprite_gone
+141, enemy_healthbar_gone enemy_sprite_gone
+142, enemy_healthbar_gone enemy_sprite_gone
+143, enemy_healthbar_gone enemy_sprite_gone
+144, enemy_healthbar_gone enemy_sprite_gone
+145, enemy_healthbar_gone enemy_sprite_gone
+146, enemy_healthbar_gone enemy_sprite_gone
+147, enemy_healthbar_gone enemy_sprite_gone
+148, enemy_healthbar_gone enemy_sprite_gone
+149, enemy_healthbar_gone enemy_sprite_gone

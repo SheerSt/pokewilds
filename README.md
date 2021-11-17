@@ -32,15 +32,15 @@ In the future I hope that the game can also support graphics from other generati
  - If the game stops loading your save file (ie it's corrupted), you can try using the save file's backup with contains your second-to-last save.
    - The backup save is named `<game-name>.sav.backup`
    - Rename `<game-name>.sav.backup` to `<new-game-name>.sav.zip` and extract contents
-     - Extracted contents need to be a directory called <new-game-name>.sav/ with game, map0,0 etc files inside
+     - Extracted contents need to be a directory called `<new-game-name>.sav/` with game, map0,0 etc files inside
    - Load
 
 ## Dev mode instructions and capabilities:
  - Starting the game in dev mode (windows 10):
    - Open the folder containing pokemon-wilds.exe
    - Shift + right-click in the folder and select 'Open powershell window here'
-   - Type 'cmd' in the window and press enter.
-   - type pokemon-wilds.exe into the window and press enter.
+   - Type `cmd` in the window and press enter.
+   - type `pokemon-wilds.exe dev` into the window and press enter.
  - Paint tiles anywhere by clicking on the screen
    - Press ctrl to reduce the brush size and alt to increase the brush size
    - Press C and V to cycle through tiles
@@ -114,8 +114,8 @@ Feel free to DM me on the Pokemon Wilds discord server also regarding this, what
 **Credits for v0.8:** - Special thank-you to everyone who contributed this update!
 
 Battle sprites:
- - Credits to the Prism team for many Pokemon front and back sprites.
- - Credits to Nuuk on discord (nuukiie on twitter) for many Pokemon front and back sprites.
+ - **Credits to Nuuk on discord (nuukiie on twitter) for many Pokemon front and back sprites.**
+ - **Credits to the Prism team for many Pokemon front and back sprites.**
  - Applin front sprites - ICantBelieveItsNotBowser on discord
  - Applin back sprites - ICantBelieveItsNotBowser and betsybugaboo on discord
  - Probopass, Mantyke front and back sprites - SkwovetSquire on discord
@@ -144,7 +144,7 @@ Overworld sprites:
  - NidoranF, Nidorina, Nidoqueen, Skarmory, Tauros, Jirachi, Cosmog, Cosmoem and Aerodactyl overworld sprites - Sage on discord
  - NidoranM overworld sprites - Sir Fear-ali on discord
  - Milcery and Cufant overworld sprites - SkwovetSquire and LuxBeacon on discord
- - Cottonee, Dewott, Meowstic_M and Meowstic_F overworld sprite - hades da god on discord
+ - Cottonee, Dewott overworld sprite - hades da god on discord
  - Whimsicott overworld sprite - hades da god and Et3rniti on discord
  - Pangoro overworld sprite - hades da god and SkwovetSquire on discord
  - Lilligant, Golett, Petilil, Ledian and Golurk overworld sprites - Sayaka on discord.
@@ -169,7 +169,17 @@ Player sprites:
  - Mark back sprite - LunaMaddalena on deviantart (edit by LuxBeacon on discord)
  - Lunick, Summer, Kellyn overworld and back sprites - LuxBeacon on discord
 
+Music:
+ - Diamond/Pearl League demake - Seiiccubus on discord and youtube
+ - Black/White Dreamyard demake - Seiiccubus on discord and youtube
+ - Diamond/Pearl Route 216 demake - Seiiccubus on discord and youtube
+ - Diamond/Pearl Eterna Forest demake - Seiiccubus on discord and youtube
+ - Black/White Route 10 demake - Seiiccubus on discord and youtube
+ - RSE Route 113 demake - Seiiccubus on discord and youtube
+ - Regigigas battle music - Zame on Youtube
+
 Other:
+ - Rips of many attack animations - Liminalia on github
  - Fence gate sprite - Sakaya on discord
  - Item descriptions - betsybugaboo on discord
  - Gen 2 item bag menu images - ForeverBurning on discord
@@ -187,7 +197,6 @@ Other:
  - Tundra biome house tileset - Internet_Goblin on discord
  - Wooded Lake biome house tileset - Gargoyle on discord
  - Various code help (bug fixes, adding sprites, and more) - ForeverBurning on discord
- - Regigigas battle music - Zame on Youtube
 
 **v0.7 Credits:**
  - Credits to the Prism team for various Pokemon front and back sprites - numel, gible, cacnea, skorupi, feebas, trapinch, cranidos, shieldon, lileep, anorith, beldum, solrock, lunatone, duskull, sylveon, leafeon, glaceon, weavile, mamoswine, magmortar, mismagius, and rhyperior lines.

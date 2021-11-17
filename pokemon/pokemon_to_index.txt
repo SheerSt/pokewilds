@@ -666,7 +666,7 @@ Spewpa
 Vivillon
 Litleo
 Pyroar
-Flabébé
+Flabebe
 Floette
 Florges
 Skiddo
@@ -886,12 +886,9 @@ Dreepy
 Drakloak
 Dragapult
 Zacian
-Zacian
-Zamazenta
 Zamazenta
 Eternatus
 Kubfu
-Urshifu
 Urshifu
 Zarude
 Regieleki

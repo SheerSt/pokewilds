@@ -1,0 +1,203 @@
+1, enemy_healthbar_gone
+2, enemy_healthbar_gone screenshot:0,0,160,144
+3, enemy_healthbar_gone
+4, enemy_healthbar_gone
+5, enemy_healthbar_gone
+6, enemy_healthbar_gone
+7, enemy_healthbar_gone
+8, enemy_healthbar_gone
+9, enemy_healthbar_gone
+10, enemy_healthbar_gone
+11, enemy_healthbar_gone
+12, enemy_healthbar_gone row_displace:0.5
+13, enemy_healthbar_gone row_displace:0.5 darken_effect2
+14, enemy_healthbar_gone row_displace:0.5 darken_effect2
+15, enemy_healthbar_gone row_displace:0.5 darken_effect2
+16, enemy_healthbar_gone row_displace:0.5 darken_effect3
+17, enemy_healthbar_gone row_displace:0.5 darken_effect3
+18, enemy_healthbar_gone row_displace:0.5 darken_effect3
+19, enemy_healthbar_gone row_displace:0.5 darken_effect2
+20, enemy_healthbar_gone row_displace:0.5 darken_effect2
+21, enemy_healthbar_gone row_displace:0.5 darken_effect2
+22, enemy_healthbar_gone row_displace:0.5 darken_effect2
+23, enemy_healthbar_gone row_displace:0.5
+24, enemy_healthbar_gone row_displace:0.5
+25, enemy_healthbar_gone row_displace:0.5
+26, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+27, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+28, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+29, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+30, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+31, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+32, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+33, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+34, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+35, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+36, enemy_healthbar_gone row_displace:0.5
+37, enemy_healthbar_gone row_displace:0.5
+38, enemy_healthbar_gone row_displace:0.5
+39, enemy_healthbar_gone row_displace:0.5 darken_effect2
+40, enemy_healthbar_gone row_displace:0.5 darken_effect2
+41, enemy_healthbar_gone row_displace:0.5 darken_effect2
+42, enemy_healthbar_gone row_displace:0.5 darken_effect2
+43, enemy_healthbar_gone row_displace:0.5 darken_effect3
+44, enemy_healthbar_gone row_displace:0.5 darken_effect3
+45, enemy_healthbar_gone row_displace:0.5 darken_effect3
+46, enemy_healthbar_gone row_displace:0.5 darken_effect2
+47, enemy_healthbar_gone row_displace:0.5 darken_effect2
+48, enemy_healthbar_gone row_displace:0.5 darken_effect2
+49, enemy_healthbar_gone row_displace:0.5
+50, enemy_healthbar_gone row_displace:0.5
+51, enemy_healthbar_gone row_displace:0.5
+52, enemy_healthbar_gone row_displace:0.5
+53, enemy_healthbar_gone row_displace:0.5
+54, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+55, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+56, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+57, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+58, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+59, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+60, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+61, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+62, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+63, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+64, enemy_healthbar_gone row_displace:0.5
+65, enemy_healthbar_gone row_displace:0.5
+66, enemy_healthbar_gone row_displace:0.5
+67, enemy_healthbar_gone row_displace:0.5
+68, enemy_healthbar_gone row_displace:0.5 darken_effect2
+69, enemy_healthbar_gone row_displace:0.5 darken_effect2
+70, enemy_healthbar_gone row_displace:0.5 darken_effect2
+71, enemy_healthbar_gone row_displace:0.5 darken_effect3
+72, enemy_healthbar_gone row_displace:0.5 darken_effect3
+73, enemy_healthbar_gone row_displace:0.5 darken_effect3
+74, enemy_healthbar_gone row_displace:0.5 darken_effect3
+75, enemy_healthbar_gone row_displace:0.5 darken_effect2
+76, enemy_healthbar_gone row_displace:0.5 darken_effect2
+77, enemy_healthbar_gone row_displace:0.5 darken_effect2
+78, enemy_healthbar_gone row_displace:0.5
+79, enemy_healthbar_gone row_displace:0.5
+80, enemy_healthbar_gone row_displace:0.5
+81, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+82, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+83, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+84, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+85, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+86, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+87, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+88, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+89, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+90, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+91, enemy_healthbar_gone row_displace:0.5
+92, enemy_healthbar_gone row_displace:0.5
+93, enemy_healthbar_gone row_displace:0.5
+94, enemy_healthbar_gone row_displace:0.5 darken_effect2
+95, enemy_healthbar_gone row_displace:0.5 darken_effect2
+96, enemy_healthbar_gone row_displace:0.5 darken_effect2
+97, enemy_healthbar_gone row_displace:0.5 darken_effect3
+98, enemy_healthbar_gone row_displace:0.5 darken_effect3
+99, enemy_healthbar_gone row_displace:0.5 darken_effect3
+100, enemy_healthbar_gone row_displace:0.5 darken_effect2
+101, enemy_healthbar_gone row_displace:0.5 darken_effect2
+102, enemy_healthbar_gone row_displace:0.5 darken_effect2
+103, enemy_healthbar_gone row_displace:0.5
+104, enemy_healthbar_gone row_displace:0.5
+105, enemy_healthbar_gone row_displace:0.5
+106, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+107, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+108, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+109, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+110, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+111, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+112, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+113, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+114, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+115, enemy_healthbar_gone row_displace:0.5
+116, enemy_healthbar_gone row_displace:0.5
+117, enemy_healthbar_gone row_displace:0.5
+118, enemy_healthbar_gone row_displace:0.5 darken_effect2
+119, enemy_healthbar_gone row_displace:0.5 darken_effect2
+120, enemy_healthbar_gone row_displace:0.5 darken_effect2
+121, enemy_healthbar_gone row_displace:0.5 darken_effect3
+122, enemy_healthbar_gone row_displace:0.5 darken_effect3
+123, enemy_healthbar_gone row_displace:0.5 darken_effect3
+124, enemy_healthbar_gone row_displace:0.5 darken_effect2
+125, enemy_healthbar_gone row_displace:0.5 darken_effect2
+126, enemy_healthbar_gone row_displace:0.5 darken_effect2
+127, enemy_healthbar_gone row_displace:0.5
+128, enemy_healthbar_gone row_displace:0.5
+129, enemy_healthbar_gone row_displace:0.5
+130, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+131, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+132, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+133, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+134, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+135, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+136, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+137, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+138, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+139, enemy_healthbar_gone row_displace:0.5
+140, enemy_healthbar_gone row_displace:0.5
+141, enemy_healthbar_gone row_displace:0.5
+142, enemy_healthbar_gone row_displace:0.5 darken_effect2
+143, enemy_healthbar_gone row_displace:0.5 darken_effect2
+144, enemy_healthbar_gone row_displace:0.5 darken_effect2
+145, enemy_healthbar_gone row_displace:0.5 darken_effect3
+146, enemy_healthbar_gone row_displace:0.5 darken_effect3
+147, enemy_healthbar_gone row_displace:0.5 darken_effect3
+148, enemy_healthbar_gone row_displace:0.5 darken_effect2
+149, enemy_healthbar_gone row_displace:0.5 darken_effect2
+150, enemy_healthbar_gone row_displace:0.5 darken_effect2
+151, enemy_healthbar_gone row_displace:0.5
+152, enemy_healthbar_gone row_displace:0.5
+153, enemy_healthbar_gone row_displace:0.5
+154, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+155, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+156, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+157, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+158, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+159, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+160, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+161, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+162, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+163, enemy_healthbar_gone row_displace:0.5
+164, enemy_healthbar_gone row_displace:0.5
+165, enemy_healthbar_gone row_displace:0.5
+166, enemy_healthbar_gone row_displace:0.5 darken_effect2
+167, enemy_healthbar_gone row_displace:0.5 darken_effect2
+168, enemy_healthbar_gone row_displace:0.5 darken_effect2
+169, enemy_healthbar_gone row_displace:0.5 darken_effect3
+170, enemy_healthbar_gone row_displace:0.5 darken_effect3
+171, enemy_healthbar_gone row_displace:0.5 darken_effect3
+172, enemy_healthbar_gone row_displace:0.5 darken_effect2
+173, enemy_healthbar_gone row_displace:0.5 darken_effect2
+174, enemy_healthbar_gone row_displace:0.5 darken_effect2
+175, enemy_healthbar_gone row_displace:0.5
+176, enemy_healthbar_gone row_displace:0.5
+177, enemy_healthbar_gone row_displace:0.5
+178, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+179, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+180, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+181, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+182, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+183, enemy_healthbar_gone row_displace:0.5 lighten_effect2
+184, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+185, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+186, enemy_healthbar_gone row_displace:0.5 lighten_effect1
+187, enemy_healthbar_gone row_displace:0.5
+188, enemy_healthbar_gone row_displace:0.5
+189, enemy_healthbar_gone
+190, enemy_healthbar_gone darken_effect2
+191, enemy_healthbar_gone darken_effect2
+192, enemy_healthbar_gone darken_effect2
+193, enemy_healthbar_gone darken_effect3
+194, enemy_healthbar_gone darken_effect3
+195, enemy_healthbar_gone darken_effect3
+196, enemy_healthbar_gone
+197, enemy_healthbar_gone
+198, enemy_healthbar_gone
+199, enemy_healthbar_gone
+200, enemy_healthbar_gone
+201, enemy_healthbar_gone
+202, enemy_healthbar_gone
+203, enemy_healthbar_gone

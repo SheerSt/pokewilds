@@ -31,9 +31,11 @@ defense curl
 disable
 dizzy punch
 double team
+double edge
 double kick
 doubleslap
 dragonbreath
+dragon rage
 drill peck
 dynamicpunch
 earthquake
@@ -46,6 +48,7 @@ false swipe
 fire blast
 fire punch
 fire spin
+flame wheel
 flamethrower
 flash
 fury attack
@@ -74,15 +77,18 @@ kinesis
 leech life
 leer
 lick
+light screen
 lovely kiss
 low kick
 mach punch
+mean look
 meditate
 mega drain
-mega horn
+megahorn
 mega kick
 mega punch
 metal claw
+metronome
 milk drink
 minimize
 moonlight
@@ -91,7 +97,7 @@ mud slap
 night shade
 octazooka
 outrage
-payday
+pay day
 peck
 pin missile
 poison gas
@@ -110,11 +116,14 @@ rapid spin
 razor leaf
 razor wind
 recover
+reflect
 return
+roar
 rock slide
 rock smash
 rock throw
 rolling kick
+rollout
 sacred fire
 sand attack
 scary face
@@ -136,6 +145,7 @@ smokescreen
 softboiled
 sonicboom
 spark
+spider web
 spike cannon
 splash
 spore
@@ -157,6 +167,7 @@ synthesis
 tackle
 tail whip
 take down
+teleport
 thief
 thunder
 thunder punch
@@ -165,6 +176,7 @@ thundershock
 thunderwave
 toxic
 tri attack
+twineedle
 twister
 vicegrip
 vine whip
@@ -172,6 +184,7 @@ vital throw
 water gun
 waterfall
 whirlpool
+whirlwind
 wing attack
 withdraw
 wrap

@@ -71,7 +71,7 @@ Snover:
 Mimikyu:
  db i, 317
  db found, true
- db flip, true
+ db flip, false
 
 Corphish:
  db i, 318
@@ -761,7 +761,7 @@ Manaphy:
 Happiny:
  db i, 457
  db found, true
- db flip, false
+ db flip, true
 
 Heracross:
  db i, 458
@@ -997,3 +997,393 @@ Clefairy:
  db i, 504
  db found, true
  db flip, true
+
+Croagunk:
+ db i, 505
+ db found, true
+ db flip, true
+
+Cramorant:
+ db i, 506
+ db found, true
+ db flip, true
+
+Electrode:
+ db i, 507
+ db found, true
+ db flip, false
+
+Popplio:
+ db i, 508
+ db found, true
+ db flip, false
+
+Froakie:
+ db i, 509
+ db found, true
+ db flip, false
+
+Frogadier:
+ db i, 510
+ db found, true
+ db flip, false
+
+Greninja:
+ db i, 511
+ db found, true
+ db flip, false
+
+Stantler:
+ db i, 512
+ db found, true
+ db flip, true
+
+Kubfu:
+ db i, 513
+ db found, true
+ db flip, true
+
+Toxel:
+ db i, 514
+ db found, true
+ db flip, true
+
+Seel:
+ db i, 515
+ db found, true
+ db flip, false
+
+Hawlucha:
+ db i, 516
+ db found, true
+ db flip, true
+
+Dewgong:
+ db i, 517
+ db found, true
+ db flip, false
+
+Grubbin:
+ db i, 518
+ db found, true
+ db flip, true
+
+Charjabug:
+ db i, 519
+ db found, true
+ db flip, false
+
+Vikavolt:
+ db i, 520
+ db found, true
+ db flip, false
+
+Minior:
+ db i, 521
+ db found, true
+ db flip, false
+
+Treecko:
+ db i, 522
+ db found, true
+ db flip, true
+
+Torchic:
+ db i, 523
+ db found, true
+ db flip, true
+
+Zorua:
+ db i, 524
+ db found, true
+ db flip, true
+
+Venomoth:
+ db i, 525
+ db found, true
+ db flip, false
+
+Bewear:
+ db i, 526
+ db found, true
+ db flip, true
+
+Venonat:
+ db i, 527
+ db found, true
+ db flip, true
+
+Stufful:
+ db i, 528
+ db found, true
+ db flip, true
+
+Mawile:
+ db i, 529
+ db found, true
+ db flip, true
+
+Zoroark:
+ db i, 530
+ db found, true
+ db flip, true
+
+Latias:
+ db i, 531
+ db found, true
+ db flip, false
+
+Latios:
+ db i, 532
+ db found, true
+ db flip, false
+
+Shiinotic:
+ db i, 533
+ db found, true
+ db flip, true
+
+Liepard:
+ db i, 534
+ db found, true
+ db flip, true
+
+Meltan:
+ db i, 535
+ db found, true
+ db flip, false
+
+Piplup:
+ db i, 536
+ db found, true
+ db flip, true
+
+Prinplup:
+ db i, 537
+ db found, true
+ db flip, true
+
+Empoleon:
+ db i, 538
+ db found, true
+ db flip, true
+
+Mudkip:
+ db i, 539
+ db found, true
+ db flip, false
+
+Marshtomp:
+ db i, 540
+ db found, true
+ db flip, false
+
+Swampert:
+ db i, 541
+ db found, true
+ db flip, false
+
+Igglybuff:
+ db i, 542
+ db found, true
+ db flip, true
+
+Jigglypuff:
+ db i, 543
+ db found, true
+ db flip, true
+
+Wigglytuff:
+ db i, 544
+ db found, true
+ db flip, true
+
+Gothita:
+ db i, 545
+ db found, true
+ db flip, true
+
+Gothorita:
+ db i, 546
+ db found, true
+ db flip, true
+
+Gothitelle:
+ db i, 547
+ db found, true
+ db flip, true
+
+Scorbunny:
+ db i, 548
+ db found, true
+ db flip, true
+
+Raboot:
+ db i, 549
+ db found, true
+ db flip, true
+
+Cinderace:
+ db i, 550
+ db found, true
+ db flip, true
+
+Cleffa:
+ db i, 551
+ db found, true
+ db flip, true
+
+Lickitung:
+ db i, 552
+ db found, true
+ db flip, true
+
+Lickilicky:
+ db i, 553
+ db found, true
+ db flip, true
+
+Magnemite:
+ db i, 554
+ db found, true
+ db flip, false
+
+Magneton:
+ db i, 555
+ db found, true
+ db flip, false
+
+Magnezone:
+ db i, 556
+ db found, true
+ db flip, false
+
+Chinchou:
+ db i, 557
+ db found, true
+ db flip, true
+
+Lanturn:
+ db i, 558
+ db found, true
+ db flip, true
+
+Durant:
+ db i, 559
+ db found, true
+ db flip, false
+
+Morelull:
+ db i, 560
+ db found, true
+ db flip, false
+
+Stunfisk:
+ db i, 561
+ db found, true
+ db flip, false
+
+Drampa:
+ db i, 562
+ db found, true
+ db flip, false
+
+Oranguru:
+ db i, 563
+ db found, true
+ db flip, false
+
+Audino:
+ db i, 564
+ db found, true
+ db flip, true
+
+Decidueye:
+ db i, 565
+ db found, true
+ db flip, false
+
+Dartrix:
+ db i, 566
+ db found, true
+ db flip, false
+
+Heatmor:
+ db i, 567
+ db found, true
+ db flip, true
+
+Hypno:
+ db i, 568
+ db found, true
+ db flip, true
+
+Wobbuffet:
+ db i, 569
+ db found, true
+ db flip, true
+
+Dunsparce:
+ db i, 570
+ db found, true
+ db flip, false
+
+Agrimer:
+ db i, 571
+ db found, true
+ db flip, false
+
+Amuk:
+ db i, 572
+ db found, true
+ db flip, false
+
+Combusken:
+ db i, 573
+ db found, true
+ db flip, true
+
+Blaziken:
+ db i, 574
+ db found, true
+ db flip, true
+
+Trubbish:
+ db i, 575
+ db found, true
+ db flip, true
+
+Grovyle:
+ db i, 576
+ db found, true
+ db flip, true
+
+Sceptile:
+ db i, 577
+ db found, true
+ db flip, true
+
+Gfarfetch_d:
+ db i, 578
+ db found, true
+ db flip, true
+
+Swadloon:
+ db i, 579
+ db found, true
+ db flip, false
+
+Leavanny:
+ db i, 580
+ db found, true
+ db flip, false
+
+Sirfetch_d:
+ db i, 581
+ db found, true
+ db flip, true
+
+Brionne:
+ db i, 582
+ db found, true
+ db flip, false

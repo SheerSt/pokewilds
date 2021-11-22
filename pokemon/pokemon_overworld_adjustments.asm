@@ -1397,3 +1397,23 @@ Smeargle:
  db i, 584
  db found, true
  db flip, true
+
+Slurpuff:
+ db i, 585
+ db found, true
+ db flip, true
+
+Krabby:
+ db i, 586
+ db found, true
+ db flip, false
+
+Wurmple:
+ db i, 587
+ db found, true
+ db flip, false
+
+Yamask:
+ db i, 588
+ db found, true
+ db flip, false

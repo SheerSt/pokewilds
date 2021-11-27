@@ -1417,3 +1417,8 @@ Yamask:
  db i, 588
  db found, true
  db flip, false
+
+Sinistea:
+ db i, 589
+ db found, true
+ db flip, false

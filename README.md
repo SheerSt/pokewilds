@@ -164,7 +164,8 @@ Player sprites:
  - Hilda overworld sprites - EeVeeEe on discord
  - Rosa, Chase overworld sprites - Internet_Goblin on discord
  - Calem, Serena, Gloria overworld sprites - betsybugaboo on discord
- - Gloria, May, Chase, Red, Leaf back sprites - Gargoyle on discord
+ - May, Chase, Red, Leaf back sprites - Gargoyle on discord
+ - Gloria back sprite - Gargoyle on discord and LunaMaddalena on deviantart
  - Mint back sprite - LunaMaddalena on deviantart (edit by Badsy the Edgecat on discord)
  - Mark back sprite - LunaMaddalena on deviantart (edit by LuxBeacon on discord)
  - Lunick, Summer, Kellyn overworld and back sprites - LuxBeacon on discord

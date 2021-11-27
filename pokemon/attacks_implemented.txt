@@ -17,6 +17,7 @@ bone rush
 bonemerang
 bubble
 bubblebeam
+charm
 clamp
 comet punch
 confuse ray

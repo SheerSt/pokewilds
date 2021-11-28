@@ -29,6 +29,7 @@ crunch
 curse
 cut
 defense curl
+dig
 disable
 dizzy punch
 double team
@@ -52,6 +53,7 @@ fire spin
 flame wheel
 flamethrower
 flash
+fly
 fury attack
 fury swipes
 giga drain
@@ -126,6 +128,7 @@ rock throw
 rolling kick
 rollout
 sacred fire
+safeguard
 sand attack
 scary face
 scratch
@@ -136,6 +139,7 @@ shadow ball
 sharpen
 sing
 sketch
+sky attack
 slam
 slash
 sleep powder
@@ -144,6 +148,7 @@ sludge bomb
 smog
 smokescreen
 softboiled
+solarbeam
 sonicboom
 spark
 spider web

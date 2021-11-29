@@ -33,11 +33,11 @@
 33, player_healthbar_gone player_translate_x:4
 34, player_healthbar_gone screen_translate_y:1
 35, player_healthbar_gone player_translate_x:8
-36, player_translate_x:10
+36, player_healthbar_gone player_translate_x:10
 37, player_healthbar_gone player_translate_x:8
-38, player_translate_x:6
+38, player_healthbar_gone player_translate_x:6
 39, player_healthbar_gone player_translate_x:4
-40, player_translate_x:2
+40, player_healthbar_gone player_translate_x:2
 41, player_healthbar_gone
 42, player_healthbar_gone screen_translate_y:1
 43, player_healthbar_gone

@@ -708,7 +708,7 @@ GoldeenEggMoves:
 	db SIGNAL_BEAM
 	db ACUPRESSURE
 
-Mr. mimeEggMoves:
+MrmimeEggMoves:
 	db FUTURE_SIGHT
 	db HYPNOSIS
 	db MIMIC

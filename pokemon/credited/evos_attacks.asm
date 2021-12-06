@@ -2488,7 +2488,7 @@ StarmieEvosAttacks:
 	db 1, CONFUSE_RAY
 	db 0 ; no more level-up moves
 
-Mr. mimeEvosAttacks:
+MrmimeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, QUICK_GUARD
 	db 1, WIDE_GUARD
@@ -17385,7 +17385,7 @@ Sirfetch_dEvosAttacks:
 	db 70, METEOR_ASSAULT
 	db 0 ; no more level-up moves
 
-Mr. rimeEvosAttacks:
+MrrimeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, FAKE_TEARS
 	db 1, SLACK_OFF
@@ -18084,4 +18084,29 @@ Gfarfetch_dEvosAttacks:
 	db 55, LEAF_BLADE
 	db 60, AGILITY
 	db 65, BRAVE_BIRD
+	db 0 ; no more level-up moves
+
+GmrmimeEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, QUICK_GUARD
+	db 1, WIDE_GUARD
+	db 1, POWER_SWAP
+	db 1, GUARD_SWAP
+	db 1, POUND
+	db 1, COPYCAT
+	db 1, BATON_PASS
+	db 1, ENCORE
+	db 12, CONFUSION
+	db 16, ROLE_PLAY
+	db 20, PROTECT
+	db 24, RECYCLE
+	db 28, PSYBEAM
+	db 32, MIMIC
+	db 36, LIGHT_SCREEN
+	db 36, REFLECT
+	db 36, SAFEGUARD
+	db 40, SUCKER_PUNCH
+	db 44, DAZZLING_GLEAM
+	db 48, PSYCHIC
+	db 52, TEETER_DANCE
 	db 0 ; no more level-up moves

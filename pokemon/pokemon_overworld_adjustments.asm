@@ -1422,3 +1422,178 @@ Sinistea:
  db i, 589
  db found, true
  db flip, false
+
+Flabebe:
+ db i, 590
+ db found, true
+ db flip, false
+
+Floette:
+ db i, 591
+ db found, true
+ db flip, false
+
+Florges:
+ db i, 592
+ db found, true
+ db flip, false
+
+Sliggoo:
+ db i, 593
+ db found, true
+ db flip, false
+
+Goodra:
+ db i, 594
+ db found, true
+ db flip, true
+
+Granbull:
+ db i, 595
+ db found, true
+ db flip, false
+
+Nincada:
+ db i, 596
+ db found, true
+ db flip, false
+
+Ninjask:
+ db i, 597
+ db found, true
+ db flip, false
+
+Shedinja:
+ db i, 598
+ db found, true
+ db flip, false
+
+Skitty:
+ db i, 599
+ db found, true
+ db flip, false
+
+Delcatty:
+ db i, 600
+ db found, true
+ db flip, false
+
+Slakoth:
+ db i, 601
+ db found, true
+ db flip, false
+
+Vigoroth:
+ db i, 602
+ db found, true
+ db flip, false
+
+Slaking:
+ db i, 603
+ db found, true
+ db flip, false
+
+Cascoon:
+ db i, 604
+ db found, true
+ db flip, false
+
+Dustox:
+ db i, 605
+ db found, true
+ db flip, false
+
+Silcoon:
+ db i, 606
+ db found, true
+ db flip, false
+
+Beautifly:
+ db i, 607
+ db found, true
+ db flip, false
+
+Spoink:
+ db i, 608
+ db found, true
+ db flip, false
+
+Grumpig:
+ db i, 609
+ db found, true
+ db flip, true
+
+Urshifu_singlestrike:
+ db i, 610
+ db found, true
+ db flip, true
+
+Gmrmime:
+ db i, 611
+ db found, true
+ db flip, true
+
+Mrrime:
+ db i, 612
+ db found, true
+ db flip, false
+
+Urshifu_multistrike:
+ db i, 613
+ db found, true
+ db flip, true
+
+Gossifleur:
+ db i, 614
+ db found, true
+ db flip, false
+
+Eldegoss:
+ db i, 615
+ db found, true
+ db flip, false
+
+Copperajah:
+ db i, 616
+ db found, true
+ db flip, true
+
+Seedot:
+ db i, 617
+ db found, true
+ db flip, true
+
+Celebi:
+ db i, 618
+ db found, true
+ db flip, false
+
+Aegislash_sword:
+ db i, 619
+ db found, true
+ db flip, false
+
+Doublade:
+ db i, 620
+ db found, true
+ db flip, false
+
+Venipede:
+ db i, 621
+ db found, true
+ db flip, false
+
+Aegislash:
+ db i, 622
+ db found, true
+ db flip, false
+
+Dubwool:
+ db i, 623
+ db found, true
+ db flip, false
+
+Scolipede:
+ db i, 624
+ db found, true
+ db flip, true

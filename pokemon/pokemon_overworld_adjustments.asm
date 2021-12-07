@@ -1607,3 +1607,13 @@ Lunala:
  db i, 626
  db found, true
  db flip, false
+
+Whirlipede:
+ db i, 627
+ db found, true
+ db flip, false
+
+Spinda:
+ db i, 628
+ db found, true
+ db flip, false

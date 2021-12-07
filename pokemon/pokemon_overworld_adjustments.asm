@@ -1597,3 +1597,13 @@ Scolipede:
  db i, 624
  db found, true
  db flip, true
+
+Runerigus:
+ db i, 625
+ db found, true
+ db flip, false
+
+Lunala:
+ db i, 626
+ db found, true
+ db flip, false

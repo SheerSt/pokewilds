@@ -1617,3 +1617,38 @@ Spinda:
  db i, 628
  db found, true
  db flip, false
+
+Calyrex:
+ db i, 629
+ db found, true
+ db flip, false
+
+Swoobat:
+ db i, 630
+ db found, true
+ db flip, false
+
+Woobat:
+ db i, 631
+ db found, true
+ db flip, false
+
+Toxtricity-lowkey:
+ db i, 632
+ db found, true
+ db flip, true
+
+Toxtricity:
+ db i, 633
+ db found, true
+ db flip, true
+
+Chesnaught:
+ db i, 634
+ db found, true
+ db flip, true
+
+Quilladin:
+ db i, 635
+ db found, true
+ db flip, true

@@ -153,6 +153,7 @@ sonicboom
 spark
 spider web
 spike cannon
+spikes
 splash
 spore
 steel wing

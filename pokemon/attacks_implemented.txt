@@ -145,6 +145,7 @@ solarbeam
 sonicboom
 spark
 spike cannon
+spikes
 splash
 spore
 steel wing

@@ -436,7 +436,7 @@ Skuntank
 Bronzor
 Bronzong
 Bonsly
-Mime Jr.
+Mime_Jr
 Happiny
 Chatot
 Spiritomb
@@ -863,7 +863,7 @@ Obstagoon
 Perrserker
 Cursola
 Sirfetch'd
-Mr__Rime
+MrRime
 Runerigus
 Milcery
 Alcremie

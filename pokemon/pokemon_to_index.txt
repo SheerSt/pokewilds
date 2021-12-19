@@ -80,7 +80,7 @@ Slowpoke
 Slowbro
 Magnemite
 Magneton
-Farfetch’d
+Farfetch_d
 Doduo
 Dodrio
 Seel
@@ -769,7 +769,7 @@ Golisopod
 Sandygast
 Palossand
 Pyukumuku
-Type: Null
+Type_Null
 Silvally
 Minior
 Komala
@@ -862,7 +862,7 @@ Grimmsnarl
 Obstagoon
 Perrserker
 Cursola
-Sirfetch'd
+Sirfetch_d
 MrRime
 Runerigus
 Milcery
@@ -895,6 +895,4 @@ Regieleki
 Regidrago
 Glastrier
 Spectrier
-Calyrex
-Calyrex
 Calyrex

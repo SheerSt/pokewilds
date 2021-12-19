@@ -1,0 +1,21 @@
+	db INTELEON ; 818
+
+	db  70,  85,  65,  120,  125,  65
+  ;  hp  atk  def  spd sat sdf
+
+	db WATER, WATER ; type
+	db 45 ; catch rate
+	db 265 ; base exp
+	db NO_ITEM, NO_ITEM
+	db GENDER_F12_5 ; gender ratio
+	db 100 ; unknown 1
+	db 21 ; step cycles to hatch
+	db 5 ; unknown 2
+	INCBIN "gfx/pokemon/inteleon/front.dimensions
+	dw NULL, NULL ; unused (beta front/back pics)
+	db GROWTH_MEDIUM_SLOW ; growth rate
+	dn EGG_WATER1, EGG_FIELD ; egg groups
+
+	; tm/hm learnset
+	tmhm U_TURN, DARK_PULSE, FLING, BOUNCE, ACROBATICS, SHADOW_BALL, BLIZZARD, ICE_BEAM, ICY_WIND, GIGA_IMPACT, HYPER_BEAM, FACADE, ROUND, SNORE, ATTRACT, PROTECT, SAFEGUARD, SLEEP_TALK, SUBSTITUTE, SWORDS_DANCE, WORK_UP, LIGHT_SCREEN, REFLECT, REST, HYDRO_CANNON, SURF, LIQUIDATION, DIVE, SCALD, WATER_PLEDGE, WATERFALL, RAIN_DANCE, ENDURE, FOCUS_ENERGY, SWIFT, MUD_SHOT, AGILITY, BATON_PASS, MUDDY_WATER, WHIRLPOOL, WEATHER_BALL, HYDRO_PUMP, BREAKING_SWIPE, ICICLE_SPEAR, METRONOME, SCALE_SHOT, AIR_SLASH
+	; end

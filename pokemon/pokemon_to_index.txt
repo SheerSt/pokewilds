@@ -80,7 +80,7 @@ Slowpoke
 Slowbro
 Magnemite
 Magneton
-Farfetch’d
+Farfetch_d
 Doduo
 Dodrio
 Seel
@@ -862,7 +862,7 @@ Grimmsnarl
 Obstagoon
 Perrserker
 Cursola
-Sirfetch'd
+Sirfetch_d
 MrRime
 Runerigus
 Milcery

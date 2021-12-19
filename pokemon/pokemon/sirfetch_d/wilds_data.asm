@@ -1,4 +1,4 @@
-    db SIRFETCH’D ; Display name (DEFAULT for default name).
+    db SIRFETCH'D ; Display name (DEFAULT for default name).
 
     db 865 ; Dex number.
     db <Only Farfetch'd that have survived many battles can attain this evolution. When this Pokémon's leek withers, it will retire from combat.> ; Dex entry.

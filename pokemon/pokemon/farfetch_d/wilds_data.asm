@@ -1,4 +1,4 @@
-    db FARFETCH’D ; Display name (DEFAULT for default name).
+    db FARFETCH'D ; Display name (DEFAULT for default name).
 
     db 83 ; Dex number.
     db <The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.> ; Dex entry.

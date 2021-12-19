@@ -1,4 +1,4 @@
-    db MRMIME ; Display name (DEFAULT for default name).
+    db MR.MIME ; Display name (DEFAULT for default name).
 
     db 122 ; Dex number.
     db <Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pokémon can kick up to use as a barrier.> ; Dex entry.

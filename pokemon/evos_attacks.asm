@@ -18021,3 +18021,94 @@ AmarowakEvosAttacks:
 	db 54, THRASH
 	db 60, FLARE_BLITZ
 	db 0 ; no more level-up moves
+
+
+
+AgrimerEvosAttacks:
+	db EVOLVE_LEVEL, 38, AMUK
+	db 0 ; no more evolutions
+	db 1, POUND
+	db 1, POISON_GAS
+	db 4, HARDEN
+	db 7, BITE
+	db 12, DISABLE
+	db 15, ACID_SPRAY
+	db 18, POISON_FANG
+	db 21, MINIMIZE
+	db 26, FLING
+	db 29, KNOCK_OFF
+	db 32, CRUNCH
+	db 37, SCREECH
+	db 40, GUNK_SHOT
+	db 43, ACID_ARMOR
+	db 46, BELCH
+	db 48, MEMENTO
+	db 0 ; no more level-up moves
+
+AmukEvosAttacks:
+	db 0 ; no more evolutions
+	db 0, VENOM_DRENCH
+	db 1, VENOM_DRENCH
+	db 1, POUND
+	db 1, POISON_GAS
+	db 1, HARDEN
+	db 1, MUD_SLAP
+	db 4, HARDEN
+	db 7, BITE
+	db 12, DISABLE
+	db 15, ACID_SPRAY
+	db 18, POISON_FANG
+	db 21, MINIMIZE
+	db 26, FLING
+	db 29, KNOCK_OFF
+	db 32, CRUNCH
+	db 37, SCREECH
+	db 40, GUNK_SHOT
+	db 46, ACID_ARMOR
+	db 52, BELCH
+	db 57, MEMENTO
+	db 0 ; no more level-up moves
+
+Gfarfetch_dEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, PECK
+	db 1, SAND_ATTACK
+	db 5, LEER
+	db 10, FURY_CUTTER
+	db 15, CUT
+	db 20, AERIAL_ACE
+	db 25, AIR_CUTTER
+	db 30, KNOCK_OFF
+	db 35, FALSE_SWIPE
+	db 40, SLASH
+	db 45, SWORDS_DANCE
+	db 50, AIR_SLASH
+	db 55, LEAF_BLADE
+	db 60, AGILITY
+	db 65, BRAVE_BIRD
+	db 0 ; no more level-up moves
+
+GmrmimeEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, QUICK_GUARD
+	db 1, WIDE_GUARD
+	db 1, POWER_SWAP
+	db 1, GUARD_SWAP
+	db 1, POUND
+	db 1, COPYCAT
+	db 1, BATON_PASS
+	db 1, ENCORE
+	db 12, CONFUSION
+	db 16, ROLE_PLAY
+	db 20, PROTECT
+	db 24, RECYCLE
+	db 28, PSYBEAM
+	db 32, MIMIC
+	db 36, LIGHT_SCREEN
+	db 36, REFLECT
+	db 36, SAFEGUARD
+	db 40, SUCKER_PUNCH
+	db 44, DAZZLING_GLEAM
+	db 48, PSYCHIC
+	db 52, TEETER_DANCE
+	db 0 ; no more level-up moves

@@ -1,4 +1,4 @@
-    db NIDORAN ; Display name (DEFAULT for default name).
+    db NIDORAN{ ; Display name (DEFAULT for default name).
 
     db 32 ; Dex number.
     db <Nidoran has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.> ; Dex entry.

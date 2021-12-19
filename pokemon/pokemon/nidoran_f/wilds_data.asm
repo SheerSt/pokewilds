@@ -1,4 +1,4 @@
-    db NIDORAN ; Display name (DEFAULT for default name).
+    db NIDORAN} ; Display name (DEFAULT for default name).
 
     db 29 ; Dex number.
     db <Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.> ; Dex entry.

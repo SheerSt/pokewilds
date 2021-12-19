@@ -769,7 +769,7 @@ Golisopod
 Sandygast
 Palossand
 Pyukumuku
-Type: Null
+Type_Null
 Silvally
 Minior
 Komala

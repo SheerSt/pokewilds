@@ -16,20 +16,20 @@
 
     ; Field moves (0 = unable, 1 = able, 2 = force unable).
 
-    db 0 ; Build (always able on FIGHTING).
+    db 0 ; Dig (always able on GROUND).
+    db 0 ; Power (always able on ELECTRIC).
     db 0 ; Cut (always able on GRASS).
     db 0 ; Smash (always able on ROCK).
-    db 0 ; Dig (always able on GROUND).
+    db 0 ; Surf (always able on final WATER evolutions).
+    db 0 ; Flash (always able on FIRE).
+    db 0 ; Build (always able on FIGHTING).
+    db 0 ; Charm (always able on FAIRY).
+    db 0 ; Repel (always able on POISON).
+    db 0 ; Attack (always able on DARK).
+    db 0 ; Teleport (always able on PSYCHIC).
+    db 0 ; Headbutt.
     db 0 ; Ride.
     db 0 ; Fly.
-    db 0 ; Surf (always able on final WATER evolutions).
-    db 0 ; Teleport (always able on PSYCHIC).
-    db 0 ; Flash (always able on FIRE).
-    db 0 ; Repel (always able on POISON).
-    db 0 ; Power (always able on ELECTRIC).zx
-    db 0 ; Headbutt.
-    db 0 ; Attack (always able on DARK).
-    db 0 ; Charm (always able on FAIRY).
     db 0 ; Paint.
 
     ; Overworld properties (0 = no, 1 = yes).
@@ -41,7 +41,7 @@
 
     ; Overworld sprite properties.
 
-    db 1 ; Flip third frame of walking animation? (1 = yes, 0 = no)
+    db 0 ; Flip third frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Flip fourth frame of walking animation? (1 = yes, 0 = no)
-    db 0 ; Can move in the overworld (0 = can nove ; 1 = can't move).
+    db 0 ; Can move in the overworld (0 = can move ; 1 = can't move).
     db 0 ; Water offset for OW sprites, in pixels.

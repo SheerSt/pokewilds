@@ -1652,3 +1652,103 @@ Quilladin:
  db i, 635
  db found, true
  db flip, true
+
+Tepig:
+ db i, 636
+ db found, true
+ db flip, true
+
+Stoutland:
+ db i, 637
+ db found, true
+ db flip, true
+
+Herdier:
+ db i, 638
+ db found, true
+ db flip, true
+
+Lillipup:
+ db i, 639
+ db found, true
+ db flip, true
+
+Snivy:
+ db i, 640
+ db found, true
+ db flip, true
+
+Fomantis:
+ db i, 641
+ db found, true
+ db flip, false
+
+Budew:
+ db i, 642
+ db found, true
+ db flip, true
+
+Roselia:
+ db i, 643
+ db found, true
+ db flip, true
+
+Roserade:
+ db i, 644
+ db found, true
+ db flip, true
+
+Joltik:
+ db i, 645
+ db found, true
+ db flip, true
+
+Galvantula:
+ db i, 646
+ db found, true
+ db flip, true
+
+Vanillite:
+ db i, 647
+ db found, true
+ db flip, false
+
+Vanillish:
+ db i, 648
+ db found, true
+ db flip, false
+
+Vanilluxe:
+ db i, 649
+ db found, true
+ db flip, false
+
+Nuzleaf:
+ db i, 650
+ db found, true
+ db flip, true
+
+Kommo-o:
+ db i, 651
+ db found, true
+ db flip, true
+
+Gulpin:
+ db i, 652
+ db found, true
+ db flip, false
+
+Swalot:
+ db i, 653
+ db found, true
+ db flip, false
+
+Pignite:
+ db i, 654
+ db found, true
+ db flip, true
+
+Obstagoon:
+ db i, 655
+ db found, true
+ db flip, true

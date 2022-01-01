@@ -1752,3 +1752,28 @@ Obstagoon:
  db i, 655
  db found, true
  db flip, true
+
+Purrloin:
+ db i, 656
+ db found, true
+ db flip, true
+
+Shelmet:
+ db i, 657
+ db found, true
+ db flip, false
+
+Accelgor:
+ db i, 658
+ db found, true
+ db flip, false
+
+Karrablast:
+ db i, 659
+ db found, true
+ db flip, true
+
+Escavalier:
+ db i, 660
+ db found, true
+ db flip, false

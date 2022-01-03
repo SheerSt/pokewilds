@@ -15,7 +15,7 @@ Character limits:
  - Items - 12 characters
  - Attacks - 12 characters
  - Field Moves - 12 characters
- - Item descriptions - 38 characters
+ - Item descriptions - 19 characters per line, 2 lines
 
 libGDX localization documentation: 
  - https://spaio.github.io/libgdx-wiki-on-pages/wiki/internationalization-and-localization

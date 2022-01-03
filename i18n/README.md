@@ -11,6 +11,10 @@ Special characters:
  - «  ->  's
  - »  ->  't
 
+Character limits:
+ - Items - 12 characters
+ - Attacks - 12 characters
+
 libGDX localization documentation: 
  - https://spaio.github.io/libgdx-wiki-on-pages/wiki/internationalization-and-localization
 

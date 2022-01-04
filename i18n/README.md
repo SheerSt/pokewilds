@@ -11,6 +11,13 @@ Special characters:
  - «  ->  's
  - »  ->  't
 
+Character limits:
+ - Items - 12 characters
+ - Attacks - 12 characters
+ - Field Moves - 12 characters
+ - Item descriptions - 19 characters per line, 2 lines
+ - Pokemon names - no limit (just use the standard localized names)
+
 libGDX localization documentation: 
  - https://spaio.github.io/libgdx-wiki-on-pages/wiki/internationalization-and-localization
 

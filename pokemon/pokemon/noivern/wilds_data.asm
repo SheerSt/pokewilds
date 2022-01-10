@@ -29,7 +29,7 @@
     db 0 ; Teleport (always able on PSYCHIC).
     db 0 ; Headbutt.
     db 0 ; Ride.
-    db 0 ; Fly.
+    db 1 ; Fly.
     db 0 ; Paint.
 
     ; Overworld properties (0 = no, 1 = yes).

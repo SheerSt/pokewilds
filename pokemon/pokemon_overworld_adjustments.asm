@@ -1777,3 +1777,48 @@ Escavalier:
  db i, 660
  db found, true
  db flip, false
+
+Polteageist:
+ db i, 661
+ db found, true
+ db flip, false
+
+Wimpod:
+ db i, 662
+ db found, true
+ db flip, false
+
+Solosis:
+ db i, 663
+ db found, true
+ db flip, false
+
+Duosion:
+ db i, 664
+ db found, true
+ db flip, false
+
+Reuniclus:
+ db i, 665
+ db found, true
+ db flip, false
+
+Servine:
+ db i, 666
+ db found, true
+ db flip, true
+
+Serperior:
+ db i, 667
+ db found, true
+ db flip, false
+
+Lurantis:
+ db i, 668
+ db found, true
+ db flip, true
+
+Staraptor:
+ db i, 669
+ db found, true
+ db flip, false

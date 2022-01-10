@@ -1,3 +1,7 @@
+# Existing Translations:
+ - **French** - Everything (credit to Charade on discord)
+ - **German** - Pokemon names only (credit to Charade on discord)
+
 # Instructions:
 
 Please ensure that your text editor is set to use utf-8 encoding when adding a translation.

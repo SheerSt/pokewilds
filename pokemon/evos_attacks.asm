@@ -485,7 +485,7 @@ RaichuEvosAttacks:
 	db 1, QUICK_ATTACK
 	db 0 ; no more level-up moves
 
-AraichuEvosAttacks:
+Raichu_alolanEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, AGILITY
 	db 1, CHARM
@@ -1647,7 +1647,7 @@ MagnetonEvosAttacks:
 	db 64, ZAP_CANNON
 	db 0 ; no more level-up moves
 
-Farfetch'dEvosAttacks:
+Farfetch_dEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 1, SAND_ATTACK
@@ -2105,7 +2105,7 @@ ExeggutorEvosAttacks:
 	db 1, LEECH_SEED
 	db 0 ; no more level-up moves
 
-AexeggutorEvosAttacks:
+Exeggutor_alolanEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, ABSORB
 	db 1, BULLET_SEED
@@ -4597,7 +4597,7 @@ CorsolaEvosAttacks:
 	db 55, MIRROR_COAT
 	db 0 ; no more level-up moves
 
-GcorsolaEvosAttacks:
+Corsola_galarianEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, HARDEN
 	db 1, TACKLE
@@ -8910,7 +8910,7 @@ BonslyEvosAttacks:
 	db 44, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
-Mime jr.EvosAttacks:
+Mime_jrEvosAttacks:
 	db EVOLVE_MOVE, MIMIC, MRMIME
 	db 0 ; no more evolutions
 	db 1, POUND
@@ -11249,7 +11249,7 @@ DarmanitanEvosAttacks:
 	db 56, SUPERPOWER
 	db 0 ; no more level-up moves
 
-DarmanitanzenEvosAttacks:
+Darmanitan_zenmodeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, BITE
 	db 1, HAMMER_ARM
@@ -11268,7 +11268,7 @@ DarmanitanzenEvosAttacks:
 	db 56, SUPERPOWER
 	db 0 ; no more level-up moves
 
-GdarumakaEvosAttacks:
+Darumaka_galarianEvosAttacks:
 	db EVOLVE_ITEM, ICE_STONE, GDARMANITAN
 	db 0 ; no more evolutions
 	db 1, POWDER_SNOW
@@ -11287,7 +11287,7 @@ GdarumakaEvosAttacks:
 	db 48, SUPERPOWER
 	db 0 ; no more level-up moves
 
-GdarmanitanEvosAttacks:
+Darmanitan_galarianEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, BITE
 	db 1, ICICLE_CRASH
@@ -11306,7 +11306,7 @@ GdarmanitanEvosAttacks:
 	db 56, SUPERPOWER
 	db 0 ; no more level-up moves
 
-GdarmanitanzenEvosAttacks:
+darmanitan_galarian_zenmodeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, BITE
 	db 1, ICICLE_CRASH
@@ -11465,7 +11465,7 @@ YamaskEvosAttacks:
 	db 52, DESTINY_BOND
 	db 0 ; no more level-up moves
 
-GyamaskEvosAttacks:
+Yamask_galarianEvosAttacks:
 	db EVOLVE_LEVEL, 30, RUNERIGUS
 	db 0 ; no more evolutions
 	db 1, ASTONISH
@@ -17999,7 +17999,7 @@ CalyrexEvosAttacks:
 	db 88, FUTURE_SIGHT
 	db 0 ; no more level-up moves
 
-AmarowakEvosAttacks:
+Marowak_alolanEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, DOUBLE_EDGE
 	db 1, FALSE_SWIPE
@@ -18024,7 +18024,7 @@ AmarowakEvosAttacks:
 
 
 
-AgrimerEvosAttacks:
+Grimer_alolanEvosAttacks:
 	db EVOLVE_LEVEL, 38, AMUK
 	db 0 ; no more evolutions
 	db 1, POUND
@@ -18045,7 +18045,7 @@ AgrimerEvosAttacks:
 	db 48, MEMENTO
 	db 0 ; no more level-up moves
 
-AmukEvosAttacks:
+Muk_alolanEvosAttacks:
 	db 0 ; no more evolutions
 	db 0, VENOM_DRENCH
 	db 1, VENOM_DRENCH
@@ -18069,7 +18069,7 @@ AmukEvosAttacks:
 	db 57, MEMENTO
 	db 0 ; no more level-up moves
 
-Gfarfetch_dEvosAttacks:
+Farfetch_d_galarianEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 1, SAND_ATTACK
@@ -18088,7 +18088,7 @@ Gfarfetch_dEvosAttacks:
 	db 65, BRAVE_BIRD
 	db 0 ; no more level-up moves
 
-GmrmimeEvosAttacks:
+Mrmime_galarianEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, QUICK_GUARD
 	db 1, WIDE_GUARD

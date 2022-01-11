@@ -1,0 +1,4 @@
+	db DISABLE
+	db BESTOW
+	db DESTINY_BOND
+	db CURSE

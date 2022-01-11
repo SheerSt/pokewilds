@@ -118,7 +118,7 @@ SandshrewEggMoves:
 	db ROTOTILLER
 	db HONE_CLAWS
 
-Nidoran}EggMoves:
+Nidoran_fEggMoves:
 	db COUNTER
 	db DISABLE
 	db POISON_FANG
@@ -127,7 +127,7 @@ Nidoran}EggMoves:
 	db SUPERSONIC
 	db TAKE_DOWN
 
-Nidoran{EggMoves:
+Nidoran_mEggMoves:
 	db CONFUSION
 	db COUNTER
 	db DISABLE
@@ -412,7 +412,7 @@ SlowpokeEggMoves:
 	db WONDER_ROOM
 	db BELCH
 
-Farfetch'dEggMoves:
+Farfetch_dEggMoves:
 	db STEEL_WING
 	db FORESIGHT
 	db MIRROR_MOVE
@@ -2610,7 +2610,7 @@ BonslyEggMoves:
 	db ENDURE
 	db ROCK_POLISH
 
-Mime jr.EggMoves:
+Mime_jrEggMoves:
 	db FUTURE_SIGHT
 	db HYPNOSIS
 	db MIMIC
@@ -3589,7 +3589,7 @@ LitleoEggMoves:
 	db FIRE_SPIN
 	db FLARE_BLITZ
 
-Flabã‰bã‰EggMoves:
+FlabebeEggMoves:
 	db COPYCAT
 	db CAPTIVATE
 	db CAMOUFLAGE

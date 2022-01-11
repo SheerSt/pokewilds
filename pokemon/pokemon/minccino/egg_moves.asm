@@ -1,0 +1,9 @@
+	db IRON_TAIL
+	db TAIL_WHIP
+	db AQUA_TAIL
+	db MUD_SLAP
+	db KNOCK_OFF
+	db FAKE_TEARS
+	db SLEEP_TALK
+	db ENDURE
+	db FLAIL

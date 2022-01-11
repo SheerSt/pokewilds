@@ -1,0 +1,8 @@
+	db CHARGE
+	db FAKE_OUT
+	db PARTING_SHOT
+	db QUASH
+	db RAPID_SPIN
+	db SUPER_FANG
+	db SWAGGER
+	db TICKLE

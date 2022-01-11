@@ -1,0 +1,9 @@
+	db STEEL_WING
+	db BRINE
+	db GUST
+	db AIR_CUTTER
+	db MIRROR_MOVE
+	db ME_FIRST
+	db LUCKY_CHANT
+	db MUD_SPORT
+	db AQUA_JET

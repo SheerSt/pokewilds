@@ -1,0 +1,7 @@
+	db ENDURE
+	db VENOM_DRENCH
+	db BESTOW
+	db TICKLE
+	db SPITE
+	db MIRROR_COAT
+	db SWAGGER

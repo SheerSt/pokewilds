@@ -1,0 +1,5 @@
+	db ROLE_PLAY
+	db WORK_UP
+	db MIMIC
+	db CAPTIVATE
+	db REFRESH

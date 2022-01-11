@@ -1,0 +1,6 @@
+	db WIDE_GUARD
+	db REVENGE
+	db HEAD_SMASH
+	db FIRE_SPIN
+	db RAPID_SPIN
+	db CURSE

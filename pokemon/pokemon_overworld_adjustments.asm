@@ -13,7 +13,7 @@ Kabuto:
  db found, true
  db flip, false
 
-Gyamask:
+Yamask_Galarian:
  db i, 306
  db found, true
  db flip, false
@@ -158,7 +158,7 @@ Darmanitan:
  db found, true
  db flip, false
 
-Darmanitanzen:
+Darmanitan_Zenmode:
  db i, 335
  db found, true
  db flip, false
@@ -738,7 +738,7 @@ Marowak:
  db found, true
  db flip, false
 
-Amarowak:
+Marowak_Alolan:
  db i, 453
  db found, true
  db flip, false
@@ -1328,12 +1328,12 @@ Dunsparce:
  db found, true
  db flip, false
 
-Agrimer:
+Grimer_Alolan:
  db i, 571
  db found, true
  db flip, false
 
-Amuk:
+Muk_Alolan:
  db i, 572
  db found, true
  db flip, false
@@ -1363,7 +1363,7 @@ Sceptile:
  db found, true
  db flip, true
 
-Gfarfetch_d:
+Farfetch_d_Galarian:
  db i, 578
  db found, true
  db flip, true
@@ -1528,7 +1528,7 @@ Urshifu_singlestrike:
  db found, true
  db flip, true
 
-Gmrmime:
+Mrmime_Galarian:
  db i, 611
  db found, true
  db flip, true

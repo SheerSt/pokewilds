@@ -1,0 +1,9 @@
+	db EVOLVE_ATTACKGREATER, 20, HITMONLEE
+	db EVOLVE_DEFENSEGREATER, 20, HITMONCHAN
+	db EVOLVE_ATKDEFEQUAL, 20, HITMONTOP
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 1, HELPING_HAND
+	db 1, FAKE_OUT
+	db 1, FOCUS_ENERGY
+	db 0 ; no more level-up moves

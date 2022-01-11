@@ -2488,7 +2488,7 @@ StarmieEvosAttacks:
 	db 1, CONFUSE_RAY
 	db 0 ; no more level-up moves
 
-Mr. mimeEvosAttacks:
+MrmimeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, QUICK_GUARD
 	db 1, WIDE_GUARD
@@ -13627,7 +13627,7 @@ PyroarEvosAttacks:
 	db 57, OVERHEAT
 	db 0 ; no more level-up moves
 
-Flabã‰bã‰EvosAttacks:
+FlabebeEvosAttacks:
 	db EVOLVE_LEVEL, 19, FLOETTE
 	db 0 ; no more evolutions
 	db 1, TACKLE
@@ -15660,7 +15660,7 @@ PyukumukuEvosAttacks:
 	db 60, MEMENTO
 	db 0 ; no more level-up moves
 
-Type: nullEvosAttacks:
+Type_nullEvosAttacks:
 	db EVOLVE_HAPPINESS, TR_ANYTIME, SILVALLY
 	db 0 ; no more evolutions
 	db 1, TACKLE
@@ -17362,7 +17362,7 @@ CursolaEvosAttacks:
 	db 55, MIRROR_COAT
 	db 0 ; no more level-up moves
 
-Sirfetch'dEvosAttacks:
+Sirfetch_dEvosAttacks:
 	db 0 ; no more evolutions
 	db 0, IRON_DEFENSE
 	db 1, IRON_DEFENSE
@@ -17385,7 +17385,7 @@ Sirfetch'dEvosAttacks:
 	db 70, METEOR_ASSAULT
 	db 0 ; no more level-up moves
 
-Mr. rimeEvosAttacks:
+MrrimeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, FAKE_TEARS
 	db 1, SLACK_OFF

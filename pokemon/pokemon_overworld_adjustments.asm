@@ -1822,3 +1822,8 @@ Staraptor:
  db i, 669
  db found, true
  db flip, false
+
+Raichu_Alolan:
+ db i, 670
+ db found, true
+ db flip, false

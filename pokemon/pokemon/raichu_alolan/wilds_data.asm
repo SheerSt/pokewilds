@@ -41,7 +41,7 @@
 
     ; Overworld sprite properties.
 
-    db 1 ; Flip third frame of walking animation? (1 = yes, 0 = no)
+    db 0 ; Flip third frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Flip fourth frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Can move in the overworld (0 = can move ; 1 = can't move).
     db 7 ; Water offset for OW sprites, in pixels.

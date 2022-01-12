@@ -1,3 +1,4 @@
+	db EVOLVE_LEVEL, 21, VESPIQUEN
 	db 0 ; no more evolutions
 	db 1, SWEET_SCENT
 	db 1, GUST

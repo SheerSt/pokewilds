@@ -11269,7 +11269,7 @@ Darmanitan_zenmodeEvosAttacks:
 	db 0 ; no more level-up moves
 
 Darumaka_galarianEvosAttacks:
-	db EVOLVE_ITEM, ICE_STONE, GDARMANITAN
+	db EVOLVE_ITEM, ICE_STONE, DARMANITAN_GALARIAN
 	db 0 ; no more evolutions
 	db 1, POWDER_SNOW
 	db 1, TACKLE
@@ -18025,7 +18025,7 @@ Marowak_alolanEvosAttacks:
 
 
 Grimer_alolanEvosAttacks:
-	db EVOLVE_LEVEL, 38, AMUK
+	db EVOLVE_LEVEL, 38, MUK_ALOLAN
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, POISON_GAS

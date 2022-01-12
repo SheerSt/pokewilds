@@ -1,4 +1,4 @@
-	db EVOLVE_LEVEL, 38, AMUK
+	db EVOLVE_LEVEL, 38, MUK_ALOLAN
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, POISON_GAS

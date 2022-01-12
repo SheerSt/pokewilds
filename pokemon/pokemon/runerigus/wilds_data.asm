@@ -6,7 +6,7 @@
     db 66.6 ; Weight in kg.
     db 1.6 ; Height in meters.
 
-    db YAMASK 100 ; Base form(s) (MON_NAME for base species, then chance).
+    db YAMASK_GALARIAN 100 ; Base form(s) (MON_NAME for base species, then chance).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).

@@ -1,4 +1,4 @@
-    db DEFAULT ; Display name (DEFAULT for default name).
+    db COMBEE ; Display name (DEFAULT for default name).
 
     db 415 ; Dex number.
     db <The members of the trio spend all their time together. Each one has a slightly different taste in nectar.> ; Dex entry.

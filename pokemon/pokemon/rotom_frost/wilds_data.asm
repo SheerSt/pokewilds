@@ -1,10 +1,10 @@
-    db DEFAULT ; Display name (DEFAULT for default name).
+    db ROTOM ; Display name (DEFAULT for default name).
 
     db 479 ; Dex number.
-    db <One boy's invention led to the development of many different machines that take advantage of Rotom's unique capabilities.> ; Dex entry.
+    db <Rotom assumes this form when it takes over a refrigerator powered by a special motor. It battles by spewing cold air.> ; Dex entry.
 
-    db 0.3 ; Weight in kg.
-    db 0.3 ; Height in meters.
+    db 0 ; Weight in kg.
+    db 0 ; Height in meters.
 
     db ROTOM 100 ; Base form(s) (MON_NAME for base species, then chance).
 

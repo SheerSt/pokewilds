@@ -1,7 +1,7 @@
     db MR.MIME ; Display name (DEFAULT for default name).
 
     db 122 ; Dex number.
-    db <Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pokémon can kick up to use as a barrier.> ; Dex entry.
+    db <The broadness of its hands may be no coincidence-many scientists believe its palms became enlarged specifically for pantomiming.> ; Dex entry.
 
     db 54.5 ; Weight in kg.
     db 1.3 ; Height in meters.

@@ -13842,7 +13842,7 @@ HonedgeEvosAttacks:
 	db 0 ; no more level-up moves
 
 DoubladeEvosAttacks:
-	db EVOLVE_ITEM, DUSK_STONE, AEGISLASH
+	db EVOLVE_ITEM, DUSK_STONE, AEGISLASH_SHIELD
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, FURY_CUTTER

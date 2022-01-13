@@ -1423,17 +1423,77 @@ Sinistea:
  db found, true
  db flip, false
 
-Flabebe:
+Flabebe_Red:
  db i, 590
  db found, true
  db flip, false
 
-Floette:
+Flabebe_Blue:
+ db i, 590
+ db found, true
+ db flip, false
+
+Flabebe_Yellow:
+ db i, 590
+ db found, true
+ db flip, false
+
+Flabebe_Orange:
+ db i, 590
+ db found, true
+ db flip, false
+
+Flabebe_White:
+ db i, 590
+ db found, true
+ db flip, false
+
+Floette_Red:
  db i, 591
  db found, true
  db flip, false
 
-Florges:
+Floette_Blue:
+ db i, 591
+ db found, true
+ db flip, false
+
+Floette_Yellow:
+ db i, 591
+ db found, true
+ db flip, false
+
+Floette_Orange:
+ db i, 591
+ db found, true
+ db flip, false
+
+Floette_White:
+ db i, 591
+ db found, true
+ db flip, false
+
+Florges_Red:
+ db i, 592
+ db found, true
+ db flip, false
+
+Florges_Blue:
+ db i, 592
+ db found, true
+ db flip, false
+
+Florges_Yellow:
+ db i, 592
+ db found, true
+ db flip, false
+
+Florges_Orange:
+ db i, 592
+ db found, true
+ db flip, false
+
+Florges_White:
  db i, 592
  db found, true
  db flip, false
@@ -1523,7 +1583,7 @@ Grumpig:
  db found, true
  db flip, true
 
-Urshifu_singlestrike:
+Urshifu_SingleStrike:
  db i, 610
  db found, true
  db flip, true
@@ -1538,7 +1598,7 @@ Mrrime:
  db found, true
  db flip, false
 
-Urshifu_multistrike:
+Urshifu_RapidStrike:
  db i, 613
  db found, true
  db flip, true
@@ -1568,7 +1628,7 @@ Celebi:
  db found, true
  db flip, false
 
-Aegislash_sword:
+Aegislash_Blade:
  db i, 619
  db found, true
  db flip, false
@@ -1583,7 +1643,7 @@ Venipede:
  db found, true
  db flip, false
 
-Aegislash:
+Aegislash_Shield:
  db i, 622
  db found, true
  db flip, false
@@ -1633,12 +1693,12 @@ Woobat:
  db found, true
  db flip, false
 
-Toxtricity-lowkey:
+Toxtricity_LowKey:
  db i, 632
  db found, true
  db flip, true
 
-Toxtricity:
+Toxtricity_Amped:
  db i, 633
  db found, true
  db flip, true
@@ -1827,3 +1887,44 @@ Raichu_Alolan:
  db i, 670
  db found, true
  db flip, false
+
+Rotom:
+ db i, 671
+ db found, true
+ db flip, false
+
+Rotom_Heat:
+ db i, 672
+ db found, true
+ db flip, false
+
+Rotom_Wash:
+ db i, 673
+ db found, true
+ db flip, false
+
+Rotom_Frost:
+ db i, 674
+ db found, true
+ db flip, false
+
+Rotom_Fan:
+ db i, 675
+ db found, true
+ db flip, false
+
+Rotom_Mow:
+ db i, 676
+ db found, true
+ db flip, false
+
+Shellos_East:
+ db i, 677
+ db found, true
+ db flip, false
+
+Shellos_West:
+ db i, 678
+ db found, true
+ db flip, false
+

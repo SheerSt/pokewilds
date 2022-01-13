@@ -1,5 +1,4 @@
-; Characteristics of each move.
-
+/* Characteristics of each move.
 move: MACRO
 	db \1 ; animation
 	db \2 ; effect
@@ -8,7 +7,7 @@ move: MACRO
 	db \5 percent ; accuracy
 	db \6 ; pp
 	db \7 percent ; effect chance
-ENDM
+ENDM*/
 
 Moves:
 ; entries correspond to constants/move_constants.asm

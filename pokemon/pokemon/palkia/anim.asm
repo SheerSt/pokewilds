@@ -6,16 +6,16 @@
 	frame 5, 09
 	frame 6, 09
 	frame 7, 09
-	frame 6, 09
-	frame 7, 09
-	frame 8, 03
-	frame 9, 03
+	frame 8, 09
+	frame 9, 09
 	frame 10, 03
 	frame 11, 03
-	frame 12, 05
-	frame 13, 05
-	frame 12, 07
-	frame 13, 07
-	frame 14, 09
-	frame 15, 09
+	frame 12, 03
+	frame 13, 03
+	frame 14, 05
+	frame 15, 05
+	frame 16, 07
+	frame 17, 07
+	frame 18, 09
+	frame 19, 09
 	endanim

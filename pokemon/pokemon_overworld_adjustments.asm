@@ -1928,3 +1928,79 @@ Shellos_West:
  db found, true
  db flip, false
 
+Turtwig:
+ db i, 679
+ db found, true
+ db flip, true
+
+Typhlosion_Hisuian:
+ db i, 680
+ db found, true
+ db flip, true
+
+Growlithe_Hisuian:
+ db i, 681
+ db found, true
+ db flip, true
+
+Fennekin:
+ db i, 682
+ db found, true
+ db flip, true
+
+Wynaut:
+ db i, 683
+ db found, true
+ db flip, true
+
+Cursola:
+ db i, 684
+ db found, true
+ db flip, true
+
+Corsola_Galarian:
+ db i, 685
+ db found, true
+ db flip, false
+
+Corsola:
+ db i, 686
+ db found, true
+ db flip, true
+
+Clobbopus:
+ db i, 687
+ db found, true
+ db flip, false
+
+Ursaluna:
+ db i, 688
+ db found, true
+ db flip, false
+
+Rookidee:
+ db i, 689
+ db found, true
+ db flip, true
+
+Deoxys_Defense:
+ db i, 690
+ db found, true
+ db flip, false
+
+Deoxys_Attack:
+ db i, 691
+ db found, true
+ db flip, false
+
+Deoxys_Speed:
+ db i, 692
+ db found, true
+ db flip, false
+
+Deoxys_Normal:
+ db i, 693
+ db found, true
+ db flip, false
+
+

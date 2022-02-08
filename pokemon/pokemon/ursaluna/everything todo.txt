@@ -1,0 +1,3 @@
+placeholder data to test overworld sprites; nothing filled in (there's no pokeapi data at this time)
+todo: generate wilds_data.asm, which will update the dex number
+ - need cry. No cry on showdown atm.

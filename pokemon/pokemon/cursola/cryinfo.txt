@@ -1,0 +1,1 @@
+	mon_cry CRY_MAGCARGO,    $081,  $0ff ; CURSOLA

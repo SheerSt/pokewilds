@@ -1,12 +1,12 @@
-    db DEFAULT ; Display name (DEFAULT for default name).
+    db ELECTRODE ; Display name (DEFAULT for default name).
 
-    db 817 ; Dex number.
-    db <A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.> ; Dex entry.
+    db 101 ; Dex number.
+    db <Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.> ; Dex entry.
 
-    db 11.5 ; Weight in kg.
-    db 0.7 ; Height in meters.
+    db 66.6 ; Weight in kg.
+    db 1.2 ; Height in meters.
 
-    db SOBBLE 100 ; Base form(s) (MON_NAME for base species, then chance).
+    db VOLTORB_HISUIAN 100 ; Base form(s) (MON_NAME for base species, then chance).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).

@@ -1,12 +1,12 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
-    db 817 ; Dex number.
-    db <A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.> ; Dex entry.
+    db 503 ; Dex number.
+    db <In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.> ; Dex entry.
 
-    db 11.5 ; Weight in kg.
-    db 0.7 ; Height in meters.
+    db 94.6 ; Weight in kg.
+    db 1.5 ; Height in meters.
 
-    db SOBBLE 100 ; Base form(s) (MON_NAME for base species, then chance).
+    db OSHAWOTT 100 ; Base form(s) (MON_NAME for base species, then chance).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
@@ -41,7 +41,7 @@
 
     ; Overworld sprite properties.
 
-    db 0 ; Flip third frame of walking animation? (1 = yes, 0 = no)
+    db 1 ; Flip third frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Flip fourth frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Can move in the overworld (0 = can move ; 1 = can't move).
     db 0 ; Water offset for OW sprites, in pixels.

@@ -1,12 +1,12 @@
-    db DEFAULT ; Display name (DEFAULT for default name).
+    db VOLTORB ; Display name (DEFAULT for default name).
 
-    db 817 ; Dex number.
-    db <A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.> ; Dex entry.
+    db 100 ; Dex number.
+    db <Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.> ; Dex entry.
 
-    db 11.5 ; Weight in kg.
-    db 0.7 ; Height in meters.
+    db 10.4 ; Weight in kg.
+    db 0.5 ; Height in meters.
 
-    db SOBBLE 100 ; Base form(s) (MON_NAME for base species, then chance).
+    db VOLTORB 100 ; Base form(s) (MON_NAME for base species, then chance).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).

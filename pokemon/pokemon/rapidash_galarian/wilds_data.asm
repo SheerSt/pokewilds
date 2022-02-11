@@ -1,12 +1,12 @@
-    db DEFAULT ; Display name (DEFAULT for default name).
+    db RAPIDASH ; Display name (DEFAULT for default name).
 
-    db 817 ; Dex number.
-    db <A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.> ; Dex entry.
+    db 78 ; Dex number.
+    db <Little can stand up to its psycho cut. Unleashed from this Pokémon's horn, the move will punch a hole right through a thick metal sheet.> ; Dex entry.
 
-    db 11.5 ; Weight in kg.
-    db 0.7 ; Height in meters.
+    db 95.0 ; Weight in kg.
+    db 1.7 ; Height in meters.
 
-    db SOBBLE 100 ; Base form(s) (MON_NAME for base species, then chance).
+    db PONYTA_GALARIAN 100 ; Base form(s) (MON_NAME for base species, then chance).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
@@ -28,7 +28,7 @@
     db 0 ; Attack (always able on DARK).
     db 0 ; Teleport (always able on PSYCHIC).
     db 0 ; Headbutt.
-    db 0 ; Ride.
+    db 1 ; Ride.
     db 0 ; Fly.
     db 0 ; Paint.
 
@@ -41,7 +41,7 @@
 
     ; Overworld sprite properties.
 
-    db 0 ; Flip third frame of walking animation? (1 = yes, 0 = no)
+    db 1 ; Flip third frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Flip fourth frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Can move in the overworld (0 = can move ; 1 = can't move).
     db 0 ; Water offset for OW sprites, in pixels.

@@ -1,4 +1,4 @@
-    db DEFAULT ; Display name (DEFAULT for default name).
+    db SAMUROTT ; Display name (DEFAULT for default name).
 
     db 503 ; Dex number.
     db <In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.> ; Dex entry.

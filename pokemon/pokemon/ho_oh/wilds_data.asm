@@ -1,12 +1,12 @@
-    db DEFAULT ; Display name (DEFAULT for default name).
+    db HO-OH ; Display name (DEFAULT for default name).
 
-    db 785 ; Dex number.
-    db <This guardian deity of Melemele is brimming with curiosity. It summons thunderclouds and stores their lightning inside its body.> ; Dex entry.
+    db 250 ; Dex number.
+    db <Ho-Oh's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.> ; Dex entry.
 
-    db 20.5 ; Weight in kg.
-    db 1.8 ; Height in meters.
+    db 199.0 ; Weight in kg.
+    db 3.8 ; Height in meters.
 
-    db TAPU KOKO 100 ; Base form(s) (MON_NAME for base species, then chance).
+    db HO_OH 100 ; Base form(s) (MON_NAME for base species, then chance).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).

@@ -1,12 +1,12 @@
     db DEFAULT ; Display name (DEFAULT for default name).
 
-    db 787 ; Dex number.
-    db <It pulls large trees up by the roots and swings them around. It causes vegetation to grow, and then it absorbs energy from the growth.> ; Dex entry.
+    db 788 ; Dex number.
+    db <The dense fog it creates brings the downfall and destruction of its confused enemies. Ocean currents are the source of its energy.> ; Dex entry.
 
-    db 45.5 ; Weight in kg.
-    db 1.9 ; Height in meters.
+    db 21.2 ; Weight in kg.
+    db 1.3 ; Height in meters.
 
-    db TAPU BULU 100 ; Base form(s) (MON_NAME for base species, then chance).
+    db TAPU FINI 100 ; Base form(s) (MON_NAME for base species, then chance).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
@@ -41,7 +41,7 @@
 
     ; Overworld sprite properties.
 
-    db 1 ; Flip third frame of walking animation? (1 = yes, 0 = no)
+    db 0 ; Flip third frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Flip fourth frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Can move in the overworld (0 = can move ; 1 = can't move).
     db 0 ; Water offset for OW sprites, in pixels.

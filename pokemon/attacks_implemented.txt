@@ -236,3 +236,6 @@ earth power
 psycho cut
 shadow claw
 play rough
+freeze dry
+sludge wave
+dual wingbeat

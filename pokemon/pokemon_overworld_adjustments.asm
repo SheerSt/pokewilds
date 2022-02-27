@@ -13,7 +13,7 @@ Kabuto:
  db found, true
  db flip, false
 
-Gyamask:
+Yamask_Galarian:
  db i, 306
  db found, true
  db flip, false
@@ -158,7 +158,7 @@ Darmanitan:
  db found, true
  db flip, false
 
-Darmanitanzen:
+Darmanitan_Zenmode:
  db i, 335
  db found, true
  db flip, false
@@ -738,7 +738,7 @@ Marowak:
  db found, true
  db flip, false
 
-Amarowak:
+Marowak_Alolan:
  db i, 453
  db found, true
  db flip, false
@@ -1328,12 +1328,12 @@ Dunsparce:
  db found, true
  db flip, false
 
-Agrimer:
+Grimer_Alolan:
  db i, 571
  db found, true
  db flip, false
 
-Amuk:
+Muk_Alolan:
  db i, 572
  db found, true
  db flip, false
@@ -1363,7 +1363,7 @@ Sceptile:
  db found, true
  db flip, true
 
-Gfarfetch_d:
+Farfetch_d_Galarian:
  db i, 578
  db found, true
  db flip, true
@@ -1423,17 +1423,77 @@ Sinistea:
  db found, true
  db flip, false
 
-Flabebe:
+Flabebe_Red:
  db i, 590
  db found, true
  db flip, false
 
-Floette:
+Flabebe_Blue:
+ db i, 590
+ db found, true
+ db flip, false
+
+Flabebe_Yellow:
+ db i, 590
+ db found, true
+ db flip, false
+
+Flabebe_Orange:
+ db i, 590
+ db found, true
+ db flip, false
+
+Flabebe_White:
+ db i, 590
+ db found, true
+ db flip, false
+
+Floette_Red:
  db i, 591
  db found, true
  db flip, false
 
-Florges:
+Floette_Blue:
+ db i, 591
+ db found, true
+ db flip, false
+
+Floette_Yellow:
+ db i, 591
+ db found, true
+ db flip, false
+
+Floette_Orange:
+ db i, 591
+ db found, true
+ db flip, false
+
+Floette_White:
+ db i, 591
+ db found, true
+ db flip, false
+
+Florges_Red:
+ db i, 592
+ db found, true
+ db flip, false
+
+Florges_Blue:
+ db i, 592
+ db found, true
+ db flip, false
+
+Florges_Yellow:
+ db i, 592
+ db found, true
+ db flip, false
+
+Florges_Orange:
+ db i, 592
+ db found, true
+ db flip, false
+
+Florges_White:
  db i, 592
  db found, true
  db flip, false
@@ -1523,12 +1583,12 @@ Grumpig:
  db found, true
  db flip, true
 
-Urshifu_singlestrike:
+Urshifu_SingleStrike:
  db i, 610
  db found, true
  db flip, true
 
-Gmrmime:
+Mrmime_Galarian:
  db i, 611
  db found, true
  db flip, true
@@ -1538,7 +1598,7 @@ Mrrime:
  db found, true
  db flip, false
 
-Urshifu_multistrike:
+Urshifu_RapidStrike:
  db i, 613
  db found, true
  db flip, true
@@ -1568,7 +1628,7 @@ Celebi:
  db found, true
  db flip, false
 
-Aegislash_sword:
+Aegislash_Blade:
  db i, 619
  db found, true
  db flip, false
@@ -1583,7 +1643,7 @@ Venipede:
  db found, true
  db flip, false
 
-Aegislash:
+Aegislash_Shield:
  db i, 622
  db found, true
  db flip, false
@@ -1633,12 +1693,12 @@ Woobat:
  db found, true
  db flip, false
 
-Toxtricity-lowkey:
+Toxtricity_LowKey:
  db i, 632
  db found, true
  db flip, true
 
-Toxtricity:
+Toxtricity_Amped:
  db i, 633
  db found, true
  db flip, true
@@ -1652,3 +1712,295 @@ Quilladin:
  db i, 635
  db found, true
  db flip, true
+
+Tepig:
+ db i, 636
+ db found, true
+ db flip, true
+
+Stoutland:
+ db i, 637
+ db found, true
+ db flip, true
+
+Herdier:
+ db i, 638
+ db found, true
+ db flip, true
+
+Lillipup:
+ db i, 639
+ db found, true
+ db flip, true
+
+Snivy:
+ db i, 640
+ db found, true
+ db flip, true
+
+Fomantis:
+ db i, 641
+ db found, true
+ db flip, false
+
+Budew:
+ db i, 642
+ db found, true
+ db flip, true
+
+Roselia:
+ db i, 643
+ db found, true
+ db flip, true
+
+Roserade:
+ db i, 644
+ db found, true
+ db flip, true
+
+Joltik:
+ db i, 645
+ db found, true
+ db flip, true
+
+Galvantula:
+ db i, 646
+ db found, true
+ db flip, true
+
+Vanillite:
+ db i, 647
+ db found, true
+ db flip, false
+
+Vanillish:
+ db i, 648
+ db found, true
+ db flip, false
+
+Vanilluxe:
+ db i, 649
+ db found, true
+ db flip, false
+
+Nuzleaf:
+ db i, 650
+ db found, true
+ db flip, true
+
+Kommo-o:
+ db i, 651
+ db found, true
+ db flip, true
+
+Gulpin:
+ db i, 652
+ db found, true
+ db flip, false
+
+Swalot:
+ db i, 653
+ db found, true
+ db flip, false
+
+Pignite:
+ db i, 654
+ db found, true
+ db flip, true
+
+Obstagoon:
+ db i, 655
+ db found, true
+ db flip, true
+
+Purrloin:
+ db i, 656
+ db found, true
+ db flip, true
+
+Shelmet:
+ db i, 657
+ db found, true
+ db flip, false
+
+Accelgor:
+ db i, 658
+ db found, true
+ db flip, false
+
+Karrablast:
+ db i, 659
+ db found, true
+ db flip, true
+
+Escavalier:
+ db i, 660
+ db found, true
+ db flip, false
+
+Polteageist:
+ db i, 661
+ db found, true
+ db flip, false
+
+Wimpod:
+ db i, 662
+ db found, true
+ db flip, false
+
+Solosis:
+ db i, 663
+ db found, true
+ db flip, false
+
+Duosion:
+ db i, 664
+ db found, true
+ db flip, false
+
+Reuniclus:
+ db i, 665
+ db found, true
+ db flip, false
+
+Servine:
+ db i, 666
+ db found, true
+ db flip, true
+
+Serperior:
+ db i, 667
+ db found, true
+ db flip, false
+
+Lurantis:
+ db i, 668
+ db found, true
+ db flip, true
+
+Staraptor:
+ db i, 669
+ db found, true
+ db flip, false
+
+Raichu_Alolan:
+ db i, 670
+ db found, true
+ db flip, false
+
+Rotom:
+ db i, 671
+ db found, true
+ db flip, false
+
+Rotom_Heat:
+ db i, 672
+ db found, true
+ db flip, false
+
+Rotom_Wash:
+ db i, 673
+ db found, true
+ db flip, false
+
+Rotom_Frost:
+ db i, 674
+ db found, true
+ db flip, false
+
+Rotom_Fan:
+ db i, 675
+ db found, true
+ db flip, false
+
+Rotom_Mow:
+ db i, 676
+ db found, true
+ db flip, false
+
+Shellos_East:
+ db i, 677
+ db found, true
+ db flip, false
+
+Shellos_West:
+ db i, 678
+ db found, true
+ db flip, false
+
+Turtwig:
+ db i, 679
+ db found, true
+ db flip, true
+
+Typhlosion_Hisuian:
+ db i, 680
+ db found, true
+ db flip, true
+
+Growlithe_Hisuian:
+ db i, 681
+ db found, true
+ db flip, true
+
+Fennekin:
+ db i, 682
+ db found, true
+ db flip, true
+
+Wynaut:
+ db i, 683
+ db found, true
+ db flip, true
+
+Cursola:
+ db i, 684
+ db found, true
+ db flip, true
+
+Corsola_Galarian:
+ db i, 685
+ db found, true
+ db flip, false
+
+Corsola:
+ db i, 686
+ db found, true
+ db flip, true
+
+Clobbopus:
+ db i, 687
+ db found, true
+ db flip, false
+
+Ursaluna:
+ db i, 688
+ db found, true
+ db flip, false
+
+Rookidee:
+ db i, 689
+ db found, true
+ db flip, true
+
+Deoxys_Defense:
+ db i, 690
+ db found, true
+ db flip, false
+
+Deoxys_Attack:
+ db i, 691
+ db found, true
+ db flip, false
+
+Deoxys_Speed:
+ db i, 692
+ db found, true
+ db flip, false
+
+Deoxys_Normal:
+ db i, 693
+ db found, true
+ db flip, false
+
+

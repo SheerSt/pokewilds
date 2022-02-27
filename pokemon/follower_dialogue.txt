@@ -1,0 +1,4 @@
+text=POKEMON is carefully eyeing you.
+text=POKEMON is stretching., type=FIGHTING, emote=...
+text=POKEMON looks like it wants to spar., type=FIGHTING
+text=POKEMON notices the crashing waves., biome=beach

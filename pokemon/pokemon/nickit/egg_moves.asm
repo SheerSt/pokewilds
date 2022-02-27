@@ -1,0 +1,4 @@
+	db HOWL
+	db KNOCK_OFF
+	db QUICK_GUARD
+	db TORMENT

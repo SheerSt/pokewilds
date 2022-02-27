@@ -1,0 +1,13 @@
+	db MIST
+	db TWISTER
+	db AGILITY
+	db GUST
+	db WATER_SPORT
+	db AQUA_RING
+	db KNOCK_OFF
+	db BRINE
+	db ROOST
+	db SOAK
+	db WIDE_GUARD
+	db AIR_CUTTER
+	db AERIAL_ACE

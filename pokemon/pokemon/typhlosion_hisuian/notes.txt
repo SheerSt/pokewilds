@@ -1,0 +1,3 @@
+Used the parse_pokeapi_data_v2.py script. Used non-regional version of the pokemon in pokeapi. Had to fill in stats manually.
+
+Ended up copying evos_attacks.asm from typhlosion later. So basically everything was copied from Typhlosion, stats and wilds_data name modified.

@@ -1,0 +1,3 @@
+	db DRAGON_TAIL
+	db GASTRO_ACID
+	db SKULL_BASH

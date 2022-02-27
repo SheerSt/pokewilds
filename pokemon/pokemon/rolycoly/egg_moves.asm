@@ -1,0 +1,3 @@
+	db BLOCK
+	db EXPLOSION
+	db MUD_SLAP

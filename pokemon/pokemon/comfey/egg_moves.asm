@@ -1,0 +1,4 @@
+	db ENDURE
+	db AMNESIA
+	db AFTER_YOU
+	db LUCKY_CHANT

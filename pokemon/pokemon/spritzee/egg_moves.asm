@@ -1,0 +1,6 @@
+	db DISABLE
+	db WISH
+	db CAPTIVATE
+	db REFRESH
+	db NASTY_PLOT
+	db AFTER_YOU

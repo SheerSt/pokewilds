@@ -1,0 +1,21 @@
+	db EVOLVE_ITEM, SHINY_STONE, ROSERADE
+	db 0 ; no more evolutions
+	db 0, POISON_STING
+	db 1, POISON_STING
+	db 1, ABSORB
+	db 1, GROWTH
+	db 1, STUN_SPORE
+	db 1, WORRY_SEED
+	db 5, MEGA_DRAIN
+	db 10, LEECH_SEED
+	db 15, MAGICAL_LEAF
+	db 20, TOXIC_SPIKES
+	db 25, SWEET_SCENT
+	db 30, GIGA_DRAIN
+	db 35, SYNTHESIS
+	db 40, TOXIC
+	db 45, PETAL_BLIZZARD
+	db 50, AROMATHERAPY
+	db 55, INGRAIN
+	db 60, PETAL_DANCE
+	db 0 ; no more level-up moves

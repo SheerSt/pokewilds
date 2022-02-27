@@ -1,0 +1,9 @@
+	db AQUA_RING
+	db BELLY_DRUM
+	db CURSE
+	db FISSURE
+	db SPIT_UP
+	db STOCKPILE
+	db SWALLOW
+	db WATER_PULSE
+	db YAWN

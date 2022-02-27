@@ -1,0 +1,2 @@
+	db MUD_SLAP
+	db SKULL_BASH

@@ -1,0 +1,18 @@
+	db EVOLVE_ITEM, LEAF_STONE, VILEPLUME
+	db EVOLVE_ITEM, SUN_STONE, BELLOSSOM
+	db 0 ; no more evolutions
+	db 1, ABSORB
+	db 1, GROWTH
+	db 1, ACID
+	db 1, SWEET_SCENT
+	db 12, MEGA_DRAIN
+	db 14, POISONPOWDER
+	db 16, STUN_SPORE
+	db 18, SLEEP_POWDER
+	db 20, GIGA_DRAIN
+	db 26, TOXIC
+	db 32, MOONBLAST
+	db 38, GRASSY_TERRAIN
+	db 44, MOONLIGHT
+	db 50, PETAL_DANCE
+	db 0 ; no more level-up moves

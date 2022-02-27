@@ -1,0 +1,11 @@
+	db FLAIL
+	db SCREECH
+	db AMNESIA
+	db PSYBEAM
+	db WHIRLPOOL
+	db AGILITY
+	db MIST
+	db SHOCK_WAVE
+	db BRINE
+	db WATER_PULSE
+	db SOAK

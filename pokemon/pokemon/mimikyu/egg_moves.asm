@@ -1,0 +1,4 @@
+	db GRUDGE
+	db DESTINY_BOND
+	db CURSE
+	db NIGHTMARE

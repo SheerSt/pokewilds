@@ -1,0 +1,4 @@
+	db WATER_PULSE
+	db POISON_FANG
+	db ICE_FANG
+	db RAGE

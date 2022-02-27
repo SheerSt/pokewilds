@@ -1,0 +1,3 @@
+	db BUG_BITE
+	db FAIRY_WIND
+	db MIRROR_COAT

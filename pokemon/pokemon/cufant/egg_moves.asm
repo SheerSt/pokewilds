@@ -1,0 +1,8 @@
+	db BELCH
+	db CURSE
+	db DEFENSE_CURL
+	db DOUBLE_EDGE
+	db FISSURE
+	db SLAM
+	db SWAGGER
+	db WHIRLWIND

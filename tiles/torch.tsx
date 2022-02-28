@@ -1,4 +1,4 @@
-<tileset name="torch">
+<tileset name="torch" width="16" height="20">
 
     <image source="tiles/torch.png"/>
 

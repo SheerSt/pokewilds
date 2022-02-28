@@ -16,6 +16,9 @@
         <property name="isOverlay" type="bool" value="true"/>
         <property name="isAutoTile" type="bool" value="false"/>
 
+        <property name="lightRadius" type="int" value="2"/>
+        <property name="lightTint" type="string" value="#ffffff"/>
+
     </properties>
 
     <animation>

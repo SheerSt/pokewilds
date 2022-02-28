@@ -1,6 +1,6 @@
-<tileset name="autotile_garden1">
+<tileset name="autotile_roof28">
 
-    <image source="tiles/autotiles/autotile_garden1.png"/>
+    <image source="tiles/autotiles/autotile_roof28.png"/>
 
     <properties>
 
@@ -13,7 +13,7 @@
         <property name="isCuttable" type="bool" value="false"/>
         <property name="isHeadbuttable" type="bool" value="false"/>
         <property name="isDiggable" type="bool" value="false"/>
-        <property name="isOverlay" type="bool" value="false"/>
+        <property name="isOverlay" type="bool" value="true"/>
         <property name="isAutoTile" type="bool" value="true"/>
 
     </properties>

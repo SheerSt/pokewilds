@@ -20,8 +20,8 @@
 
     <animation>
 
-        <frame tileid="0" duration="15"></frame>
-        <frame tileid="1" duration="15"></frame>
+        <frame tileid="0" x="0" y="0" duration="15"></frame>
+        <frame tileid="1" x="16" y="0" duration="15"></frame>
 
     </animation>
  

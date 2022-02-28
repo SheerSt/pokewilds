@@ -12,6 +12,8 @@
         <property name="isSmashable" type="bool" value="false"/>
         <property name="isCuttable" type="bool" value="false"/>
         <property name="isHeadbuttable" type="bool" value="false"/>
+        <property name="isDiggable" type="bool" value="false"/>
+        <property name="isOverlay" type="bool" value="true"/>
         <property name="isAutoTile" type="bool" value="true"/>
 
     </properties>

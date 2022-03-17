@@ -1,12 +1,12 @@
-    db DEFAULT ; Display name (DEFAULT for default name).
+    db WORMADAM ; Display name (DEFAULT for default name).
 
-    db 412 ; Dex number.
-    db <To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.> ; Dex entry.
+    db 413 ; Dex number.
+    db <Its appearance changes depending on where it evolved. The materials on hand become a part of its body.> ; Dex entry.
 
-    db 3.4 ; Weight in kg.
-    db 0.2 ; Height in meters.
+    db 6.5 ; Weight in kg.
+    db 0.5 ; Height in meters.
 
-    db BURMY 100 ; Base form(s) (MON_NAME for base species, then chance).
+    db BURMY_SAND 100 ; Base form(s) (MON_NAME for base species, then chance).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).

@@ -64,9 +64,9 @@ Moves:
 	move TACKLE,PHYSICAL,NORMAL,NORMAL_HIT,NONE,0,0,40,100,35,56,1,1,0,0,1,ANY_OTHER
 	move BODY_SLAM,PHYSICAL,NORMAL,NORMAL_HIT.HITS_MINIMIZE,PARALYZE,30,0,85,100,15,24,1,1,0,0,1,ANY_OTHER
 	move WRAP,PHYSICAL,NORMAL,NORMAL_HIT.BIND,NONE,0,0,15,90,20,32,1,1,0,0,1,ANY_OTHER
-	move TAKE_DOWN,PHYSICAL,NORMAL,NORMAL_HIT.RECOIL_4,NONE,0,0,90,85,20,32,1,1,0,0,1,ANY_OTHER
-	move THRASH,PHYSICAL,NORMAL,NORMAL_HIT.FIXATED,NONE,0,0,120,100,10,16,1,1,0,0,1,OPPONENT_RANDOM
-	move DOUBLE_EDGE,PHYSICAL,NORMAL,NORMAL_HIT.RECOIL_3,NONE,0,0,120,100,15,24,1,1,0,0,1,ANY_OTHER
+	move TAKE_DOWN,PHYSICAL,NORMAL,NORMAL_HIT.RECOIL_1_4,NONE,0,0,90,85,20,32,1,1,0,0,1,ANY_OTHER
+	move THRASH,PHYSICAL,NORMAL,NORMAL_HIT.FIXATED.THRASH,NONE,0,0,120,100,10,16,1,1,0,0,1,OPPONENT_RANDOM
+	move DOUBLE_EDGE,PHYSICAL,NORMAL,NORMAL_HIT.RECOIL_1_3,NONE,0,0,120,100,15,24,1,1,0,0,1,ANY_OTHER
 	move TAIL_WHIP,STATUS,NORMAL,STAT_DEFENSE_DOWN_1,NONE,0,0,0,100,30,48,0,1,1,0,1,ALL_OPPONENTS
 	move POISON_STING,PHYSICAL,POISON,NORMAL_HIT,POISON,30,0,15,100,35,56,0,1,0,0,1,ANY_OTHER
 	move TWINEEDLE,PHYSICAL,BUG,DOUBLE_HIT,POISON,20,0,25,100,20,32,0,1,0,0,1,ANY_OTHER
@@ -94,21 +94,21 @@ Moves:
 	move HYPER_BEAM,SPECIAL,NORMAL,NORMAL_HIT.RECHARGING.NO_INSTRUCT,NONE,0,0,150,90,5,8,0,1,0,0,1,ANY_OTHER
 	move PECK,PHYSICAL,FLYING,NORMAL_HIT,NONE,0,0,35,100,35,56,1,1,0,0,1,ANY_OTHER
 	move DRILL_PECK,PHYSICAL,FLYING,NORMAL_HIT,NONE,0,0,80,100,20,32,1,1,0,0,1,ANY_OTHER
-	move SUBMISSION,PHYSICAL,FIGHTING,NORMAL_HIT.RECOIL_4,NONE,0,0,80,80,20,32,1,1,0,0,1,ANY_OTHER
+	move SUBMISSION,PHYSICAL,FIGHTING,NORMAL_HIT.RECOIL_1_4,NONE,0,0,80,80,20,32,1,1,0,0,1,ANY_OTHER
 	move LOW_KICK,PHYSICAL,FIGHTING,NORMAL_HIT.WEIGHT_DAMAGE,NONE,0,0,0,100,20,32,1,1,0,0,1,ANY_OTHER
 	move COUNTER,PHYSICAL,FIGHTING,COUNTER,NONE,0,-5,0,100,20,32,1,1,0,0,0,SELF
 	move SEISMIC_TOSS,PHYSICAL,FIGHTING,NORMAL_HIT.LEVEL_DAMAGE,NONE,0,0,0,100,20,32,1,1,0,0,1,ANY_OTHER
 	move STRENGTH,PHYSICAL,NORMAL,NORMAL_HIT,NONE,0,0,80,100,15,24,1,1,0,0,1,ANY_OTHER
-	move ABSORB,SPECIAL,GRASS,NORMAL_HIT.HEAL_DAMAGE_50,NONE,0,0,30,100,20,32,0,1,0,0,1,ANY_OTHER
-	move MEGA_DRAIN,SPECIAL,GRASS,NORMAL_HIT.HEAL_DAMAGE_50,NONE,0,0,40,100,15,24,0,1,0,0,1,ANY_OTHER
+	move ABSORB,SPECIAL,GRASS,NORMAL_HIT.HEAL_DAMAGE_1_2,NONE,0,0,30,100,20,32,0,1,0,0,1,ANY_OTHER
+	move MEGA_DRAIN,SPECIAL,GRASS,NORMAL_HIT.HEAL_DAMAGE_1_2,NONE,0,0,40,100,15,24,0,1,0,0,1,ANY_OTHER
 	move LEECH_SEED,STATUS,GRASS,LEECH_SEED,NONE,0,0,0,90,10,16,0,1,1,0,1,ANY_OTHER
-	move GROWTH,STATUS,GRASS,STAT_ATTACK_UP_1.STAT_SPECIALATK_UP_1.SUN_STAT_ATTACK_UP_1.SUN_STAT_APECIALATK_UP_1,NONE,0,0,0,101,20,32,0,0,0,1,0,SELF
+	move GROWTH,STATUS,GRASS,STAT_ATTACK_UP_1.STAT_SPECIALATK_UP_1.SUN_STAT_ATTACK_UP_2.SUN_STAT_SPECIALATK_UP_2,NONE,0,0,0,101,20,32,0,0,0,1,0,SELF
 	move RAZOR_LEAF,PHYSICAL,GRASS,NORMAL_HIT.INCREASED_CRIT,NONE,0,0,55,95,25,40,0,1,0,0,1,ALL_OPPONENTS
 	move SOLARBEAM,SPECIAL,GRASS,NORMAL_HIT.CHARGING.SUN_NO_CHARGING.RAIN_HALF_POWER.HAIL_HALF_POWER.SANDSTORM_HALF_POWER.NO_INSTRUCT,NONE,0,0,120,100,10,16,0,1,0,0,1,ANY_OTHER
 	move POISONPOWDER,STATUS,POISON,POISON.POWDER,NONE,0,0,0,75,35,56,0,1,1,0,1,ANY_OTHER
 	move STUN_SPORE,STATUS,GRASS,PARALYZE.SPORE,NONE,0,0,0,75,30,48,0,1,1,0,1,ANY_OTHER
 	move SLEEP_POWDER,STATUS,GRASS,SLEEP.POWDER,NONE,0,0,0,75,15,24,0,1,1,0,1,ANY_OTHER
-	move PETAL_DANCE,SPECIAL,GRASS,NORMAL_HIT.FIXATED,NONE,0,0,120,100,10,16,1,1,0,0,1,OPPONENT_RANDOM
+	move PETAL_DANCE,SPECIAL,GRASS,NORMAL_HIT.FIXATED.THRASH,NONE,0,0,120,100,10,16,1,1,0,0,1,OPPONENT_RANDOM
 	move STRING_SHOT,STATUS,BUG,STAT_SPEED_DOWN_2,NONE,0,0,0,95,40,64,0,1,1,0,1,ALL_OPPONENTS
 	move DRAGON_RAGE,PHYSICAL,DRAGON,STATIC_DAMAGE_40,NONE,0,0,0,100,10,16,0,1,0,0,1,ANY_OTHER
 	move FIRE_SPIN,SPECIAL,FIRE,NORMAL_HIT.BIND.THAWS,NONE,0,0,35,85,15,24,0,1,0,0,1,ANY_OTHER
@@ -133,7 +133,7 @@ Moves:
 	move MIMIC,STATUS,NORMAL,MIMIC.NO_ENCORE.NO_INSTRUCT,NONE,0,0,0,101,10,16,0,1,0,0,0,ANY_OTHER
 	move SCREECH,STATUS,NORMAL.SOUND,STAT_DEFENSE_DOWN_2,NONE,0,0,0,85,40,64,0,1,1,0,1,ANY_OTHER
 	MOVE DOUBLE_TEAM,STATUS,NORMAL,STAT_EVASION_UP_1,NONE,0,0,0,101,15,24,0,0,0,1,0,SELF
-	move RECOVER,STATUS,NORMAL,HEAL_50,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
+	move RECOVER,STATUS,NORMAL,HEAL_1_2,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
 	move HARDEN,STATUS,NORMAL,STAT_DEFENSE_UP_1,NONE,0,0,0,101,30,48,0,0,0,1,0,SELF
 	move MINIMIZE,STATUS,NORMAL,STAT_EVASION_UP_2.MINIMIZE,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
 	move SMOKESCREEN,STATUS,NORMAL,STAT_ACCURACY_DOWN_1,NONE,0,0,0,100,20,32,0,1,1,0,1,ANY_OTHER
@@ -163,13 +163,13 @@ Moves:
 	move CONSTRICT,PHYSICAL,NORMAL,NORMAL_HIT,STAT_SPEED_DOWN_1,10,0,10,100,35,56,1,1,0,0,1,ANY_OTHER
 	move AMNESIA,STATUS,PSYCHIC,STAT_SPECIALDEF_UP_2,NONE,0,0,0,101,20,32,0,0,0,1,0,SELF
 	move KINESIS,STATUS,PSYCHIC,STAT_ACCURACY_DOWN_1,NONE,0,0,0,80,15,24,0,1,1,0,1,ANY_OTHER
-	move SOFTBOILED,STATUS,NORMAL,HEAL_50,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
+	move SOFTBOILED,STATUS,NORMAL,HEAL_1_2,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
 	move HI_JUMP_KICK,PHYSICAL,FIGHTING,NORMAL_HIT.JUMP_KICK.GRAVITY_STOPS,NONE,0,0,130,90,10,16,1,1,0,0,1,ANY_OTHER
 	move GLARE,STATUS,NORMAL,PARALYZE,NONE,0,0,0,100,30,48,0,1,1,0,1,ANY_OTHER
-	move DREAM_EATER,SPECIAL,PSYCHIC,NORMAL_HIT.WHEN_TARGET_SLEEP.HEAL_DAMAGE_50,NONE,0,0,100,100,15,24,0,1,0,0,1,ANY_OTHER
+	move DREAM_EATER,SPECIAL,PSYCHIC,NORMAL_HIT.WHEN_TARGET_SLEEP.HEAL_DAMAGE_1_2,NONE,0,0,100,100,15,24,0,1,0,0,1,ANY_OTHER
 	move POISON_GAS,STATUS,POISON,POISON,NONE,0,0,0,90,40,64,0,1,1,0,1,ALL_OPPONENTS
 	move BARRAGE,PHYSICAL,NORMAL,MULTI_HIT,NONE,0,0,15,85,20,32,0,1,0,0,1,ANY_OTHER
-	move LEECH_LIFE,PHYSICAL,BUG,NORMAL_HIT.HEAL_DAMAGE_50,NONE,0,0,80,100,10,16,1,1,0,0,1,ANY_OTHER
+	move LEECH_LIFE,PHYSICAL,BUG,NORMAL_HIT.HEAL_DAMAGE_1_2,NONE,0,0,80,100,10,16,1,1,0,0,1,ANY_OTHER
 	move LOVELY_KISS,STATUS,NORMAL,SLEEP,NONE,0,0,0,75,10,16,0,1,1,0,1,ANY_OTHER
 	move SKY_ATTACK,PHYSICAL,FLYING,NORMAL_HIT.CHARGING.INCREASED_CRIT,FLINCH,30,0,140,90,10,16,1,1,0,0,1,ANY_OTHER
 	move TRANSFORM,STATUS,NORMAL,TRANSFORM,NONE,0,0,0,101,10,16,0,0,0,0,0,ANY_OTHER
@@ -184,15 +184,15 @@ Moves:
 	move EXPLOSION,PHYSICAL,NORMAL,NORMAL_HIT.USER_FAINTS,NONE,0,0,250,100,5,8,0,1,0,0,1,ALL_OTHERS
 	move FURY_SWIPES,PHYSICAL,NORMAL,MULTI_HIT,NONE,0,0,18,80,15,24,1,1,0,0,1,ANY_OTHER
 	move BONEMERANG,PHYSICAL,GROUND,DOUBLE_HIT,NONE,0,0,50,100,10,16,0,1,0,0,1,ANY_OTHER
-	move REST,STATUS,PSYCHIC,REST.HEAL_100.NO_SLEEP_TALK,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
+	move REST,STATUS,PSYCHIC,REST.HEAL_1_1.NO_SLEEP_TALK,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
 	move ROCK_SLIDE,PHYSICAL,ROCK,NORMAL_HIT,FLINCH,30,0,75,90,10,16,0,1,0,0,1,ALL_OPPONENTS
 	move HYPER_FANG,PHYSICAL,NORMAL,NORMAL_HIT.BITE,FLINCH,10,0,80,90,15,24,1,1,0,0,1,ANY_OTHER
 	move SHARPEN,STATUS,NORMAL,STAT_ATTACK_UP_1,NONE,0,0,0,101,30,48,0,0,0,1,0,SELF
 	move CONVERSION,STATUS,NORMAL,CONVERSION,NONE,0,0,0,101,30,48,0,0,0,1,0,SELF
     move TRI_ATTACK,SPECIAL,NORMAL,NORMAL_HIT,TRI_ATTACK,20,0,80,100,10,16,0,1,0,0,1,ANY_OTHER
-    move SUPER_FANG,PHYSICAL,NORMAL,NORMAL_HIT.DAMAGE_CURRENT_50,NONE,0,0,0,90,10,16,1,1,0,0,1,ANY_OTHER
+    move SUPER_FANG,PHYSICAL,NORMAL,NORMAL_HIT.DAMAGE_CURRENT_1_2,NONE,0,0,0,90,10,16,1,1,0,0,1,ANY_OTHER
 	move SLASH,PHYSICAL,NORMAL,NORMAL_HIT.INCREASED_CRIT,NONE,0,0,70,100,20,32,1,1,0,0,1,ANY_OTHER
-	move SUBSTITUTE,STATUS,NORMAL,SUBSTITUTE.REQUIRES_HP_25,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
+	move SUBSTITUTE,STATUS,NORMAL,SUBSTITUTE.REQUIRES_HP_1_4,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
     move STRUGGLE,PHYSICAL,TYPELESS,NORMAL_HIT.STRUGGLE,NONE,0,0,50,101,1,1,1,1,0,0,0,ANY_OTHER
     move SKETCH,STATUS,NORMAL,SKETCH,NONE,0,0,0,101,1,1,0,0,0,0,0,ANY_OTHER
 	move TRIPLE_KICK,PHYSICAL,FIGHTING,TRIPLE_HIT,NONE,0,0,10,90,10,16,1,1,0,0,1,ANY_OTHER
@@ -215,7 +215,7 @@ Moves:
 	move SCARY_FACE,STATUS,NORMAL,STAT_SPEED_DOWN_2,NONE,0,0,0,100,10,16,0,1,1,0,1,ANY_OTHER
 	move FAINT_ATTACK,PHYSICAL,DARK,NORMAL_HIT,NONE,0,0,60,101,20,32,1,1,0,0,1,ANY_OTHER
 	move SWEET_KISS,STATUS,FAIRY,CONFUSE,NONE,0,0,0,75,10,16,0,1,1,0,1,ANY_OTHER
-	move BELLY_DRUM,STATUS,NORMAL,STAT_ATTACK_MAX.REQUIRES_HP_50,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
+	move BELLY_DRUM,STATUS,NORMAL,STAT_ATTACK_MAX.REQUIRES_HP_1_2,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
 	move SLUDGE_BOMB,SPECIAL,POISON,NORMAL_HIT.BULLETPROOF,POISON,30,0,90,100,10,16,0,1,0,0,1,ANY_OTHER
 	move MUD_SLAP,SPECIAL,GROUND,NORMAL_HIT.STAT_ACCURACY_DOWN_1,NONE,0,0,20,100,10,16,0,1,0,0,1,ANY_OTHER
 	move OCTAZOOKA,SPECIAL,WATER,NORMAL_HIT.BULLETPROOF,STAT_ACCURACY_DOWN_1,50,0,65,85,10,16,0,1,0,0,1,ANY_OTHER
@@ -228,58 +228,58 @@ Moves:
 	move DETECT,STATUS,FIGHTING,PROTECT.PROTECTION,NONE,0,4,0,101,5,8,0,0,0,0,0,ANY_OTHER
 	move BONE_RUSH,PHYSICAL,GROUND,MULTI_HIT,NONE,0,0,25,90,10,16,0,1,0,0,1,ANY_OTHER
 	move LOCK_ON,STATUS,NORMAL,LOCK_ON,NONE,0,0,0,101,5,8,0,1,0,0,1,ANY_OTHER
-	move OUTRAGE,PHYSICAL,DRAGON,NORMAL_HIT.FIXATED,NONE,0,0,120,100,10,16,1,1,0,0,1,OPPONENT_RANDOM
-	move SANDSTORM,    EFFECT_SANDSTORM,           0, ROCK,     100, 10,   0
-	move GIGA_DRAIN,   EFFECT_LEECH_HIT,          75, GRASS,    100,  5,   0
-	move ENDURE,       EFFECT_ENDURE,              0, NORMAL,   100, 10,   0
-	move CHARM,        EFFECT_ATTACK_DOWN_2,       0, NORMAL,   100, 20,   0
-	move ROLLOUT,      EFFECT_ROLLOUT,            30, ROCK,      90, 20,   0
-	move FALSE_SWIPE,  EFFECT_FALSE_SWIPE,        40, NORMAL,   100, 40,   0
-	move SWAGGER,      EFFECT_SWAGGER,             0, NORMAL,    90, 15, 100
-	move MILK_DRINK,   EFFECT_HEAL,                0, NORMAL,   100, 10,   0
-	move SPARK,        EFFECT_PARALYZE_HIT,       65, ELECTRIC, 100, 20,  30
-	move FURY_CUTTER,  EFFECT_FURY_CUTTER,        40, BUG,       95, 20,   0
-	move STEEL_WING,   EFFECT_DEFENSE_UP_HIT,     70, STEEL,     90, 25,  10
-	move MEAN_LOOK,    EFFECT_MEAN_LOOK,           0, NORMAL,   100,  5,   0
-	move ATTRACT,      EFFECT_ATTRACT,             0, NORMAL,   100, 15,   0
-	move SLEEP_TALK,   EFFECT_SLEEP_TALK,          0, NORMAL,   100, 10,   0
-	move HEAL_BELL,    EFFECT_HEAL_BELL,           0, NORMAL,   100,  5,   0
-	move RETURN,       EFFECT_RETURN,              1, NORMAL,   100, 20,   0
-	move PRESENT,      EFFECT_PRESENT,             1, NORMAL,    90, 15,   0
-	move FRUSTRATION,  EFFECT_FRUSTRATION,         1, NORMAL,   100, 20,   0
-	move SAFEGUARD,    EFFECT_SAFEGUARD,           0, NORMAL,   100, 25,   0
-	move PAIN_SPLIT,   EFFECT_PAIN_SPLIT,          0, NORMAL,   100, 20,   0
-	move SACRED_FIRE,  EFFECT_SACRED_FIRE,       100, FIRE,      95,  5,  50
-	move MAGNITUDE,    EFFECT_MAGNITUDE,           1, GROUND,   100, 30,   0
-	move DYNAMICPUNCH, EFFECT_CONFUSE_HIT,       100, FIGHTING,  50,  5, 100
-	move MEGAHORN,     EFFECT_NORMAL_HIT,        120, BUG,       85, 10,   0
-	move DRAGONBREATH, EFFECT_PARALYZE_HIT,       60, DRAGON,   100, 20,  30
-	move BATON_PASS,   EFFECT_BATON_PASS,          0, NORMAL,   100, 40,   0
-	move ENCORE,       EFFECT_ENCORE,              0, NORMAL,   100,  5,   0
-	move PURSUIT,      EFFECT_PURSUIT,            40, DARK,     100, 20,   0
-	move RAPID_SPIN,   EFFECT_RAPID_SPIN,         50, NORMAL,   100, 40,   0
-	move SWEET_SCENT,  EFFECT_EVASION_DOWN,        0, NORMAL,   100, 20,   0
-	move IRON_TAIL,    EFFECT_DEFENSE_DOWN_HIT,  100, STEEL,     75, 15,  30
-	move METAL_CLAW,   EFFECT_ATTACK_UP_HIT,      50, STEEL,     95, 35,  10
-	move VITAL_THROW,  EFFECT_ALWAYS_HIT,         70, FIGHTING, 100, 10,   0
-	move MORNING_SUN,  EFFECT_MORNING_SUN,         0, NORMAL,   100,  5,   0
-	move SYNTHESIS,    EFFECT_SYNTHESIS,           0, GRASS,    100,  5,   0
-	move MOONLIGHT,    EFFECT_MOONLIGHT,           0, NORMAL,   100,  5,   0
-	move HIDDEN_POWER, EFFECT_HIDDEN_POWER,        1, NORMAL,   100, 15,   0 //NO SKETCH
-	move CROSS_CHOP,   EFFECT_NORMAL_HIT,        100, FIGHTING,  80,  5,   0
-	move TWISTER,      EFFECT_TWISTER,            40, DRAGON,   100, 20,  20
-	move RAIN_DANCE,   EFFECT_RAIN_DANCE,          0, WATER,     90,  5,   0
-	move SUNNY_DAY,    EFFECT_SUNNY_DAY,           0, FIRE,      90,  5,   0
-	move CRUNCH,       EFFECT_SP_DEF_DOWN_HIT,    80, DARK,     100, 15,  20
-	move MIRROR_COAT,  EFFECT_MIRROR_COAT,         1, PSYCHIC,  100, 20,   0
-	move PSYCH_UP,     EFFECT_PSYCH_UP,            0, NORMAL,   100, 10,   0
-	move EXTREMESPEED, EFFECT_PRIORITY_HIT,       80, NORMAL,   100,  5,   0
-	move ANCIENTPOWER, EFFECT_ALL_UP_HIT,         60, ROCK,     100,  5,  10
-	move SHADOW_BALL,  EFFECT_SP_DEF_DOWN_HIT,    80, GHOST,    100, 15,  20
-	move FUTURE_SIGHT, EFFECT_FUTURE_SIGHT,      120, PSYCHIC,   90, 15,   0
-	move ROCK_SMASH,   EFFECT_DEFENSE_DOWN_HIT,   40, FIGHTING, 100, 15,  50
-	move WHIRLPOOL,    EFFECT_TRAP_TARGET,        35, WATER,     85, 15,   0
-	move BEAT_UP,      EFFECT_BEAT_UP,            10, DARK,     100, 10,   0
+	move OUTRAGE,PHYSICAL,DRAGON,NORMAL_HIT.FIXATED.THRASH,NONE,0,0,120,100,10,16,1,1,0,0,1,OPPONENT_RANDOM
+	move SANDSTORM,STATUS,ROCK,SANDSTORM,NONE,0,0,0,101,10,16,0,0,0,0,0,ALL
+	move GIGA_DRAIN,SPECIAL,GRASS,NORMAL_HIT.HEAL_DAMAGE_1_2,NONE,0,0,75,100,10,16,0,1,0,0,1,ANY_OTHER
+	move ENDURE,STATUS,NORMAL,ENDURE.PROTECTION,NONE,0,4,0,101,10,16,0,0,0,0,0,SELF
+	move CHARM,STATUS,FAIRY,STAT_ATTACK_DOWN_2,NONE,0,0,0,100,20,32,0,1,1,0,1,ANY_OTHER
+	move ROLLOUT,PHYSICAL,ROCK,NORMAL_HIT.ROLLOUT.FIXATED.DEFENSE_CURL_BOOST,NONE,0,0,30,90,20,32,1,1,0,0,1,ANY_OTHER
+	move FALSE_SWIPE,PHYSICAL,NORMAL,NORMAL_HIT.FALSE_SWIPE,NONE,0,0,40,100,40,64,1,1,0,0,1,ANY_OTHER
+	move SWAGGER,STATUS,NORMAL,STAT_ATTACK_UP_2.CONFUSE,NONE,0,0,0,85,15,24,0,1,1,0,1,ANY_OTHER
+	move MILK_DRINK,STATUS,NORMAL,HEAL_1_2,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
+	move SPARK,PHYSICAL,ELECTRIC,NORMAL_HIT,PARALYZE,30,0,65,100,20,32,1,1,0,0,1,ANY_OTHER
+	move FURY_CUTTER,PHYSICAL,BUG,NORMAL_HIT.FURY_CUTTER_160,NONE,0,0,40,95,20,32,1,1,0,0,1,ANY_OTHER
+	move STEEL_WING,PHYSICAL,STEEL,NORMAL_HIT,STAT_DEFENSE_UP,10,0,70,90,25,40,1,1,0,0,1,ANY_OTHER
+	move MEAN_LOOK,STATUS,NORMAL,TRAP,NONE,0,0,0,101,5,8,0,0,1,0,1,ANY_OTHER
+	move ATTRACT,STATUS,NORMAL,INFATUATE,NONE,0,0,0,100,15,24,0,1,1,0,1,ANY_OTHER
+	move SLEEP_TALK,STATUS,NORMAL,WHEN_SLEEP.SLEEP_TALK,NONE,0,0,0,101,10,16,0,0,0,0,0,SELF
+	move HEAL_BELL,STATUS,NORMAL,CURE_ALL_PARTY.SOUND.CURE_ALL,NONE,0,0,0,101,5,8,0,0,0,1,0,ALL_ALLIES
+	move RETURN,PHYSICAL,NORMAL,NORMAL_HIT.HAPPINESS_DAMAGE,NONE,0,0,0,100,20,32,1,1,0,0,1,ANY_OTHER
+	move PRESENT,PHYSICAL,NORMAL,PRESENT,NONE,0,0,0,90,15,24,0,1,0,0,1,ANY_OTHER
+	move FRUSTRATION,PHYSICAL,NORMAL,NORMAL_HIT.HAPPINESS_DAMAGE_INVERSE,NONE,0,0,0,100,20,32,1,1,0,0,1,ANY_OTHER
+	move SAFEGUARD,STATUS,NORMAL,SAFEGUARD,NONE,0,0,0,101,25,40,0,0,0,1,0,ALL_ALLIES
+	move PAIN_SPLIT,STATUS,NORMAL,PAIN_SPLIT,NONE,0,0,0,101,20,32,0,1,0,0,1,ANY_OTHER
+	move SACRED_FIRE,PHYSICAL,FIRE,NORMAL_HIT.THAWS,BURN,50,0,100,95,5,8,0,1,0,0,1,ANY_OTHER
+	move MAGNITUDE,PHYSICAL,GROUND,NORMAL_HIT.MAGNITUDE.HITS_DIG.GRASSY_TERRAIN_HALF_POWER,NONE,0,0,0,100,30,48,0,1,0,0,1,ANY_OTHER
+	move DYNAMICPUNCH,PHYSICAL,FIGHTING,NORMAL_HIT.CONFUSE.PUNCH,NONE,0,0,100,50,5,8,1,1,0,0,1,ANY_OTHER
+	move MEGAHORN,PHYSICAL,BUG,NORMAL_HIT,NONE,0,0,120,85,10,16,1,1,0,0,1,ANY_OTHER
+	move DRAGONBREATH,SPECIAL,DRAGON,NORMAL_HIT,PARALYZE,30,0,60,100,20,32,0,1,0,0,1,ANY_OTHER
+	move BATON_PASS,STATUS,NORMAL,BATON_PASS,NONE,0,0,0,101,40,64,0,0,0,0,0,SELF
+	move ENCORE,STATUS,NORMAL,ENCORE,NONE,0,0,0,100,5,8,0,1,1,0,1,ANY_OTHER
+	move PURSUIT,PHYSICAL,DARK,NORMAL_HIT.HITS_FLEEING,NONE,0,0,40,100,20,32,1,1,0,0,1,ANY_OTHER
+	move RAPID_SPIN,PHYSICAL,NORMAL,REMOVE_HAZARDS.REMOVE_BIND.REMOVE_LEECH_SEED.STAT_SPEED_UP_1.FAIL_IF_FAINT.FAIL_IF_IMMUNE,0,0,50,100,40,64,1,1,0,0,1,ANY_OTHER
+	move SWEET_SCENT,STATUS,NORMAL,STAT_EVASION_DOWN_2,NONE,0,0,0,100,20,32,0,1,1,0,1,ALL_OPPONENTS
+	move IRON_TAIL,PHYSICAL,STEEL,NORMAL_HIT,STAT_DEFENSE_DOWN_1,30,0,100,75,15,24,1,1,0,0,1,ANY_OTHER
+	move METAL_CLAW,PHYSICAL,STEEL,NORMAL_HIT,STAT_ATTACK_UP_1,10,0,50,95,35,56,1,1,0,0,1,ANY_OTHER
+	move VITAL_THROW,PHYSICAL,FIGHTING,NORMAL_HIT,NONE,0,-1,70,101,10,16,1,1,0,0,1,ANY_OTHER
+	move MORNING_SUN,STATUS,NORMAL,HEAL_1_2.SUN_HEAL_2_3.RAIN_HEAL_1_4.HAIL_HEAL_1_4.SANDSTORM_HEAL_1_4.PVE_MORNING_SUN,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
+	move SYNTHESIS,STATUS,NORMAL,HEAL_1_2.SUN_HEAL_2_3.RAIN_HEAL_1_4.HAIL_HEAL_1_4.SANDSTORM_HEAL_1_4.PVE_MORNING_SUN,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
+	move MOONLIGHT,STATUS,NORMAL,HEAL_1_2.SUN_HEAL_2_3.RAIN_HEAL_1_4.HAIL_HEAL_1_4.SANDSTORM_HEAL_1_4.PVE_MOONLIGHT,NONE,0,0,0,101,10,16,0,0,0,1,0,SELF
+	move HIDDEN_POWER,SPECIAL,TYPELESS,HIDDEN_POWER.NORMAL_HIT,NONE,0,0,60,100,15,24,0,1,0,0,1,ANY_OTHER
+	move CROSS_CHOP,PHYSICAL,FIGHTING,NORMAL_HIT.INCREASED_CRIT,NONE,0,0,100,80,5,8,1,1,0,0,1,ANY_OTHER
+	move TWISTER,SPECIAL,DRAGON,NORMAL_HIT.HITS_FLY,FLINCH,20,0,40,100,20,32,0,1,0,0,1,ALL_OPPONENTS
+	move RAIN_DANCE,STATUS,WATER,RAIN,NONE,0,0,0,101,5,8,0,0,0,0,0,ALL
+	move SUNNY_DAY,STATUS,FIRE,SUN,NONE,0,0,0,101,5,8,0,0,0,0,0,ALL
+	move CRUNCH,PHYSICAL,DARK,NORMAL_HIT.BITE,STAT_DEFENSE_DOWN_1,20,0,80,100,15,24,1,1,0,0,1,ANY_OTHER
+	move MIRROR_COAT,SPECIAL,PSYCHIC,MIRROR_COAT,NONE,0,-5,0,100,20,32,0,1,0,0,0,SELF
+	move PSYCH_UP,STATUS,NORMAL,COPY_STAT_ALL,NONE,0,0,0,101,10,16,0,0,0,0,0,ANY_OTHER
+	move EXTREMESPEED,PHYSICAL,NORMAL,NORMAL_HIT,NONE,0,2,80,100,5,8,1,1,0,0,1,ANY_OTHER
+	move ANCIENTPOWER,SPECIAL,ROCK,NORMAL_HIT,STAT_REGULAR_UP_1,10,0,60,100,15,24,0,1,0,0,1,ANY_OTHER
+	move SHADOW_BALL,SPECIAL,GHOST,NORMAL_HIT.BULLETPROOF,STAT_SPECIALDEF_DOWN_1,20,0,80,100,15,24,0,1,0,0,1,ANY_OTHER
+	move FUTURE_SIGHT,SPECIAL,PSYCHIC,FUTURE_SIGHT,NONE,0,0,120,100,10,16,0,0,0,0,0,ANY_OTHER
+	move ROCK_SMASH,PHYSICAL,FIGHTING,NORMAL_HIT,STAT_DEFENSE_DOWN_1,50,0,40,100,15,24,1,1,0,0,1,ANY_OTHER
+	move WHIRLPOOL,SPECIAL,WATER,NORMAL_HIT.BIND,NONE,0,0,35,85,15,24,0,1,0,0,1,ANY_OTHER
+	move BEAT_UP,PHYSICAL,DARK,BEAT_UP,NONE,0,0,10,100,10,16,0,1,0,0,1,ANY_OTHER
 	; Below are added moves from prism/moves.asm. The stats looked correct.
 	;
 	move AQUA_JET,      EFFECT_PRIORITY_HIT,       40, WATER,      100,    20,     0
@@ -374,22 +374,41 @@ public class Attack {
         NORMAL_HIT,                         //does damage and attacks once
         DOUBLE_HIT,                         //attacks twice
         MULTI_HIT,                          //attacks 2-5 times
+        BEAT_UP,                            //each non-fainted pokemon in the party without a non-volatile status ailment attacks
+        FIXATED,                            //applies the fixated effect
         WEIGHT_DAMAGE,                      //does damage based on weight
         HP_DAMAGE,                          //does damage based on the remaining percentage of user HP
         HP_DAMAGE_INVERSE,                  //does the same as HP_DAMAGE but does more damage the lower ther user's HP
+        HAPPINESS_DAMAGE,                   //does damage based on user's happiness
+        HAPPINESS_DAMAGE_INVERSE,           //does damage based on user's happiness but does more damage the lower ther user's happiness
         OHKO,                               //causes target to faint
-        RECOIL_[(1/)DENOMINATOR],           //deals recoil damage: demominator means 1/2 or 1/3 or 1/4 of damage dealt
-        HEAL_DAMAGE_[PERCENTAGE],           //heals user for a percentage of damage dealt
-        HEAL_[PERCENTAGE],                  //heals user for a percentage of the user's max HP
-        DAMAGE_CURRENT_[PERCENTAGE],        //deals a percentage of the target's remaining hp as damage
-        REQUIRES_HP_[PERCENTAGE],           //consumes a percentage of the user's max HP and fails if it has less
+        RECOIL_[NUM1]_[NUM2],               //deals recoil damage: num1/num2 of damage dealt
+        HEAL_DAMAGE_[NUM1]_[NUM2],          //heals user for num1/num2 of damage dealt
+        HEAL_[NUM1]_[NUM2],                 //heals user for num1/num2 of the user's max HP
+        DAMAGE_CURRENT_[NUM1]_[NUM2],       //deals num1/num2 of the target's remaining hp as damage
+        REQUIRES_HP_[NUM1]_[NUM2],          //consumes num1/num2 of the user's max HP and fails if it has less
+        PAIN_SPLIT,                         //pain split's effect
         STRUGGLE,                           //struggle's effect
+        PRESENT,                            //present's effect
+        MAGNITUDE,                          //magnitude's random damage effect
+        HIDDEN_POWER,                       //hidden power's type chaning effect
         DISABLE,                            //applies the disable effect on the target
+        BATON_PASS,                         //baton pass' effect
         MIRROR_MOVE,                        //mirror Move's effect
+        REMOVE_HAZARDS,                     //removes entry hazards from the user's side of the field
+        REMOVE_BIND,                        //removes bind effect from the user
+        REMOVE_LEECH_SEED,                  //removes leech seed effect from the user
+        FAIL_IF_FAINT,                      //all other effects of this damaging move are ignored if the user faints in the process of attacking
+        FAIL_IF_IMMUNE,                     //all other effects of this damaging move  are ignored if the target is immune to this attack type
         MIST,                               //applies mist's field effect to target's side of the field
         RAGE,                               //rage's effect outside of dealing damage
         MIMIC,                              //mimic's effect
         REST,                               //rest's effect outside of healing
+        THRASH,                             //thrash's 2-3 turn fixation and confusion afterwards
+        ROLLOUT,                            //rollout's doubling effect and 5-turn limit on fixation
+        FALSE_SWIPE                         //leaves the target with at least 1 HP
+        FURY_CUTTER_[NUM]                   //move doubles in power for each subsequent use up to num
+        FUTURE_SIGHT                        //applies the future sight effect on the target
         NO_MIMIC,                           //this move cannot be mimicked
         NO_ENCORE,                          //this move cannot be encored
         NO_INSTRUCT,                        //this move cannot be instructed
@@ -403,9 +422,12 @@ public class Attack {
         LOCK_ON,                            //gives the target the locked-on effect
         STEAL_ITEM,                         //steals the opponent's item; fails if user has an item
         COUNTER,                            //counter's effect
+        MIRROR_COAT,                        //mirror coat's effect
         PP_REDUCE_LAST_[NUM],               //reduces the target's last used move pp by a given number
         LEVEL_DAMAGE,                       //deals damage equal to the user's level
         INCREASED_CRIT,                     //move has a +1 crit chance
+        COPY_STAT_ALL                       //user copy's the target's stat changes
+        STAT_REGULAR_[UP/DOWN]_[NUM_STAGES] //applies a number of stat stage changes to speed, attack,defense, special attack, and special defense
         STAT_[STAT]_[UP/DOWN]_[NUM_STAGES], //applies a number of stat stage changes to a specific stat of the target
         STAT_RESET_ALL,                     //resets all stat stages to 0 for target
         STAT_[STAT]_MAX,                    //sets stat stage to +6 for a given stat of target
@@ -414,10 +436,12 @@ public class Attack {
         HITS_DIVE,                          //hits pokemon in the semi-invulnerable stage of dive
         HITS_FLYING,                        //hits flying pokemon regardless of type immunities
         HITS_MINIMIZE,                      //ignores accuracy checks and deals double damage against minimized pokemon
+        HITS_FLEEING,                       //attacks before a pokemon is able to flee and for double damage
         [WEATHER]_ALWAYS_HIT,               //while a given weather is in effect, bypasses accuracy checks
         [WEATHER]_HALF_POWER,               //while a given weather is in effect, power of move is halved
         [WEATHER]_ACCURACY_SET_[NUM],       //while a given weather is in effect, accuracy of move is changed to provided value
-        [WEATHER]_STAT_[...],               //while a given weather is in effect, apply a stat stage change effect
+        [WEATHER]_STAT_[...],               //while a given weather is in effect, apply a stat stage change effect. If this move would already change this stat, it applies this effect instead
+        [WEATHER]_HEAL_[NUM1]_[NUM2]        //while a given weather is in effect, heal num1/num2 of max HP. If this move would already heal, it heals this much instead
         [TERRAIN]_TERRAIN_HALF_POWER        //while a given terrain is in effect, and target is grounded, power of move is halved
         CHARGING_STAT_[...]                 //applies a stat stage change on user while they are charging their move or before attacking if a power herb is used
         TYPE_[TYPE]_ALWAYS_HIT,             //if user is a given type, the move ignores accuracy checks
@@ -467,10 +491,12 @@ public class Attack {
         DEFENSE_CURL_BOOST,                 //move's power is doubled if user is under the defense curl effect
         INGRAIN,                            //applies the ingrain effect on the user
         MAGIC_COAT,                         //applies the magic coat effect on the user
-        SAFEGUARD,                          //applies the safeguard effect on the user
+        SAFEGUARD,                          //applies the safeguard effect on the target
+        SAFEGUARD_PARTY,                    //applies the safeguard effect on the user's party
         LEVITATION,                         //applies the levitating effect on the user
         MINIMIZE,                           //applies the minimize effect on the user
         PROTECT,                            //applies the protect effect on the user
+        ENDURE,                             //applies the endure effect on the user
         PROTECTION,                         //counts as a protection move for the subsequent use failure chance
         REMOVE_BARRIER,                     //removes protect, guard, shield, etc. move effects from the target
         FLY,                                //puts the user into fly's semi-invulnerable state
@@ -498,9 +524,14 @@ public class Attack {
         SECRET_POWER,                       //secret power's effect that depends on the environment
         TRI_ATTACK,                         //randomly applies either burn, freeze, or paralysis on the target
         CURE_[STATUS],                      //removes a given status from the target if they have it
-        [TERRAIN]_TERRAIN,                  //applies the given terrain field effect on the user's side of the field
+        CURE_ALL,                           //removes any status effects from target
+        CURE_ALL_PARTY,                     //removes any status effects from user's party
+        [TERRAIN]_TERRAIN,                  //applies the given terrain field effect
+        [WEATHER],                          //applies the given weather field effect
         STATIC_DAMAGE_[NUM],                //ignores stats and typing the apply a given amount of damage to the target
         STATIC_TYPED_DAMAGE_[NUM]           //ignores stats but applies STAB and typing when applying a given amount of damage to the target
+        PVE_MORNING_SUN                 //outside of PvP, the effect also consideres time of day
+        PVE_MOONLIGHT                   //outside of PvP, the effect also consideres time of day
     }
 
     //I won't actually count secondary effects as their own thing; technically any effect could be a secondary effect

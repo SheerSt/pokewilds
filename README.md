@@ -111,20 +111,163 @@ If you are interested in helping with code, please create an issue here saying t
 Feel free to DM me on the Pokemon Wilds discord server also regarding this, whatever works best for you.
 
 # Credits
-**Credits for v0.8:** - Special thank-you to everyone who contributed this update!
+Special thank-you to everyone who has contributed!
 
-Battle sprites:
- - **Credits to Nuuk on discord (nuukiie on twitter) for many Pokemon front and back sprites.**
- - **Credits to the Prism team for many Pokemon front and back sprites.**
+### Battle sprites:
+ - **Credits to Nuuk on discord (nuukiie on twitter) for many Pokemon battle sprites.**
+ - **Credits to the Prism team for many Pokemon battle sprites.**
+ - Whimsicott battle sprites - IncuTyph on discord
+ - Cottonee battle and overworld sprites - Ayinai on discord
+ - Morelull front animation and overworld sprites - betsybugaboo on discord
+ - Morelull back sprite - IncuTyph on discord
+ - Stunfisk battle and overworld sprites - Skymaury on discord
+ - Carbink battle sprites - Skymaury on discord
+ - Gothitelle battle sprites - Roffles on discord
+ - Gothorita battle sprites - Roffles on discord
+ - Gothita battle sprites - Roffles on discord
+ - Minccino battle sprites - IncuTyph on discord
+ - Cinccino battle sprites - IncuTyph on discord
+ - Oranguru battle and overworld sprites - Ayinai on discord
+ - Diancie battle and overworld sprites - Iustinus Tempus on discord
+ - Komala battle sprites - Village on discord
+ - Pyukumuku battle sprites - Village on discord
+ - Durant battle and overworld sprites - GenDraconis on discord
+ - Indeedee Male and Indeedee Female battle and overworld sprites - Gyu on discord
+ - Liepard battle and overworld sprites - EeVeeEe on discord
+ - Rotom normal form back sprite - PotatoCheep on discord
+ - Rotom normal form front and overworld sprites - Shaqtothefuture on discord
+ - Lickilicky battle sprites - Shaqtothefuture on discord
+ - Drampa battle sprites - Lavios on discord
+ - Decidueye battle sprites - Ayinai on discord
+ - Munchlax battle sprites - Shaqtothefuture on discord
+ - Tyrunt battle sprites - SharkGuy on discord
+ - Tyrantrum battle sprites - SharkGuy on discord
+ - Bewear battle and overworld sprites - Potato Q on discord
+ - Stufful front sprites - Potato Q and Sadfish on discord
+ - Stufful back and overworld sprites - Potato Q on discord
+ - Minior battle and overworld sprites - MKNZ on discord
+ - Grimmsnarl battle sprites - IncuTyph on discord
+ - Greninja battle and overworld sprites - EnzoDaiki on discord
+ - Zoroark battle and overworld sprites - Sorrel on discord
+ - Gourgeist back sprite - EeVeeEe on discord
+ - Gourgeist front sprites - nik11dy6 on discord
+ - Dedenne battle sprites - Skymaury on discord
+ - Hawlucha battle and overworld sprites - Shaqtothefuture on discord
+ - Meltan battle and overworld sprites - Scoobleblablebly on discord
+ - Toxel battle and overworld sprites - Shaqtothefuture on discord
+ - Frogadier and overworld battle sprites - EnzoDaiki on discord
+ - Froakie battle and overworld sprites - EnzoDaiki on discord
+ - Popplio battle and overworld sprites - Kishibird on discord
+ - Rotom Mow form battle and overworld sprites - Shaqtothefuture on discord
+ - Rotom Fan form battle and overworld sprites - Shaqtothefuture on discord
+ - Rotom Frost form battle and overworld sprites - Shaqtothefuture on discord
+ - Rotom Wash form battle and overworld sprites - Shaqtothefuture on discord
+ - Rotom Heat form battle and overworld sprites - Shaqtothefuture on discord
+ - Scorbunny battle sprites - Internet_Goblin on discord
+ - Dartrix battle sprites - Ayinai on discord
+ - Oshawott battle sprites - SkwovetSquire on discord
+ - Starly battle sprites - Molk on discord
+ - Staravia battle sprites - Molk on discord
+ - Deino, Zweilous, Hydreigon front sprites - PotatoCheep on discord
+ - Deino, Zweilous, Hydreigon back sprites - bugcut on discord
+ - Alolan Grimer battle and overworld sprites - Shaqtothefuture on discord
+ - Alolan Muk battle and overworld sprites - Shaqtothefuture on discord
+ - Cramorant battle and overworld sprites - EeVeeEe on discord
+ - Happiny battle sprites - Hibiwiki on discord
+ - Impidimp battle sprites - IncuTyph on discord
+ - Falinks battle and overworld sprites - CynderQuill on discord
+ - Mime Jr. battle sprites - Shaqtothefuture on discord
+ - Slurpuff battle and overworld sprites - Shaqtothefuture on discord
+ - Flabebe, Floette, Florges battle and overworld sprites - SharkGuy on discord
+ - Kubfu battle sprites - Shaqtothefuture on discord
+ - Honedge battle sprites - peach-n-key on discord
+ - Raboot battle sprites - Internet_Goblin on discord
+ - Sinistea battle and overworld sprites - Shaqtothefuture on discord
+ - Heatmor battle and overworld sprites - Hibiwiki on discord
+ - Galarian Farfetch'd battle and overworld sprites - Shaqtothefuture on discord
+ - Sirfetch'd battle and overworld sprites - Shaqtothefuture on discord
+ - Yamask battle and overworld sprites - Hibiwiki on discord
+ - Galarian Mr. Mime front animation - BloodlessNS and ShadowOne333 on discord
+ - Mr. Rime front animation - Menu and Scarlax on discord
+ - Gossifleur and Eldegoss battle and overworld sprites - peach-n-key on discord
+ - Copperajah front sprites - Exet on discord
+ - Copperajah back sprite - SheerSt on discord
+ - Aegislash Shield/Sword Forme battle and overworld sprites - peach-n-key on discord
+ - Doublade battle and overworlds sprites - peach-n-key on discord
+ - Wooloo battle sprites - peach-n-key on discord
+ - Dubwool battle and overworld sprites - peach-n-key on discord
+ - Lunala battle and overworld sprites - Sage on discord
+ - Woobat, Swoobat battle sprites - GML on discord
+ - Vanillite battle sprites - Toastknight on discord
+ - Toxtricity (lowkey and regular) battle and overworld sprites - sun_dew on discord
+ - Lillipup, Herdier, and Stoutland battle and overworld sprites - GML on discord
+ - Bounsweet front sprites - Quilchess on discord
+ - Bounsweet back sprites - EeVeeEe on discord
+ - Steenee battle sprites - CuervoTerras on discord
+ - Fomantis battle sprites - Toastknight on discord
+ - Axew battle sprites - GenDraconis on discord
+ - Karrablast and Escavalier battle sprites - GML on discord
+ - Shelmet and Accelgor battle sprites - GML on discord
+ - Polteageist battle and overworld sprites - EeVeeEe on discord
+ - Galarian Mr. Mime and Mr. Rime back sprites - Scarlax on discord
+ - Incineroar battle sprites - Toastknight on discord
+ - Foongus battle sprites - GML on discord
+ - Mimikyu battle sprites - TerraTerraCotta on discord
+ - Turtwig battle and overworld sprites - CuervoTerras on discord
+ - Inkay battle sprites - Vandom on discord
+ - Torterra overworld and battle sprites - CuervoTerras on discord
+ - Sliggoo and Goodra battle sprites - Molk on discord
+ - Cofagrigus battle and overworld sprites - Hibiwiki on discord
+ - Shiinotic battle sprites - Molk on discord
+ - Grotle battle sprites - CuervoTerras on discord
+ - Timburr battle sprites - Molk on discord
+ - Goomy front animation - SkwovetSquire on discord
+ - Goomy back sprite and shiny colors - Molk on discord
+ - Burmy and Wormadam battle sprites (all forms) - sun_dew on discord
+ - Clobbopus battle and overworld sprites - SharkGuy on discord
+ - Kleavor battle sprites - Internet_Goblin on discord
+ - Galarian Corsola back sprite - ICantBelieveItsNotBowser on discord
+ - Galarian Corsola front sprites - ICantBelieveItsNotBowser and SkwovetSquire on discord
+ - Galarian Yamask front sprites - EeVeeEe and Goose on discord
+ - Galarian Yamask back sprite - EeVeeEe on discord
+ - Stonjourner front animation - PotatoCheep and SkwovetSquire on discord
+ - Snom, Frosmoth front sprites - betsybugaboo on discord
+ - Snom back sprite - ash on discord
+ - Frosmoth back sprite - Molk and EeVeeEe on discord
+ - Cosmog, Cosmoem front sprites - betsybugaboo on discord
+ - Phione front and back sprites - SkwovetSquire on discord
+ - Pumpkaboo front and back sprites - betsybugaboo on discord
+ - Runegris front animation - Scarlax and EeVeeEe on discord
+ - Runegris back sprite - EeVeeEe on discord
  - Applin front sprites - ICantBelieveItsNotBowser on discord
  - Applin back sprites - ICantBelieveItsNotBowser and betsybugaboo on discord
- - Probopass, Mantyke front and back sprites - SkwovetSquire on discord
- - Luvdisc, Sandygast, Palossand front and back sprites - betsybugaboo on discord
- - Ambipom front and back sprites - Internet_Goblin on discord
+ - Probopass, Mantyke battle sprites - SkwovetSquire on discord
+ - Luvdisc, Sandygast, Palossand battle sprites - betsybugaboo on discord
+ - Ambipom battle sprites - Internet_Goblin on discord
  - Duraludon front sprites - betsybugaboo on discord
  - Duraludon back sprite - PotatoCheep on discord
+ - Bronzor and Bronzong battle sprites - SkwovetSquire on discord.
+ - Sandile line front sprites - Goose and Sadfish on discord.
+ - Sandile line back and overworld sprites - Sadfish on discord.
+ - Sigilyph battle sprites - Sadfish on discord.
+ - Darumaka and Galarian Darumaka battle sprites - Goose on discord.
+ - Galarian Darmanitan battle sprites - Mr Dustman on discord.
+ - Galarian Zen Darmanitan back sprite - Sir Feralipogchamp on discord.
+ - Zen Darmanitan front sprite - Sir Feralipogchamp on discord.
+ - Zen Darmanitan back sprite - Mr Dustman on discord.
+ - Darmanitan front sprite - Poisonous Gas on discord.
+ - Darmanitan back sprite - Mr Dustman on discord.
+ - Elgyem and Beheeyem battle sprites - Goose on discord.
+ - Hippopotas and Hippowdon battle and overworld sprites - Sadfish on discord.
+ - Camerupt front sprites - Poisonous Gas and Goose on discord.
+ - Alolan Exeggutor battle sprites - Gmerc.
+ - Regirock, Registeel, Regice, and Regigigas battle sprites - Mr Dustman, Sadfish and Poisonous Gas on discord.
+ - Regieleki and Regidrago battle sprites - Mr Dustman on discord.
+ - Corphish battle and overworld sprites - sir feralipogchamp on discord.
+ - Crawdaunt battle sprites - sir feralipogchamp, Mr Dustman, Goose on discord.
 
-Overworld sprites: 
+### Overworld sprites: 
+ - **Credits to Megaman-Omega on Deviantart for many overworld pokemon sprites.**
  - Phantump overworld sprites - Goose on discord
  - Alolan Raichu, Galar Yamask, Cacturne, Mantyke, Mantine, and Remoraid overworld sprites - Sadfish on discord
  - Trevenant, Sandslash, Ekans, Arbok, Sharpedo, Dratini, Dragonair, Dragonite, Ledyba, Hoothoot, Sandshrew, Aipom, Ambipom, Miltank, Sudowoodo, Horsea, Seadra, Kingdra, Smoochum, Noctowl, Nidoking and Jinx overworld sprites - Internet_Goblin on discord
@@ -154,8 +297,176 @@ Overworld sprites:
  - Shuckle overworld sprites - betsybugaboo on discord
  - Cramorant overworld sprites - Sadfish on discord
  - Cubone overworld sprites - uchuu on discord
+ - Combee and Vespiquen battle and overworld sprites - TerraTerraCotta on discord.
+ - Cutiefly and Ribombee battle and overworld sprites - TerraTerraCotta on discord (and Sadfish for Cutiefly overworld sprites)
+ - Sigilyph overworld sprites - Mr Dustman on discord.
+ - Darumaka overworld sprites - Goose on discord.
+ - Galarian Darumaka overworld sprites - Mr Dustman on discord.
+ - Galarian Darmanitan overworld sprites - Sadfish and Mr Dustman on discord.
+ - Darmanitan and Zen Darmanitan overworld sprites - Poisonous Gas and Mr Dustman on discord.
+ - Elgyem and Beheeyem overworld sprites - Sadfish and Goose on discord.
+ - Wooper, Wingull, Linoone and Unown overworld sprites - Snak on discord.
+ - Weedle, Kakuna, Beedrill, Abomasnow, Rattata, and Raticate overworld sprites - Internet_Goblin on discord.
+ - Larvesta, Poochyena and Nosepass overworld sprites - Sadfish on discord.
+ - Maractus overworld sprites - EeVeeEe on discord.
+ - Zigzagoon overworld sprites - Miserable Pile Of Secrets and Kalvinz on discord.
+ - Regieleki overworld sprites and 'alternate' Regi overworld sprites - Mr Dustman on discord.
+ - Regidrago, Regirock, Regice and Registeel overworld sprites - sir feralipogchamp on discord.
+ - Crawdaunt overworld sprites - sir feralipogchamp on discord.
+ - Dwebble overworld sprites - Sadfish, Mr Dustman on discord.
+ - Crustle overworld sprites - Goose on discord.
+ - Litwick, Lampent and Chandelure overworld sprites - Goose on discord.
+ - Snover overworld sprites - Turner on discord
+ - Stantler overworld sprites - Roffles on discord
+ - Kubfu overworld sprites - LuxBeacon on discord
+ - Seel and Dewgong overworld sprites - Potato Q on discord
+ - Grubbin, Charjabug and Vikavolt overworld sprites - Elusiveplayer on discord
+ - Treecko, Torchic overworld sprites - Filth-sama on discord
+ - Zorua overworld sprites - Sorrel on discord
+ - Venonat, Venomoth overworld sprites - Roffles on discord
+ - Wooloo overworld sprites - betsybugaboo on discord
+ - Mawile overworld sprites - Iustinus Tempus on discord
+ - Latias and Latios overworld sprites - Elusiveplayer on discord
+ - Shiinotic overworld sprites - betsybugaboo on discord
+ - Buizel and Floatzel overworld sprites - Filth-sama on discord
+ - Piplup, Prinplup and Empoleon overworld sprites - Elusiveplayer on discord
+ - Mudkip, Marshtomp and Swampert overworld sprites - Ayinai on discord
+ - Igglybuff, Jigglypuff, Wigglytuff overworld sprites - Roffles on discord
+ - Gothita, Gothorita, Gothitelle overworld sprites - Roffles on discord
+ - Scorbunny, Raboot, Cinderace overworld sprites - Internet_Goblin on discord
+ - Cleffa overworld sprites - Meowmie/Tabby on discord
+ - Lickitung, Lickilicky overworld sprites - Shaqtothefuture on discord
+ - Magnemite, Magneton, Magnezone overworld sprites - ElusivePlayer on discord
+ - Chinchou, Lanturn overworld sprites - ElusivePlayer on discord
+ - Pachirisu overworld sprites - SkwovetSquire on discord
+ - Plusle, Minun overworld sprites - Lux and GenDraconis on discord
+ - Drampa overworld sprites - Lavios on discord
+ - Noibat and Noivern overworld sprites - Ayinai on discord
+ - Audino overworld sprites - Gyu on discord
+ - Happiny overworld sprites - Internet_Goblin on discord
+ - Mimikyu overworld sprites - Internet_Goblin on discord
+ - Beheeyem overworld sprites - EeVeeEe on discord
+ - Toucannon overworld sprites - EeVeeEe on discord
+ - Duraludon overworld sprites - Internet_Goblin on discord
+ - Octillery overworld sprites - Internet_Goblin on discord
+ - Dartrix and Decidueye overworld sprites - Ayinai on discord
+ - Hypno overworld sprites - Hibiwiki on discord
+ - Wobbuffet overworld sprites - Scoobleblablebly on discord
+ - Combusken, Blaziken overworld sprites - Hibiwiki on discord
+ - Trubbish overworld sprites - SaltExplosion on discord
+ - Grovyle, Sceptile overworld sprites - Hibiwiki on discord
+ - Swadloon and Leavanny overworld sprites - betsybugaboo on discord
+ - Krabby and Wurmple overworld sprites - Jiggy on discord
+ - Goomy overworld sprites - betsybugaboo on discord
+ - Sligoo, Goodra overworld sprites - OtDxRaichunite on discord
+ - Nincada, Ninjask and Shedinja overworld sprites - peach-n-key on discord
+ - Granbull overworld sprites - peach-n-key on discord
+ - Skitty and Delcatty overworld sprites - peach-n-key on discord
+ - Slakoth, Vigoroth and Slaking overworld sprites - peach-n-key on discord
+ - Cascoon, Dustox, Silcoon, and Beautifly overworld sprites - peach-n-key on discord
+ - Spoink and Grumpig overworld sprites - LuxBeacon on discord
+ - Urshifu overworld sprites - LuxBeacon on discord
+ - Galarian Mr. Mime, Mr. Rime overworld sprites - Lux and EeVeeEe on discord
+ - Copperajah overworld sprites - hades da god on discord
+ - Seedot overworld sprites - hades da god on discord
+ - Celebi overworld sprites - peach-n-key on discord
+ - Venipede overworld sprites - peach-n-key on discord
+ - Scolipede overworld sprites - CuervoTerras on discord
+ - Runerigus overworld sprites - EeVeeEe on discord
+ - Galar Yamask overworld sprites - EeVeeEe and Hibiwiki on discord
+ - Calyrex overworld sprites - peach-n-key on discord
+ - Quilladin and Chesnaught overworld sprites - peach-n-key and LuxBeacon on discord
+ - Tepig overworld sprites - GML on discord
+ - Pikipek, Trumbeak overworld sprites - EeVeeEe on discord
+ - Snivy overworld sprites - GML on discord
+ - Fomantis overworld sprites - EeVeeEe on discord
+ - Budew, Roselia and Roserade overworld sprites - GML on discord
+ - Joltik and Galvantula overworld sprites - GML on discord
+ - Vanillite, Vanillish overworld sprites - GML on discord
+ - Vanilluxe overworld sprites - Kazdraws0w0 on discord
+ - Nuzleaf overworld sprites - GML on discord
+ - Kommo-o overworld sprites - GML on discord
+ - Gulpin, Swalot overworld sprites - GML on discord
+ - Pignite overworld sprites - GML on discord
+ - Obstagoon overworld sprites - EeVeeEe on discord
+ - Purrloin overworld sprites - EeVeeEe on discord
+ - Shelmet and Accelgor overworld sprites - EeVeeEe on discord
+ - Karrablast and Escavalier overworld sprites - GML on discord
+ - Oddish, Gloom, Vileploom, Primeape, Poliwag, Poliwhirl, Poliwrath, Snorlax, Raikou, Entei, and Suicune overworld sprite edits - JappaWakka on discord
+ - Wimpod overworld sprites - HERO on discord
+ - Solosis, Duosion, and Reuniclus overworld sprites - GML on discord
+ - Servine, Serperior overworld sprites - GML on discord
+ - Lurantis overworld sprites - EeVeeEe on discord
+ - Shellos East and Shellos West overworld sprites - GML on discord
+ - Cyndaquil, Quilava and Typhlosion overworld sprites - Invader and MegamanOmega on discord
+ - Hisuian Typhlosion overworld sprites - Invader on discord
+ - Hisuian Growlithe overworld sprites - Bugcut on discord
+ - Fennekin overworld sprites - Kedöshim on discord
+ - Wynaut overworld sprites - Kedöshim on discord
+ - Cursola overworld sprites - Kedöshim on discord
+ - Galarian Corsola overworld sprites - Kedöshim on discord
+ - Corsola overworld sprites - Kedöshim on discord
+ - Ursaluna overworld sprites - Kedöshim on discord
+ - Rookidee overworld sprites - Kedöshim on discord
+ - Deoxys overworld sprites (all forms) - Kedöshim on discord
+ - Hisuian and Spooky house sprites - CuervoTerras on discord
+ - Hisuian Decidueye, Samurott and Hisuian Samurott overworld sprites - Kedöshim on discord
+ - Hisuian Voltorb and Hisuian Electrode overworld sprites - MapleSyrup on discord
+ - Pawniard and Bisharp overworld sprites - Sayaka on discord
+ - Meditite and Medicham overworld sprites - Kedöshim on discord
+ - Rufflet and Kingler overworld sprites - Kedöshim on discord
+ - Regigigas and Corvisquire overworld sprites - Kedöshim on discord
+ - Chimchar, Infernape and Monferno overworld sprites - Kedöshim on discord
+ - Castform and Cloyster overworld sprites - LuxBeacon on discord
+ - Farfetch'd, Galarian Ponyta and Galarian Rapidash overworld sprites - Kedöshim on discord
+ - Sewaddle overworld sprites - GML on discord
+ - Blipbug overworld sprites - Rolyer on discord
+ - Drizzile overworld sprites - E.splash on discord
+ - Tapu Fini, Tapu Bulu, Tapu Lele, Tapu Koko and Hatenna overworld sprites - Kedöshim on discord
+ - Hatterene, Tyrantrum, Primarina, Hisuian Braviary and Braviary overworld sprites - Kedöshim on discord
+ - Gorebyss, Huntail, Clamperl and Corviknight overworld sprites - Kedöshim on discord
+ - Burmy and Wormadam overworld sprites (all forms) - EeVeeEe on discord
+ - Doduo and Dodrio overworld sprite edits - JappaWakka on discord
+ - Mankey overworld sprites - Rolyer on discord
+ - Nidorino overworld sprites - EeVeeEe on discord
+ - Burmy and Wormadam overworld sprites (all forms) - EeVeeEe on discord
+ - Shellder overworld sprites - Molk on discord
+ - Sewaddle overworld sprites - GML on discord
+ - Blipbug overworld sprites - Rolyer on discord
+ - Kabutops overworld sprites - Kedöshim on discord
+ - Sobble and Drizzile overworld sprites - E.splash on discord
+ - Meowth and Persian overworld sprites - Kedöshim on discord
+ - Vullaby and Mandibuzz overworld sprites - Sayaka on discord
+ - Axew, Fraxure and Haxorus overworld sprites - Kedöshim on discord
+ - Litten overworld sprites - Kedöshim on discord
+ - Magearna overworld sprites (both forms) - Kedöshim on discord
+ - Grapploct overworld sprites - EeVeeEe on discord
+ - Tynamo overworld sprites - Kedöshim on discord
+ - Bonsly overworld sprites - Kedöshim on discord
+ - Tyrunt overworld sprites - Kedöshim on discord
+ - Braixen and Delphox overworld sprites - Kedöshim on discord
+ - Rowlet overworld sprites - Kedöshim on discord
+ - Tsareena overworld sprites - EeVeeEe on discord
+ - Hattrem overworld sprites - Kedöshim on discord
+ - Victini overworld sprites - Kedöshim on discord
+ - Fletchling overworld sprites - Kommie on discord
+ - Spheal and Sealeo overworld sprites - GML on discord
+ - Golisopod overworld sprites - Kedöshim on discord
+ - Garbodor overworld sprites - Kedöshim on discord
+ - Shiftry overworld sprites - Kedöshim on discord
+ - Steenee overworld sprites - CuervoTerras on discord
+ - Kleavor overworld sprites - EeVeeEe on discord
+ - Timburr, Gurdurr, and Conkeldurr overworld sprites - EeVeeEe on discord
 
-Player sprites:
+### Player sprites:
+ - Hilda and Rosa back sprites - Solo993 on Deviantart
+ - Chase, Mark, Mint, Rosa, Brendan, May, Elaine and Leaf overworld sprites - Internet_Goblin on discord
+ - Hilda overworld sprites - EeVeeEe on discord
+ - Brendan back sprite - Lockerz102 and A.J. Nitro
+ - Lucas battle and overworld sprites - SkwovetSquire and LuxBeacon on discord
+ - Kate back and overworld sprites - Lux and Toastknight on discord
+ - Nate back and overworld sprites - Kedöshim on discord
+ - Elio (SM and USUM) back sprites - SkwovetSquire on discord
  - Lyra back, walking and fishing sprites - Twilier / Reshidove on Deviantart
  - Lyra running, sleeping and sitting sprites - betsybugaboo on discord
  - Brendan back sprite -  Lockerz102 and A.J. Nitro
@@ -168,9 +479,16 @@ Player sprites:
  - Gloria back sprite - Gargoyle on discord and LunaMaddalena on deviantart
  - Mint back sprite - LunaMaddalena on deviantart (edit by Badsy the Edgecat on discord)
  - Mark back sprite - LunaMaddalena on deviantart (edit by LuxBeacon on discord)
- - Lunick, Summer, Kellyn overworld and back sprites - LuxBeacon on discord
+ - Lunick, Summer, Kellyn, Ben overworld and back sprites - LuxBeacon on discord
+ - Victor back sprite - CuervoTerras on discord
+ - Victor overworld sprites - LuxBeacon and SkwovetSquire on discord
 
-Music:
+### Music:
+ - X/Y Snowbelle City demake - Seiiccubus on discord and YouTube
+ - RSE Mount Chimney demake - Seiiccubus on discord and YouTube
+ - D/P Valor Lakefront demake - Seiiccubus on discord and YouTube
+ - D/P Solaceon Town demake - Seiiccubus on discord and YouTube
+ - B/W Route 6 demake - Seiiccubus on discord and YouTube
  - Diamond/Pearl League demake - Seiiccubus on discord and youtube
  - Black/White Dreamyard demake - Seiiccubus on discord and youtube
  - Diamond/Pearl Route 216 demake - Seiiccubus on discord and youtube
@@ -178,9 +496,57 @@ Music:
  - Black/White Route 10 demake - Seiiccubus on discord and youtube
  - RSE Route 113 demake - Seiiccubus on discord and youtube
  - Regigigas battle music - Zame on Youtube
+ - Regi battle music - Alifib on youtube
+ - Pokemon Mansion Remix music - GlitchxCity on Youtube
 
-Other:
+### Attack animations:
+ - Psychic Fangs, Air Cutter, Cotton Guard, Fairy Wind, Fake Out, Fire Fang, Ice Fang, Meteor Mash, Poison Fang, Psychic Fangs, Psycho Cut, Signal Beam, Silver Wind, Smelling Salts, Thunder Fang, and Wish attack animations - peach-n-key on discord
+ - Baby-doll Eyes attack animation - betsybugaboo on discord
+ - Razor Shell, V-create attack animations - SkwovetSquire on discord
+ - Struggle Bug attack animation - GML on discord
+ - Scale Shot attack animation - CuervoTerras on discord
+ - Strength Sap attack animation - CuervoTerras on discord
+ - Dual Wingbeat attack animation - CuervoTerras on discord
+ - Freeze Dry, Rage Powder, Follow Me, and Sludge Wave attack animations - CuervoTerras on discord
+ - High Horsepower and Body Press attack animations - CuervoTerras on discord
+ - King's Shield attack animation - GML on discord
+ - Heavy Slam and Stomping Tantrum attack animations - CuervoTerras on discord
+ - Power Up Punch attack animation - CuervoTerras on discord
+ - Electroweb attack animation - Ventilatore on discord
+ - Defog attack animation - Ventilatore on discord
+ - Helping Hand attack animation - CuervoTerras on discord
+ - Psyshield Bash attack animation - CuervoTerras on discord
+ - Ally Switch attack animation - CuervoTerras on discord
+ - Low Sweep attack animation - Ventilatore on discord
+ - Heal Pulse attack animation - CuervoTerras on discord
+ - Ingrain attack animation - GML on discord
+ - Sticky Web attack animation - Ventilatore on discord
+ - Tailwind attack animation - GML on discord
+ - Dire Claw attack animation - CuervoTerras on discord
+ - Fishious Rend attack animation - SkwovetSquire and CuervoTerras on discord
+ - Gurdurr battle sprites - Molk on discord
+ - Stealth Rock attack animation - CuervoTerras on discord
+ - Spiky Shield attack animation - GML on discord
+ - Baneful Bunker attack animation - GML on discord
+ - Frenzy Plant attack animation - CuervoTerras on discord
+ - Hydro Cannon attack animation - CuervoTerras on discord
+ - Blast Burn attack animation - CuervoTerras on discord
+ - Wide Guard attack animation - CuervoTerras on discord
+ - Snarl attack animation - Ventilatore on discord
+ - Flip Turn attack animation - CuervoTerras on discord
+ - Heat Crash attack animation - CuervoTerras on discord
+ - Yawn attack animation - peach-n-key on discord, edits by CuervoTerras on discord
+ - Slack Off attack animation - peach-n-key on discord, edits by CuervoTerras on discord
+ - Crush Grip attack sprites - Mr Dustman on discord
+
+### Other:
  - Rips of many attack animations - Liminalia on github
+ - Spanish translation - CuervoTerras on discord
+ - French translation - Charade on discord
+ - Brazilian-Portuguese translation - Kedöshim on discord
+ - German translation - 𝔼z̶𝓊𝓹Δɔʞ on discord / ITWinVis on Github
+ - Savanna house sprites - CuervoTerras on discord
+ - Pokemon cries from PLA-exclusive Pokemon - Morningdew on RelicCaste
  - Fence gate sprite - Sakaya on discord
  - Item descriptions - betsybugaboo on discord
  - Gen 2 item bag menu images - ForeverBurning on discord
@@ -191,44 +557,9 @@ Other:
  - Phione/Manaphy egg - SkwovetSquire on discord
  - Pokemon storage chest sprite - TerraTerraCotta on discord
  - Berry tree sprites - LuxBeacon on discord
- - Brendan back sprite - Lockerz102 and A.J. Nitro
- - Hilda and Rosa back sprites - Solo993 on Deviantart (note - they didn't do all of them)
- - Chase, Mark, Mint, Rosa, Brendan, May, Elaine and Leaf overworld sprites - Internet_Goblin on discord
- - Hilda overworld sprites - EeVeeEe on discord
  - Tundra biome house tileset - Internet_Goblin on discord
  - Wooded Lake biome house tileset - Gargoyle on discord
  - Various code help (bug fixes, adding sprites, and more) - ForeverBurning on discord
-
-**v0.7 Credits:**
- - Credits to the Prism team for various Pokemon front and back sprites - numel, gible, cacnea, skorupi, feebas, trapinch, cranidos, shieldon, lileep, anorith, beldum, solrock, lunatone, duskull, sylveon, leafeon, glaceon, weavile, mamoswine, magmortar, mismagius, and rhyperior lines.
- - Credits to Nuuk on discord (nuukiie on Twitter) for various Pokemon front and back sprites - maractus, nosepass, larvesta, lotad, and zigzagoon lines.
- - Combee and Vespiquen front, back and overworld sprites - TerraTerraCotta on discord.
- - Cutiefly and Ribombee front, back and overworld sprites - TerraTerraCotta on discord (and Sadfish for Cutiefly overworld sprites)
- - Bronzor and Bronzong front and back sprites - SkwovetSquire on discord.
- - Sandile line front sprites - Goose and Sadfish on discord.
- - Sandile line back and overworld sprites - Sadfish on discord.
- - Sigilyph front/back sprites - Sadfish on discord.
- - Sigilyph overworld sprites - Mr Dustman on discord.
- - Darumaka and Galarian Darumaka front/back sprites - Goose on discord.
- - Darumaka overworld sprites - Goose on discord.
- - Galarian Darumaka oveworld sprites - Mr Dustman on discord.
- - Galarian Darmanitan overworld sprites - Sadfish and Mr Dustman on discord.
- - Darmanitan and Zen Darmanitan overworld sprites - Poisonous Gas and Mr Dustman on discord.
- - Galarian Darmanitan front/back sprites - Mr Dustman on discord.
- - Galarian Zen Darmanitan back sprite - Sir Feralipogchamp on discord.
- - Zen Darmanitan front sprite - Sir Feralipogchamp on discord.
- - Zen Darmanitan back sprite - Mr Dustman on discord.
- - Darmanitan front sprite - Poisonous Gas on discord.
- - Darmanitan back sprite - Mr Dustman on discord.
- - Elgyem and Beheeyem overworld sprites - Sadfish and Goose on discord.
- - Elgyem and Beheeyem front/back sprites - Goose on discord.
- - Hippopotas and Hippowdon front, back and overworld sprites - Sadfish on discord.
- - Camerupt front sprites - Poisonous Gas and Goose on discord.
- - Wooper, Wingull, Linoone and Unown overworld sprites - Snak on discord.
- - Weedle, Kakuna, Beedrill, Abomasnow, Rattata, and Raticate overworld sprites - Internet_Goblin on discord.
- - Larvesta, Poochyena and Nosepass overworld sprites - Sadfish on discord.
- - Maractus overworld sprites - EeVeeEe on discord.
- - Zigzagoon oveworld sprite - Miserable Pile Of Secrets and Kalvinz on discord.
  - Fossil item icons - SkwovetSquire on discord.
  - Relic castle tile devamps - SkwovetSquire on discord.
  - Ruined fossil lab tiles - SkwovetSquire on discord.
@@ -238,34 +569,8 @@ Other:
  - Cacturn 'dust tornado' sprite - Mr Dustman on discord.
  - Trapinch 'trapping' sprite - Mr Dustman on discord.
  - Player sprite while moving through sand pit - Epharam on discord.
- - Alolan Exeggutor front and back sprites - Gmerc.
-
-**v0.6 (and prior) Credits:**
- - Regirock, Registeel, Regice, and Regigigas front and back sprites - Mr Dustman, Sadfish and Poisonous Gas on discord.
- - Regieleki and Regidrago front and back sprites - Mr Dustman on discord.
- - Regieleki overworld sprites and 'alternate' Regi sprites - Mr Dustman on discord.
  - Regigigas 'standing' sprite in dungeon - Mr Dustman on discord.
- - Crush Grip attack sprites - Mr Dustman on discord.
- - Regidrago, Regirock, Regice and Registeel overworld sprites - sir feralipogchamp on discord.
  - Campfire sprite coloration and torch sprites - boomtox-the-boombox on discord.
- - Scorbunny and Raboot front and overworld sprites - Internet_Goblin on discord.
- - Cinderace overworld sprites - Internet_Goblin on discord.
  - Punching bag sprite - Goose on discord.
- - Regi battle music - Alifib on youtube.
  - Regi dungeon concept and mechanics - Internet_Goblin, Sadfish, Mr Dustman on discord.
- - nuukiie on Twitter for Pokemon devamp sprites and animations (aron, lotad, makuhita, ralts, taillow, whismur, poochyena, wingull, shroomish, surskit, litwick, dwebble, and sableye lines).
- - Corphish front, back and overworld sprites - sir feralipogchamp on discord.
- - Crawdaunt overworld sprites - sir feralipogchamp on discord.
- - Crawdaunt front and back sprites - sir feralipogchamp, Mr Dustman, Goose on discord..
- - Dwebble overworld sprites - Sadfish, Mr Dustman on discord.
- - Crustle overworld sprites - Goose on discord.
- - Litwick, Lampent and Chandelure overworld sprites - Goose on discord.
- - Mimikyu overworld sprites - boomtox-the-boombox on discord.
- - Mimikyu original front/back sprites - Kuroko Aizawa
- - Mimikyu front/back sprites recoloring - boomtox-the-boombox, Mr Dustman on discord.
- - Snover overworld sprites - Turner on discord
- - Megaman-Omega on Deviantart for the overworld pokemon sprites.
- - Manik-Needlemouse on Deviantart for the ghost overworld sprite.
- - GlitchxCity on Youtube for the Pokemon Mansion Remix music.
- - Various overworld sprites - Chamber, SOLO0993, Blue Emerald, Lake, Neslug, Pikachu25, and Ryta.
-
+ - Manik-Needlemouse on Deviantart for the ghost overworld sprite

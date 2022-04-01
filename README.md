@@ -187,7 +187,7 @@ Special thank-you to everyone who has contributed!
  - Galarian Farfetch'd battle and overworld sprites - Shaqtothefuture on discord
  - Sirfetch'd battle and overworld sprites - Shaqtothefuture on discord
  - Yamask battle and overworld sprites - Hibiwiki on discord
- - Galarian Mr. Mime front animation - BloodlessNS and ShadowOne333 on discord
+ - Galarian Mr. Mime front animation - Scarlax, BloodlessNS and ShadowOne333 on discord
  - Mr. Rime front animation - Menu and Scarlax on discord
  - Gossifleur and Eldegoss battle and overworld sprites - peach-n-key on discord
  - Copperajah front sprites - Exet on discord

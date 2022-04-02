@@ -409,7 +409,6 @@ Special thank-you to everyone who has contributed!
  - Ursaluna overworld sprites - Kedöshim on discord
  - Rookidee overworld sprites - Kedöshim on discord
  - Deoxys overworld sprites (all forms) - Kedöshim on discord
- - Hisuian and Spooky house sprites - CuervoTerras on discord
  - Hisuian Decidueye, Samurott and Hisuian Samurott overworld sprites - Kedöshim on discord
  - Hisuian Voltorb and Hisuian Electrode overworld sprites - MapleSyrup on discord
  - Pawniard and Bisharp overworld sprites - Sayaka on discord
@@ -545,6 +544,7 @@ Special thank-you to everyone who has contributed!
  - French translation - Charade on discord
  - Brazilian-Portuguese translation - Kedöshim on discord
  - German translation - 𝔼z̶𝓊𝓹Δɔʞ on discord / ITWinVis on Github
+ - Hisuian and Spooky house sprites - CuervoTerras on discord
  - Savanna house sprites - CuervoTerras on discord
  - Pokemon cries from PLA-exclusive Pokemon - Morningdew on RelicCaste
  - Fence gate sprite - Sakaya on discord

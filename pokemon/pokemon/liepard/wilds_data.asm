@@ -28,7 +28,7 @@
     db 0 ; Attack (always able on DARK).
     db 0 ; Teleport (always able on PSYCHIC).
     db 0 ; Headbutt.
-    db 0 ; Ride.
+    db 1 ; Ride.
     db 0 ; Fly.
     db 0 ; Paint.
 

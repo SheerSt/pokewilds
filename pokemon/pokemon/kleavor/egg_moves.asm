@@ -1,0 +1,4 @@
+	db SWITCHEROO
+	db THIEF
+	db LOCK_ON
+	db IRON_DEFENSE

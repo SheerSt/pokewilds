@@ -1,0 +1,10 @@
+3-21-22
+ - Switched over to use BW DS cries. Not sure what was originally being used.
+  - I compared the already-existing cries to the BW DS cries using Audacity, the waveforms are the same.
+
+
+Resources:
+ - All cries in Ultra Sun and Ultra Moon: https://www.sounds-resource.com/3ds/pokemonultrasunultramoon/
+  - Currently using the 6th and 7th gen cries from this.
+ - 8th gen cries: https://www.sounds-resource.com/nintendo_switch/pokemonswordshield/sound/36574/
+  - Currently using the 8th gen cries from this.

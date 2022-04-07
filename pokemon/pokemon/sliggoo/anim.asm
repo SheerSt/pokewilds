@@ -8,6 +8,4 @@
 	frame 7, 06
 	frame 8, 06
 	frame 9, 06
-	frame 10, 06
-	frame 11, 06
 	endanim

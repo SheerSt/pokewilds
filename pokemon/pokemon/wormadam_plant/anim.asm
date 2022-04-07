@@ -6,4 +6,5 @@
 	frame 5, 06
 	frame 6, 06
 	frame 7, 06
+	frame 0, 24
 	endanim

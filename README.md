@@ -566,6 +566,7 @@ Special thank-you to everyone who has contributed!
  - Interior paintings, plushes, couches, vanity mirrors, windows, and pots - TerraTerraCotta on discord.
  - Various interior paintings - SkwovetSquire on discord.
  - Indoor clock sprite - boomtox the boombox on discord.
+ - Fence sprite - boomtox the boombox on discord.
  - Cacturn 'dust tornado' sprite - Mr Dustman on discord.
  - Trapinch 'trapping' sprite - Mr Dustman on discord.
  - Player sprite while moving through sand pit - Epharam on discord.

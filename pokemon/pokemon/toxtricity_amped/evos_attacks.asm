@@ -1,5 +1,3 @@
-
-	db EVOLVE_LEVEL, 33, CAMERUPT
 	db 0 ; no more evolutions
 	db 1, ACID
 	db 1, ACID_SPRAY

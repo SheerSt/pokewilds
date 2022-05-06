@@ -12,7 +12,7 @@
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
     db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
-    db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
+    db SCRAP_METAL, TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
 
     ; Field moves (0 = unable, 1 = able, 2 = force unable).
 

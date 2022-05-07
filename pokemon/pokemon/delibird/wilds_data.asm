@@ -12,7 +12,7 @@
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).
     db NONE ; Tile which serves as this mon's disguise (NONE for no disguise).
     db TYPE ; Habitat tiles (TYPE as the final argument to apply type-based default tiles).
-    db TYPE ; Harvestable items (TYPE as the final argument to apply type-based default items).
+    db NEVERMELTICE MAGNET ANCIENTPOWDER SOFT_WOOL MOOMOO_MILK HARD_STONE MANURE BERRY_JUICE SOFT_SAND DRAGON_FANG DRAGON_SCALE LIFE_FORCE PSI_ENERGY DARK_ENERGY METAL_COAT SILKY_THREAD HARD_SHELL SOFT_FEATHER CHARCOAL GRASS HONEY ; Harvestable items (TYPE as the final argument to apply type-based default items).
 
     ; Field moves (0 = unable, 1 = able, 2 = force unable).
 

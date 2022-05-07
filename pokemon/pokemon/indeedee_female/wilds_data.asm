@@ -1,4 +1,4 @@
-    db DEFAULT ; Display name (DEFAULT for default name).
+    db INDEEDEE ; Display name (DEFAULT for default name).
 
     db 876 ; Dex number.
     db <It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.> ; Dex entry.
@@ -6,7 +6,7 @@
     db 28.0 ; Weight in kg.
     db 0.9 ; Height in meters.
 
-    db INDEEDEE 100 ; Base form(s) (MON_NAME for base species, then chance).
+    db INDEEDEE_FEMALE 50, INDEEDEE_MALE 50 ; Base form(s) (MON_NAME for base species, then chance).
 
     db TYPE ; Spawning biomes (TYPE as the final argument to apply type-based default tiles).
     db NONE ; Biome(s) in which aggressive groups might appear (NONE for no groups).

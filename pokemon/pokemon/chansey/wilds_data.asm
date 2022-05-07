@@ -35,7 +35,7 @@
     ; Overworld properties (0 = no, 1 = yes).
 
     db 0 ; Swim-only movement.
-    db 1 ; Flee from player.
+    db 0 ; Flee from player.
     db 0 ; Lunge at player.
     db 0 ; Aggression level (0 = never aggro, 1 = normal, 2 = always aggro).
 

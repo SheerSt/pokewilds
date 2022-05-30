@@ -28,7 +28,7 @@
     db 0 ; Attack (always able on DARK).
     db 0 ; Teleport (always able on PSYCHIC).
     db 0 ; Headbutt.
-    db 0 ; Ride.
+    db 1 ; Ride.
     db 0 ; Fly.
     db 0 ; Paint.
 
@@ -41,7 +41,7 @@
 
     ; Overworld sprite properties.
 
-    db 0 ; Flip third frame of walking animation? (1 = yes, 0 = no)
+    db 1 ; Flip third frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Flip fourth frame of walking animation? (1 = yes, 0 = no)
     db 0 ; Can move in the overworld (0 = can move ; 1 = can't move).
     db 0 ; Water offset for OW sprites, in pixels.

@@ -4,7 +4,7 @@
 
 ## How to Play
  - **DISCLAIMER:** this is currently in Alpha. Things are getting there, but still not fully complete. I am working hard to find and fix bugs; however, **expect to find bugs.** If you find a bug, please consider creating an issue here on github describing it (that would help me out a ton).
- - Windows - Download pokemon-wilds-windows64 from https://github.com/SheerSt/pokemon-wilds/releases/latest/ and extract files. Open the unzipped directory and run pokemon-wilds.exe.
+ - Windows - Download pokemon-wilds-windows64 from https://github.com/SheerSt/pokewilds/releases/latest/ and extract files. Open the unzipped directory and run pokemon-wilds.exe.
    - If the exe is not running, alternatively try running pokemon-wilds.jar in the same directory.
  - Controls: Arrow keys to move, keyboard Z = A button, keyboard X = B button, keyboard Enter = Start button. Hold keyboard X to run.
 

@@ -10,7 +10,7 @@
 
 # About
 
-PokeWilds is a Gen 2 game/engine built using libGDX. It uses procedural generation to create large worlds with different biomes, each with their own unique pokemon. The levels of wild pokemon increase the further you explore, meaning that some biomes with rare pokemon are difficult to get to. Your Pokemon can help you explore the world by usual means (cut, fly, surf etc), but there are also be new HMs that allow you to interact with the world in new ways, like building structures/houses, jumping up ledges, starting fires, and more.
+PokeWilds is a Gen 2 game/engine built using libGDX. It uses procedural generation to create large worlds with different biomes, each with their own unique monsters. The levels of wild monsters increase the further you explore, meaning that some biomes with rare mons are difficult to get to. Your monsters can help you explore the world by usual means (cut, fly, surf etc), but there are also be new HMs that allow you to interact with the world in new ways, like building structures/houses, jumping up ledges, starting fires, and more.
 
 I have been using a set of techniques to 'rip' sprites and animations from the console game very accurately - as such, the game is intended to look and feel just like the console games, with some extra capabilities (see core/assets/attacks/). The benefit from using libGDX is that the engine can support cross-platform play, multiplayer, huge maps, and fullscreen mode.
 
@@ -55,22 +55,22 @@ In the future I hope that the game can also support graphics from other generati
 # v0.8 (Latest) Updates and Changes:
  - Water types can Surf.
  - Surf or Fly to the edge of the map to generate a new World.
-   - The new world will not contain dungeons from previous worlds (regi dungeon, pokemon mansion and desert ruins currently)
- - Psychic types know Teleport. Build warp tiles and teleport to them (from the Pokemon menu or the Map)
+   - The new world will not contain dungeons from previous worlds (regi dungeon, mansion and desert ruins currently)
+ - Psychic types know Teleport. Build warp tiles and teleport to them (from the Menu or the Map)
    - Interact with a warp tile to set label text (visible from the Map or when walking over the tile)
    - The new world will contain content from the most recent version of the game (even if an old save file is used)
  - Guide menu added (contains game faqs)
- - All pokemon that are gen 3+ now use their gen 8 (or highest available) stats and learnsets. ie no more prism stats or learnsets.
+ - Gen 3+ monsters now use their gen 8 (or highest available) stats and learnsets. ie no more prism stats or learnsets.
    - This will inevitably introduce some bugs since it's a big change.
  - You can build signs and gravestones now. Interact to set sign text.
  - Special / Physical split added. Move category displayed in-battle now. Special / Physical split is toggle-able via the settings.txt file.
  - Large trees are now cuttable by fully-evolved grass types.
  - Berry trees - cutting berry trees will yield berry seeds. Berry seeds will grow different types of berry trees depending on the soil they are planted in.
    - desert -> rawst, beach -> pecha, forest -> persim, snow -> aspear, savanna -> cheri, graveyard -> chesto, <secret> -> lum.
- - Pokemon storage box added
-   - Pokemon can be nicknamed or released while using the storage box.
+ - Monster storage box added
+   - Monsters can be nicknamed or released while using the storage box.
  - Various sub-biomes added - volcano, tidal, wooded lake, graveyard, savanna.
-   - Each contains unique pokemon, buried items and activities.
+   - Each contains unique monsters, buried items and activities.
    - Spiritomb urn can be found in the graveyard.
    - Tides go up twice per day and down twice per day.
    - Animated coastline added to whole island.
@@ -84,13 +84,13 @@ In the future I hope that the game can also support graphics from other generati
  - New trainer types added (Thank you to everyone who contributed backsprites! they look awesome :)) - more info in the wilds-dex doc.
  - Campfires should cause less lag at night (code optimizations added)
  - Improvements made to a certain legendary battle (WIP).
- - 'Kiln' can be built indoors. Pokeballs can be upgraded at the Kiln (new Pokeballs include quick ball, timer ball, net ball, dive ball, nest ball, dream ball, heal ball. Dusk ball, great ball and ultra ball moved to the Kiln)
- - Many Pokemon overworld sprites updated.
- - Various new Pokemon added.
+ - 'Kiln' can be built indoors. Balls can be upgraded at the Kiln (new Balls include quick ball, timer ball, net ball, dive ball, nest ball, dream ball, heal ball. Dusk ball, great ball and ultra ball moved to the Kiln)
+ - Many monster overworld sprites updated.
+ - Various new monsters added.
  - Additions to battle mechanics - trap damage fixed, recoil damage added, selfdestruct effect added, and various others.
  - Keybinding for keyboards added (settings.txt in the game directory).
  - Mods support added for some things
-   - Pokemon base stats, learnsets, and egg moves can be modded. normal.pal no longer required for some pokemon.
+   - Monster base stats, learnsets, and egg moves can be modded. normal.pal no longer required for some monsters.
    - New player types can be added in the mods/ folder.
    - All music can be modded by mirroring the folder structure from the git repo in the mods/ folder.
    - All graphics can be modded by mirroring the folder structure from the git repo in the mods/ folder.
@@ -103,19 +103,19 @@ In the future I hope that the game can also support graphics from other generati
 If you are interested in helping with code, please create an issue here saying that you're interested and we can work out the details of what currently needs done. Here are some examples:
  - Battle system mechanics (ex: attack effects that aren't implemented)
  - 'Versioning' system so that the game can check for updates.
- - Finding / fixing bugs (more info on the Pokemon Wilds discord server)
+ - Finding / fixing bugs (more info on the PokeWilds discord server)
  - General organization and refactors
  - Support for more kinds of game mods (ex: being able to mod biome spawns)
  - Small features and enhancements (ex: being able to using fishing rods while surfing)
 
-Feel free to DM me on the Pokemon Wilds discord server also regarding this, whatever works best for you.
+Feel free to DM me on the PokeWilds discord server also regarding this, whatever works best for you.
 
 # Credits
 Special thank-you to everyone who has contributed!
 
 ### Battle sprites:
- - **Credits to Nuuk on discord (nuukiie on twitter) for many Pokemon battle sprites.**
- - **Credits to the Prism team for many Pokemon battle sprites.**
+ - **Credits to Nuuk on discord (nuukiie on twitter) for many battle sprites.**
+ - **Credits to the Prism team for many battle sprites.**
  - Whimsicott battle sprites - IncuTyph on discord
  - Cottonee battle and overworld sprites - Ayinai on discord
  - Morelull front animation and overworld sprites - betsybugaboo on discord
@@ -267,7 +267,7 @@ Special thank-you to everyone who has contributed!
  - Crawdaunt battle sprites - sir feralipogchamp, Mr Dustman, Goose on discord.
 
 ### Overworld sprites: 
- - **Credits to Megaman-Omega on Deviantart for many overworld pokemon sprites.**
+ - **Credits to Megaman-Omega on Deviantart for many overworld sprites.**
  - Phantump overworld sprites - Goose on discord
  - Alolan Raichu, Galar Yamask, Cacturne, Mantyke, Mantine, and Remoraid overworld sprites - Sadfish on discord
  - Trevenant, Sandslash, Ekans, Arbok, Sharpedo, Dratini, Dragonair, Dragonite, Ledyba, Hoothoot, Sandshrew, Aipom, Ambipom, Miltank, Sudowoodo, Horsea, Seadra, Kingdra, Smoochum, Noctowl, Nidoking and Jinx overworld sprites - Internet_Goblin on discord
@@ -496,7 +496,7 @@ Special thank-you to everyone who has contributed!
  - RSE Route 113 demake - Seiiccubus on discord and youtube
  - Regigigas battle music - Zame on Youtube
  - Regi battle music - Alifib on youtube
- - Pokemon Mansion Remix music - GlitchxCity on Youtube
+ - Mansion Remix music - GlitchxCity on Youtube
 
 ### Attack animations:
  - Psychic Fangs, Air Cutter, Cotton Guard, Fairy Wind, Fake Out, Fire Fang, Ice Fang, Meteor Mash, Poison Fang, Psychic Fangs, Psycho Cut, Signal Beam, Silver Wind, Smelling Salts, Thunder Fang, and Wish attack animations - peach-n-key on discord
@@ -546,16 +546,16 @@ Special thank-you to everyone who has contributed!
  - German translation - 𝔼z̶𝓊𝓹Δɔʞ on discord / ITWinVis on Github
  - Hisuian and Spooky house sprites - CuervoTerras on discord
  - Savanna house sprites - CuervoTerras on discord
- - Pokemon cries from PLA-exclusive Pokemon - Morningdew on RelicCaste
+ - Cries from PLA-exclusives - Morningdew on RelicCaste
  - Fence gate sprite - Sakaya on discord
  - Item descriptions - betsybugaboo on discord
  - Gen 2 item bag menu images - ForeverBurning on discord
- - Following Pokemon dialogue - SkwovetSquire and LuxBeacon on discord
+ - Follower dialogue - SkwovetSquire and LuxBeacon on discord
  - Wilds-Dex google doc - Internet_Goblin on discord
  - Waterfall animation - Quilchess on discord
  - Puddle ripple animation - ICantBelieveItsNotBowser on discord
  - Phione/Manaphy egg - SkwovetSquire on discord
- - Pokemon storage chest sprite - TerraTerraCotta on discord
+ - Storage chest sprite - TerraTerraCotta on discord
  - Berry tree sprites - LuxBeacon on discord
  - Tundra biome house tileset - Internet_Goblin on discord
  - Wooded Lake biome house tileset - Gargoyle on discord

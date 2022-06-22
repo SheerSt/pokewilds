@@ -8,6 +8,8 @@
    - If the exe is not running, alternatively try running pokemon-wilds.jar in the same directory.
  - Controls: Arrow keys to move, keyboard Z = A button, keyboard X = B button, keyboard Enter = Start button. Hold keyboard X to run.
 
+Full list of pokemon, their habitats, harvestable items, field moves, spawn locations and more info can be found here - https://docs.google.com/spreadsheets/d/1b6tkjKaDcFCYxvhWDHQi2B18lhtqgueFNNOP8ZdtTLs
+
 # About
 
 PokeWilds is a Gen 2 game/engine built using libGDX. It uses procedural generation to create large worlds with different biomes, each with their own unique monsters. The levels of wild monsters increase the further you explore, meaning that some biomes with rare mons are difficult to get to. Your monsters can help you explore the world by usual means (cut, fly, surf etc), but there are also be new HMs that allow you to interact with the world in new ways, like building structures/houses, jumping up ledges, starting fires, and more.

@@ -1,6 +1,8 @@
 # Existing Translations:
- - **French** - Everything (credit to Charade on discord)
- - **German** - Pokemon names only (credit to Charade on discord)
+ - **French** - Charade on discord
+ - **Spanish** - CuervoTerras on discord
+ - **Brazilian-Portuguese** - Kedöshim on discord
+ - **German** - 𝔼z̶𝓊𝓹Δɔʞ on discord / ITWinVis on Github
 
 # Instructions:
 

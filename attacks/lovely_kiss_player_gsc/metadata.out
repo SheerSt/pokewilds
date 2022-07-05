@@ -1,16 +1,16 @@
-1, player_healthbar_gone
-2, player_healthbar_gone
-3, player_healthbar_gone
-4, player_healthbar_gone
-5, player_healthbar_gone
-6, player_healthbar_gone
-7, player_healthbar_gone
-8, player_healthbar_gone
-9, player_healthbar_gone
-10, player_healthbar_gone
-11, player_healthbar_gone
-12, player_healthbar_gone
-13, player_healthbar_gone
+1, player_healthbar_gone invisible frame
+2, player_healthbar_gone invisible frame
+3, player_healthbar_gone invisible frame
+4, player_healthbar_gone invisible frame
+5, player_healthbar_gone invisible frame
+6, player_healthbar_gone invisible frame
+7, player_healthbar_gone invisible frame
+8, player_healthbar_gone invisible frame
+9, player_healthbar_gone invisible frame
+10, player_healthbar_gone invisible frame
+11, player_healthbar_gone invisible frame
+12, player_healthbar_gone invisible frame
+13, player_healthbar_gone invisible frame
 14, player_healthbar_gone
 15, player_healthbar_gone
 16, player_healthbar_gone
@@ -87,7 +87,23 @@
 87, player_healthbar_gone
 88, player_healthbar_gone
 89, player_healthbar_gone
-90, player_healthbar_gone
-91, player_healthbar_gone
-92, player_healthbar_gone
-93, player_healthbar_gone
+90, player_healthbar_gone invisible frame
+91, player_healthbar_gone invisible frame
+92, player_healthbar_gone invisible frame
+93, player_healthbar_gone invisible frame
+94, player_healthbar_gone invisible frame
+95, player_healthbar_gone invisible frame
+96, player_healthbar_gone invisible frame
+97, player_healthbar_gone invisible frame
+98, player_healthbar_gone invisible frame
+99, player_healthbar_gone invisible frame
+100, player_healthbar_gone invisible frame
+101, player_healthbar_gone invisible frame
+102, player_healthbar_gone invisible frame
+103, player_healthbar_gone invisible frame
+104, player_healthbar_gone invisible frame
+105, player_healthbar_gone invisible frame
+106, player_healthbar_gone invisible frame
+107, player_healthbar_gone invisible frame
+108, player_healthbar_gone invisible frame
+109, player_healthbar_gone invisible frame

@@ -1,32 +1,56 @@
-6, screen_translate_y:2
-7, screen_translate_y:2
-8, screen_translate_y:2
-9, screen_translate_y:-2
-10, screen_translate_y:-2
-11, screen_translate_y:-2
-12, screen_translate_y:2
-13, screen_translate_y:2
-14, screen_translate_y:2
-15, screen_translate_y:-2
-16, screen_translate_y:-2
-17, screen_translate_y:-2
-18, screen_translate_y:2
-19, screen_translate_y:2
-20, screen_translate_y:2
-21, screen_translate_y:-2
-22, screen_translate_y:-2
-23, screen_translate_y:-2
-24, screen_translate_y:2
-25, screen_translate_y:2
-26, screen_translate_y:2
-27, screen_translate_y:-2
-28, screen_translate_y:-2
-29, screen_translate_y:-2
-30, screen_translate_y:2
-31, screen_translate_y:2
-32, screen_translate_y:2
-33, screen_translate_y:-2
-34, screen_translate_y:-2
-35, screen_translate_y:-2
-36, screen_translate_y:2
-37, screen_translate_y:2
+1, enemy_healthbar_gone invisible frame
+2, enemy_healthbar_gone invisible frame
+3, enemy_healthbar_gone invisible frame
+4, enemy_healthbar_gone invisible frame
+5, enemy_healthbar_gone invisible frame
+6, screen_translate_y:2 invisible frame
+7, screen_translate_y:2 invisible frame
+8, screen_translate_y:2 invisible frame
+9, screen_translate_y:-2 invisible frame
+10, screen_translate_y:-2 invisible frame
+11, screen_translate_y:-2 invisible frame
+12, screen_translate_y:2 invisible frame
+13, screen_translate_y:2 invisible frame
+14, screen_translate_y:2 invisible frame
+15, screen_translate_y:-2 invisible frame
+16, screen_translate_y:-2 invisible frame
+17, screen_translate_y:-2 invisible frame
+18, screen_translate_y:2 invisible frame
+19, screen_translate_y:2 invisible frame
+20, screen_translate_y:2 invisible frame
+21, screen_translate_y:-2 invisible frame
+22, screen_translate_y:-2 invisible frame
+23, screen_translate_y:-2 invisible frame
+24, screen_translate_y:2 invisible frame
+25, screen_translate_y:2 invisible frame
+26, screen_translate_y:2 invisible frame
+27, screen_translate_y:-2 invisible frame
+28, screen_translate_y:-2 invisible frame
+29, screen_translate_y:-2 invisible frame
+30, screen_translate_y:2 invisible frame
+31, screen_translate_y:2 invisible frame
+32, screen_translate_y:2 invisible frame
+33, screen_translate_y:-2 invisible frame
+34, screen_translate_y:-2 invisible frame
+35, screen_translate_y:-2 invisible frame
+36, screen_translate_y:2 invisible frame
+37, screen_translate_y:2 invisible frame
+38, enemy_healthbar_gone invisible frame
+39, enemy_healthbar_gone invisible frame
+40, enemy_healthbar_gone invisible frame
+41, enemy_healthbar_gone invisible frame
+42, enemy_healthbar_gone invisible frame
+43, enemy_healthbar_gone invisible frame
+44, enemy_healthbar_gone invisible frame
+45, enemy_healthbar_gone invisible frame
+46, enemy_healthbar_gone invisible frame
+47, enemy_healthbar_gone invisible frame
+48, enemy_healthbar_gone invisible frame
+49, enemy_healthbar_gone invisible frame
+50, enemy_healthbar_gone invisible frame
+51, enemy_healthbar_gone invisible frame
+52, enemy_healthbar_gone invisible frame
+53, enemy_healthbar_gone invisible frame
+54, enemy_healthbar_gone invisible frame
+55, enemy_healthbar_gone invisible frame
+56, enemy_healthbar_gone invisible frame

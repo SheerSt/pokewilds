@@ -1,47 +1,47 @@
-1, player_healthbar_gone
-2, player_healthbar_gone
-3, player_healthbar_gone
-4, player_healthbar_gone
-5, player_healthbar_gone
-6, player_healthbar_gone
-7, player_healthbar_gone
-8, player_healthbar_gone
-9, player_healthbar_gone
-10, player_healthbar_gone
-11, player_healthbar_gone
-12, player_healthbar_gone player_translate_x:-8
-13, player_healthbar_gone player_translate_x:-8
-14, player_healthbar_gone player_translate_x:-8
-15, player_healthbar_gone player_translate_x:-8
-16, player_healthbar_gone player_translate_x:-16
-17, player_healthbar_gone player_translate_x:-16
-18, player_healthbar_gone player_translate_x:-16
-19, player_healthbar_gone player_translate_x:-16
-20, player_healthbar_gone player_translate_x:-24
-21, player_healthbar_gone player_translate_x:-24
-22, player_healthbar_gone player_translate_x:-24
-23, player_healthbar_gone player_translate_x:-24
-24, player_healthbar_gone player_translate_x:-32
-25, player_healthbar_gone player_translate_x:-32
-26, player_healthbar_gone player_translate_x:-32
-27, player_healthbar_gone player_translate_x:-32
-28, player_healthbar_gone player_translate_x:-40
-29, player_healthbar_gone player_translate_x:-40
-30, player_healthbar_gone player_translate_x:-40
-31, player_healthbar_gone player_translate_x:-40
-32, player_healthbar_gone player_translate_x:-48
-33, player_healthbar_gone player_translate_x:-48
-34, player_healthbar_gone player_translate_x:-48
-35, player_healthbar_gone player_translate_x:-48
-36, player_healthbar_gone player_translate_x:-48
-37, player_healthbar_gone player_translate_x:-56
-38, player_healthbar_gone player_translate_x:-64
-39, player_healthbar_gone player_translate_x:-64
-40, player_healthbar_gone player_translate_x:-64
-41, player_healthbar_gone player_translate_x:-64
-42, player_healthbar_gone player_translate_x:-64
-43, player_healthbar_gone player_translate_x:-64
-44, player_healthbar_gone player_translate_x:-64
+1, player_healthbar_gone invisible frame
+2, player_healthbar_gone invisible frame
+3, player_healthbar_gone invisible frame
+4, player_healthbar_gone invisible frame
+5, player_healthbar_gone invisible frame
+6, player_healthbar_gone invisible frame
+7, player_healthbar_gone invisible frame
+8, player_healthbar_gone invisible frame
+9, player_healthbar_gone invisible frame
+10, player_healthbar_gone invisible frame
+11, player_healthbar_gone invisible frame
+12, player_healthbar_gone player_translate_x:-8 invisible frame
+13, player_healthbar_gone player_translate_x:-8 invisible frame
+14, player_healthbar_gone player_translate_x:-8 invisible frame
+15, player_healthbar_gone player_translate_x:-8 invisible frame
+16, player_healthbar_gone player_translate_x:-16 invisible frame
+17, player_healthbar_gone player_translate_x:-16 invisible frame
+18, player_healthbar_gone player_translate_x:-16 invisible frame
+19, player_healthbar_gone player_translate_x:-16 invisible frame
+20, player_healthbar_gone player_translate_x:-24 invisible frame
+21, player_healthbar_gone player_translate_x:-24 invisible frame
+22, player_healthbar_gone player_translate_x:-24 invisible frame
+23, player_healthbar_gone player_translate_x:-24 invisible frame
+24, player_healthbar_gone player_translate_x:-32 invisible frame
+25, player_healthbar_gone player_translate_x:-32 invisible frame
+26, player_healthbar_gone player_translate_x:-32 invisible frame
+27, player_healthbar_gone player_translate_x:-32 invisible frame
+28, player_healthbar_gone player_translate_x:-40 invisible frame
+29, player_healthbar_gone player_translate_x:-40 invisible frame
+30, player_healthbar_gone player_translate_x:-40 invisible frame
+31, player_healthbar_gone player_translate_x:-40 invisible frame
+32, player_healthbar_gone player_translate_x:-48 invisible frame
+33, player_healthbar_gone player_translate_x:-48 invisible frame
+34, player_healthbar_gone player_translate_x:-48 invisible frame
+35, player_healthbar_gone player_translate_x:-48 invisible frame
+36, player_healthbar_gone player_translate_x:-48 invisible frame
+37, player_healthbar_gone player_translate_x:-56 invisible frame
+38, player_healthbar_gone player_translate_x:-64 invisible frame
+39, player_healthbar_gone player_translate_x:-64 invisible frame
+40, player_healthbar_gone player_translate_x:-64 invisible frame
+41, player_healthbar_gone player_translate_x:-64 invisible frame
+42, player_healthbar_gone player_translate_x:-64 invisible frame
+43, player_healthbar_gone player_translate_x:-64 invisible frame
+44, player_healthbar_gone player_translate_x:-64 invisible frame
 45, player_healthbar_gone player_translate_x:-64
 46, player_healthbar_gone player_translate_x:-64
 47, player_healthbar_gone player_translate_x:-64
@@ -212,40 +212,40 @@
 212, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1
 213, player_healthbar_gone player_translate_x:-64
 214, player_healthbar_gone player_translate_x:-64
-215, player_healthbar_gone player_translate_x:-64
-216, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1
-217, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1
-218, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1
-219, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2
-220, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2
-221, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2
-222, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1
-223, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1
-224, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1
-225, player_healthbar_gone player_translate_x:-64
-226, player_healthbar_gone player_translate_x:-64
-227, player_healthbar_gone player_translate_x:-64
-228, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1
-229, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1
-230, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1
-231, player_healthbar_gone player_translate_x:-64 enemy_darken_effect2
-232, player_healthbar_gone player_translate_x:-64 enemy_darken_effect2
-233, player_healthbar_gone player_translate_x:-64 enemy_darken_effect2
-234, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1
-235, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1
-236, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1
-237, player_healthbar_gone player_translate_x:-64
-238, player_healthbar_gone player_translate_x:-64
-239, player_healthbar_gone player_translate_x:-64
-240, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1
-241, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1
-242, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1
-243, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2
-244, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2
-245, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2
-246, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1
-247, player_healthbar_gone player_translate_x:-64
-248, player_healthbar_gone player_translate_x:-64
-249, player_healthbar_gone player_translate_x:-64
-250, player_healthbar_gone player_translate_x:-64
-251, player_healthbar_gone
+215, player_healthbar_gone player_translate_x:-64 invisible frame
+216, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1 invisible frame
+217, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1 invisible frame
+218, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1 invisible frame
+219, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2 invisible frame
+220, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2 invisible frame
+221, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2 invisible frame
+222, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1 invisible frame
+223, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1 invisible frame
+224, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1 invisible frame
+225, player_healthbar_gone player_translate_x:-64 invisible frame
+226, player_healthbar_gone player_translate_x:-64 invisible frame
+227, player_healthbar_gone player_translate_x:-64 invisible frame
+228, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1 invisible frame
+229, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1 invisible frame
+230, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1 invisible frame
+231, player_healthbar_gone player_translate_x:-64 enemy_darken_effect2 invisible frame
+232, player_healthbar_gone player_translate_x:-64 enemy_darken_effect2 invisible frame
+233, player_healthbar_gone player_translate_x:-64 enemy_darken_effect2 invisible frame
+234, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1 invisible frame
+235, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1 invisible frame
+236, player_healthbar_gone player_translate_x:-64 enemy_darken_effect1 invisible frame
+237, player_healthbar_gone player_translate_x:-64 invisible frame
+238, player_healthbar_gone player_translate_x:-64 invisible frame
+239, player_healthbar_gone player_translate_x:-64 invisible frame
+240, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1 invisible frame
+241, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1 invisible frame
+242, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1 invisible frame
+243, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2 invisible frame
+244, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2 invisible frame
+245, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect2 invisible frame
+246, player_healthbar_gone player_translate_x:-64 enemy_lighten_effect1 invisible frame
+247, player_healthbar_gone player_translate_x:-64 invisible frame
+248, player_healthbar_gone player_translate_x:-64 invisible frame
+249, player_healthbar_gone player_translate_x:-64 invisible frame
+250, player_healthbar_gone player_translate_x:-64 invisible frame
+251, player_healthbar_gone invisible frame

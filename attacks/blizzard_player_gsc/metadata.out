@@ -1,9 +1,9 @@
-1, player_healthbar_gone
-2, player_healthbar_gone
-3, player_healthbar_gone
-4, player_healthbar_gone
-5, player_healthbar_gone
-6, player_healthbar_gone
+1, player_healthbar_gone invisible frame
+2, player_healthbar_gone invisible frame
+3, player_healthbar_gone invisible frame
+4, player_healthbar_gone invisible frame
+5, player_healthbar_gone invisible frame
+6, player_healthbar_gone invisible frame
 7, player_healthbar_gone
 8, player_healthbar_gone
 9, player_healthbar_gone
@@ -229,7 +229,7 @@
 229, player_healthbar_gone lighten_effect2
 230, player_healthbar_gone lighten_effect2
 231, player_healthbar_gone
-232, player_healthbar_gone
-233, player_healthbar_gone
-234, player_healthbar_gone
-235, player_healthbar_gone
+232, player_healthbar_gone invisible frame
+233, player_healthbar_gone invisible frame
+234, player_healthbar_gone invisible frame
+235, player_healthbar_gone invisible frame

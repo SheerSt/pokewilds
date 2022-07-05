@@ -1,8 +1,22 @@
-15, player_healthbar_gone
-16, player_healthbar_gone
-17, player_healthbar_gone
-18, player_healthbar_gone
-19, player_healthbar_gone
+1, player_healthbar_gone invisible frame
+2, player_healthbar_gone invisible frame
+3, player_healthbar_gone invisible frame
+4, player_healthbar_gone invisible frame
+5, player_healthbar_gone invisible frame
+6, player_healthbar_gone invisible frame
+7, player_healthbar_gone invisible frame
+8, player_healthbar_gone invisible frame
+9, player_healthbar_gone invisible frame
+10, player_healthbar_gone invisible frame
+11, player_healthbar_gone invisible frame
+12, player_healthbar_gone invisible frame
+13, player_healthbar_gone invisible frame
+14, player_healthbar_gone invisible frame
+15, player_healthbar_gone invisible frame
+16, player_healthbar_gone invisible frame
+17, player_healthbar_gone invisible frame
+18, player_healthbar_gone invisible frame
+19, player_healthbar_gone invisible frame
 20, player_healthbar_gone
 21, player_healthbar_gone
 22, player_healthbar_gone
@@ -18,87 +32,87 @@
 32, player_healthbar_gone
 33, player_healthbar_gone
 34, player_healthbar_gone
-35, player_healthbar_gone
-36, player_healthbar_gone
-37, player_healthbar_gone
-38, player_healthbar_gone
-39, player_healthbar_gone
-40, player_healthbar_gone
-41, player_healthbar_gone
-42, player_healthbar_gone
-56, player_healthbar_gone
-57, player_healthbar_gone
-58, player_healthbar_gone
-59, player_healthbar_gone
-60, player_healthbar_gone
-61, player_healthbar_gone
-62, player_healthbar_gone
-63, player_healthbar_gone
-68, player_healthbar_gone
-69, player_healthbar_gone
-70, player_healthbar_gone
-71, player_healthbar_gone
-72, player_healthbar_gone
-73, player_healthbar_gone
-74, player_healthbar_gone
-75, player_healthbar_gone
-81, player_healthbar_gone
-82, player_healthbar_gone
-83, player_healthbar_gone
-84, player_healthbar_gone
-85, player_healthbar_gone
-86, player_healthbar_gone
-102, player_healthbar_gone
-103, player_healthbar_gone
-104, player_healthbar_gone
-105, player_healthbar_gone
-106, player_healthbar_gone
-107, player_healthbar_gone
-108, player_healthbar_gone
-109, player_healthbar_gone
-110, player_healthbar_gone
-111, player_healthbar_gone
-112, player_healthbar_gone
-113, player_healthbar_gone
-114, player_healthbar_gone
-115, player_healthbar_gone
-116, player_healthbar_gone
-117, player_healthbar_gone
-118, player_healthbar_gone
-119, player_healthbar_gone
-120, player_healthbar_gone
-121, player_healthbar_gone
-122, player_healthbar_gone
-123, player_healthbar_gone
-124, player_healthbar_gone
-125, player_healthbar_gone
-126, player_healthbar_gone
-127, player_healthbar_gone
-128, player_healthbar_gone
-129, player_healthbar_gone
-130, player_healthbar_gone
-131, player_healthbar_gone
-132, player_healthbar_gone
-133, player_healthbar_gone
-134, player_healthbar_gone
-135, player_healthbar_gone
-136, player_healthbar_gone
-137, player_healthbar_gone
-138, player_healthbar_gone
-139, player_healthbar_gone
-140, player_healthbar_gone
-141, player_healthbar_gone
-142, player_healthbar_gone
-143, player_healthbar_gone
-144, player_healthbar_gone
-145, player_healthbar_gone
-146, player_healthbar_gone
-147, player_healthbar_gone
-148, player_healthbar_gone
-149, player_healthbar_gone
-150, player_healthbar_gone
-151, player_healthbar_gone
-152, player_healthbar_gone
+35, player_healthbar_gone invisible frame
+36, player_healthbar_gone invisible frame
+37, player_healthbar_gone invisible frame
+38, player_healthbar_gone invisible frame
+39, player_healthbar_gone invisible frame
+40, player_healthbar_gone invisible frame
+41, player_healthbar_gone invisible frame
+42, player_healthbar_gone invisible frame
+56, player_healthbar_gone invisible frame
+57, player_healthbar_gone invisible frame
+58, player_healthbar_gone invisible frame
+59, player_healthbar_gone invisible frame
+60, player_healthbar_gone invisible frame
+61, player_healthbar_gone invisible frame
+62, player_healthbar_gone invisible frame
+63, player_healthbar_gone invisible frame
+68, player_healthbar_gone invisible frame
+69, player_healthbar_gone invisible frame
+70, player_healthbar_gone invisible frame
+71, player_healthbar_gone invisible frame
+72, player_healthbar_gone invisible frame
+73, player_healthbar_gone invisible frame
+74, player_healthbar_gone invisible frame
+75, player_healthbar_gone invisible frame
+81, player_healthbar_gone invisible frame
+82, player_healthbar_gone invisible frame
+83, player_healthbar_gone invisible frame
+84, player_healthbar_gone invisible frame
+85, player_healthbar_gone invisible frame
+86, player_healthbar_gone invisible frame
+102, player_healthbar_gone invisible frame
+103, player_healthbar_gone invisible frame
+104, player_healthbar_gone invisible frame
+105, player_healthbar_gone invisible frame
+106, player_healthbar_gone invisible frame
+107, player_healthbar_gone invisible frame
+108, player_healthbar_gone invisible frame
+109, player_healthbar_gone invisible frame
+110, player_healthbar_gone invisible frame
+111, player_healthbar_gone invisible frame
+112, player_healthbar_gone invisible frame
+113, player_healthbar_gone invisible frame
+114, player_healthbar_gone invisible frame
+115, player_healthbar_gone invisible frame
+116, player_healthbar_gone invisible frame
+117, player_healthbar_gone invisible frame
+118, player_healthbar_gone invisible frame
+119, player_healthbar_gone invisible frame
+120, player_healthbar_gone invisible frame
+121, player_healthbar_gone invisible frame
+122, player_healthbar_gone invisible frame
+123, player_healthbar_gone invisible frame
+124, player_healthbar_gone invisible frame
+125, player_healthbar_gone invisible frame
+126, player_healthbar_gone invisible frame
+127, player_healthbar_gone invisible frame
+128, player_healthbar_gone invisible frame
+129, player_healthbar_gone invisible frame
+130, player_healthbar_gone invisible frame
+131, player_healthbar_gone invisible frame
+132, player_healthbar_gone invisible frame
+133, player_healthbar_gone invisible frame
+134, player_healthbar_gone invisible frame
+135, player_healthbar_gone invisible frame
+136, player_healthbar_gone invisible frame
+137, player_healthbar_gone invisible frame
+138, player_healthbar_gone invisible frame
+139, player_healthbar_gone invisible frame
+140, player_healthbar_gone invisible frame
+141, player_healthbar_gone invisible frame
+142, player_healthbar_gone invisible frame
+143, player_healthbar_gone invisible frame
+144, player_healthbar_gone invisible frame
+145, player_healthbar_gone invisible frame
+146, player_healthbar_gone invisible frame
+147, player_healthbar_gone invisible frame
+148, player_healthbar_gone invisible frame
+149, player_healthbar_gone invisible frame
+150, player_healthbar_gone invisible frame
+151, player_healthbar_gone invisible frame
+152, player_healthbar_gone invisible frame
 153, player_healthbar_gone
 154, player_healthbar_gone
 155, player_healthbar_gone

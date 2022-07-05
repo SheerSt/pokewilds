@@ -1,13 +1,13 @@
-1, enemy_healthbar_gone
-2, enemy_healthbar_gone
-3, enemy_healthbar_gone
-4, enemy_healthbar_gone
-5, enemy_healthbar_gone
-6, enemy_healthbar_gone
-7, enemy_healthbar_gone
-8, enemy_healthbar_gone
-9, enemy_healthbar_gone
-10, enemy_healthbar_gone
+1, enemy_healthbar_gone invisible frame
+2, enemy_healthbar_gone invisible frame
+3, enemy_healthbar_gone invisible frame
+4, enemy_healthbar_gone invisible frame
+5, enemy_healthbar_gone invisible frame
+6, enemy_healthbar_gone invisible frame
+7, enemy_healthbar_gone invisible frame
+8, enemy_healthbar_gone invisible frame
+9, enemy_healthbar_gone invisible frame
+10, enemy_healthbar_gone invisible frame
 11, enemy_healthbar_gone
 12, enemy_healthbar_gone
 13, enemy_healthbar_gone
@@ -47,108 +47,108 @@
 47, enemy_healthbar_gone
 48, enemy_healthbar_gone
 49, enemy_healthbar_gone
-50, enemy_healthbar_gone
-51, enemy_healthbar_gone
-52, enemy_healthbar_gone
-53, screen_translate_x:0
-54, screen_translate_x:0
-55, screen_translate_x:0
-56, screen_translate_x:0
-57, screen_translate_x:0
-58, screen_translate_x:0
-59, screen_translate_x:0
-60, screen_translate_x:0
-61, screen_translate_x:0
-62, screen_translate_x:0
-63, screen_translate_x:0
-64, screen_translate_x:0
-65, screen_translate_x:0
-66, screen_translate_x:0
-67, screen_translate_x:0
-68, screen_translate_x:0
-69, screen_translate_x:0
-70, screen_translate_x:0
-71, screen_translate_x:0
-72, screen_translate_x:0
-73, screen_translate_x:0
-74, screen_translate_x:0
-75, screen_translate_x:0
-76, screen_translate_x:0
-77, screen_translate_x:0
-78, screen_translate_x:0
-79, screen_translate_x:0
-80, screen_translate_x:0
-81, screen_translate_x:0
-82, screen_translate_x:0
-83, screen_translate_x:0
-84, screen_translate_x:0
-85, screen_translate_x:0
-86, screen_translate_x:0
-87, screen_translate_x:0
-88, screen_translate_x:0
-89, screen_translate_x:0
-90, screen_translate_x:0
-91, screen_translate_x:0
-92, screen_translate_x:0
-93, screen_translate_x:0
-94, screen_translate_x:0
-95, screen_translate_x:0
-96, screen_translate_x:0
-97, screen_translate_x:0
-98, screen_translate_x:0
-99, screen_translate_x:0
-100, screen_translate_x:0
-101, screen_translate_x:0
-102, screen_translate_x:0
-103, screen_translate_x:0
-104, screen_translate_x:0
-105, screen_translate_x:0
-106, screen_translate_x:0
-107, screen_translate_x:0
-108, screen_translate_x:0
-109, screen_translate_x:0
-110, screen_translate_x:0
-111, screen_translate_x:0
-112, screen_translate_x:0
-113, screen_translate_x:0
-114, screen_translate_x:0
-115, screen_translate_x:0
-116, screen_translate_x:0
-117, screen_translate_x:0
-118, screen_translate_x:0
-119, screen_translate_x:0
-120, screen_translate_x:0
-121, screen_translate_x:0
-122, screen_translate_x:0
-123, screen_translate_x:0
-124, screen_translate_x:0
-125, screen_translate_x:0
-126, screen_translate_x:0
-127, screen_translate_x:0
-128, screen_translate_x:0
-129, screen_translate_x:0
-130, screen_translate_x:0
-131, screen_translate_x:0
-132, screen_translate_x:0
-133, screen_translate_x:0
-134, screen_translate_x:0
-135, screen_translate_x:0
-136, screen_translate_x:0
-137, screen_translate_x:0
-138, screen_translate_x:0
-139, screen_translate_x:0
-140, screen_translate_x:0
-141, screen_translate_x:0
-142, screen_translate_x:0
-143, screen_translate_x:0
-144, screen_translate_x:0
-145, screen_translate_x:0
-146, screen_translate_x:0
-147, screen_translate_x:0
-148, screen_translate_x:0
-149, screen_translate_x:0
-150, screen_translate_x:0
-151, screen_translate_x:0
-152, screen_translate_x:0
-153, screen_translate_x:0
-154, screen_translate_x:0
+50, enemy_healthbar_gone invisible frame
+51, enemy_healthbar_gone invisible frame
+52, enemy_healthbar_gone invisible frame
+53, screen_translate_x:0 invisible frame
+54, screen_translate_x:0 invisible frame
+55, screen_translate_x:0 invisible frame
+56, screen_translate_x:0 invisible frame
+57, screen_translate_x:0 invisible frame
+58, screen_translate_x:0 invisible frame
+59, screen_translate_x:0 invisible frame
+60, screen_translate_x:0 invisible frame
+61, screen_translate_x:0 invisible frame
+62, screen_translate_x:0 invisible frame
+63, screen_translate_x:0 invisible frame
+64, screen_translate_x:0 invisible frame
+65, screen_translate_x:0 invisible frame
+66, screen_translate_x:0 invisible frame
+67, screen_translate_x:0 invisible frame
+68, screen_translate_x:0 invisible frame
+69, screen_translate_x:0 invisible frame
+70, screen_translate_x:0 invisible frame
+71, screen_translate_x:0 invisible frame
+72, screen_translate_x:0 invisible frame
+73, screen_translate_x:0 invisible frame
+74, screen_translate_x:0 invisible frame
+75, screen_translate_x:0 invisible frame
+76, screen_translate_x:0 invisible frame
+77, screen_translate_x:0 invisible frame
+78, screen_translate_x:0 invisible frame
+79, screen_translate_x:0 invisible frame
+80, screen_translate_x:0 invisible frame
+81, screen_translate_x:0 invisible frame
+82, screen_translate_x:0 invisible frame
+83, screen_translate_x:0 invisible frame
+84, screen_translate_x:0 invisible frame
+85, screen_translate_x:0 invisible frame
+86, screen_translate_x:0 invisible frame
+87, screen_translate_x:0 invisible frame
+88, screen_translate_x:0 invisible frame
+89, screen_translate_x:0 invisible frame
+90, screen_translate_x:0 invisible frame
+91, screen_translate_x:0 invisible frame
+92, screen_translate_x:0 invisible frame
+93, screen_translate_x:0 invisible frame
+94, screen_translate_x:0 invisible frame
+95, screen_translate_x:0 invisible frame
+96, screen_translate_x:0 invisible frame
+97, screen_translate_x:0 invisible frame
+98, screen_translate_x:0 invisible frame
+99, screen_translate_x:0 invisible frame
+100, screen_translate_x:0 invisible frame
+101, screen_translate_x:0 invisible frame
+102, screen_translate_x:0 invisible frame
+103, screen_translate_x:0 invisible frame
+104, screen_translate_x:0 invisible frame
+105, screen_translate_x:0 invisible frame
+106, screen_translate_x:0 invisible frame
+107, screen_translate_x:0 invisible frame
+108, screen_translate_x:0 invisible frame
+109, screen_translate_x:0 invisible frame
+110, screen_translate_x:0 invisible frame
+111, screen_translate_x:0 invisible frame
+112, screen_translate_x:0 invisible frame
+113, screen_translate_x:0 invisible frame
+114, screen_translate_x:0 invisible frame
+115, screen_translate_x:0 invisible frame
+116, screen_translate_x:0 invisible frame
+117, screen_translate_x:0 invisible frame
+118, screen_translate_x:0 invisible frame
+119, screen_translate_x:0 invisible frame
+120, screen_translate_x:0 invisible frame
+121, screen_translate_x:0 invisible frame
+122, screen_translate_x:0 invisible frame
+123, screen_translate_x:0 invisible frame
+124, screen_translate_x:0 invisible frame
+125, screen_translate_x:0 invisible frame
+126, screen_translate_x:0 invisible frame
+127, screen_translate_x:0 invisible frame
+128, screen_translate_x:0 invisible frame
+129, screen_translate_x:0 invisible frame
+130, screen_translate_x:0 invisible frame
+131, screen_translate_x:0 invisible frame
+132, screen_translate_x:0 invisible frame
+133, screen_translate_x:0 invisible frame
+134, screen_translate_x:0 invisible frame
+135, screen_translate_x:0 invisible frame
+136, screen_translate_x:0 invisible frame
+137, screen_translate_x:0 invisible frame
+138, screen_translate_x:0 invisible frame
+139, screen_translate_x:0 invisible frame
+140, screen_translate_x:0 invisible frame
+141, screen_translate_x:0 invisible frame
+142, screen_translate_x:0 invisible frame
+143, screen_translate_x:0 invisible frame
+144, screen_translate_x:0 invisible frame
+145, screen_translate_x:0 invisible frame
+146, screen_translate_x:0 invisible frame
+147, screen_translate_x:0 invisible frame
+148, screen_translate_x:0 invisible frame
+149, screen_translate_x:0 invisible frame
+150, screen_translate_x:0 invisible frame
+151, screen_translate_x:0 invisible frame
+152, screen_translate_x:0 invisible frame
+153, screen_translate_x:0 invisible frame
+154, screen_translate_x:0 invisible frame

@@ -1,12 +1,12 @@
-1, enemy_healthbar_gone
-2, enemy_healthbar_gone
-3, enemy_healthbar_gone
-4, enemy_healthbar_gone
-5, enemy_healthbar_gone
-6, enemy_healthbar_gone
-7, enemy_healthbar_gone
-8, enemy_healthbar_gone
-9, enemy_healthbar_gone
+1, enemy_healthbar_gone invisible frame
+2, enemy_healthbar_gone invisible frame
+3, enemy_healthbar_gone invisible frame
+4, enemy_healthbar_gone invisible frame
+5, enemy_healthbar_gone invisible frame
+6, enemy_healthbar_gone invisible frame
+7, enemy_healthbar_gone invisible frame
+8, enemy_healthbar_gone invisible frame
+9, enemy_healthbar_gone invisible frame
 10, enemy_healthbar_gone
 11, enemy_healthbar_gone
 12, enemy_healthbar_gone
@@ -189,6 +189,6 @@
 189, enemy_healthbar_gone
 190, enemy_healthbar_gone
 191, enemy_healthbar_gone
-192, enemy_healthbar_gone
-193, enemy_healthbar_gone
-194, enemy_healthbar_gone
+192, enemy_healthbar_gone invisible frame
+193, enemy_healthbar_gone invisible frame
+194, enemy_healthbar_gone invisible frame

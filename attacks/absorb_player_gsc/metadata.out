@@ -1,10 +1,10 @@
-1, player_healthbar_gone invisible frame
-2, player_healthbar_gone invisible frame
-3, player_healthbar_gone invisible frame
-4, player_healthbar_gone invisible frame
-5, player_healthbar_gone invisible frame
-6, player_healthbar_gone invisible frame
-7, player_healthbar_gone invisible frame
+1, player_healthbar_gone invisible_frame
+2, player_healthbar_gone invisible_frame
+3, player_healthbar_gone invisible_frame
+4, player_healthbar_gone invisible_frame
+5, player_healthbar_gone invisible_frame
+6, player_healthbar_gone invisible_frame
+7, player_healthbar_gone invisible_frame
 8, player_healthbar_gone
 9, player_healthbar_gone
 10, player_healthbar_gone
@@ -131,21 +131,21 @@
 131, player_healthbar_gone
 132, player_healthbar_gone
 133, player_healthbar_gone
-134, player_healthbar_gone invisible frame
-135, player_healthbar_gone invisible frame
-136, player_healthbar_gone invisible frame
+134, player_healthbar_gone invisible_frame
+135, player_healthbar_gone invisible_frame
+136, player_healthbar_gone invisible_frame
 137, player_healthbar_gone
 138, player_healthbar_gone
 139, player_healthbar_gone
 140, player_healthbar_gone
 141, player_healthbar_gone
-142, player_healthbar_gone invisible frame
-143, player_healthbar_gone invisible frame
-144, player_healthbar_gone invisible frame
-145, player_healthbar_gone invisible frame
-146, player_healthbar_gone invisible frame
-147, player_healthbar_gone invisible frame
-148, player_healthbar_gone invisible frame
-149, player_healthbar_gone invisible frame
-150, player_healthbar_gone invisible frame
-151, player_healthbar_gone invisible frame
+142, player_healthbar_gone invisible_frame
+143, player_healthbar_gone invisible_frame
+144, player_healthbar_gone invisible_frame
+145, player_healthbar_gone invisible_frame
+146, player_healthbar_gone invisible_frame
+147, player_healthbar_gone invisible_frame
+148, player_healthbar_gone invisible_frame
+149, player_healthbar_gone invisible_frame
+150, player_healthbar_gone invisible_frame
+151, player_healthbar_gone invisible_frame

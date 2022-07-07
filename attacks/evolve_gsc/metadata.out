@@ -1,467 +1,467 @@
-1, invisible frame
-2, invisible frame
-3, invisible frame
-4, invisible frame
-5, invisible frame
-6, invisible frame
-7, invisible frame
-8, invisible frame
-9, invisible frame
-10, invisible frame
-11, invisible frame
-12, invisible frame
-13, invisible frame
-14, invisible frame
-15, invisible frame
-16, invisible frame
-17, invisible frame
-18, invisible frame
-19, invisible frame
-20, invisible frame
-21, invisible frame
-22, invisible frame
-23, invisible frame
-24, invisible frame
-25, invisible frame
-26, invisible frame
-27, invisible frame
-28, invisible frame
-29, invisible frame
-30, invisible frame
-31, invisible frame
-32, invisible frame
-33, invisible frame
-34, invisible frame
-35, invisible frame
-36, invisible frame
-37, invisible frame
-38, invisible frame
-39, invisible frame
-40, invisible frame
-41, invisible frame
-42, invisible frame
-43, invisible frame
-44, invisible frame
-45, invisible frame
-46, invisible frame
-47, invisible frame
-48, invisible frame
-49, invisible frame
-50, invisible frame
-51, invisible frame
-52, invisible frame
-53, invisible frame
-54, invisible frame
-55, invisible frame
-56, invisible frame
-57, invisible frame
-58, invisible frame
-59, invisible frame
-60, invisible frame
-61, invisible frame
-62, invisible frame
-63, invisible frame
-64, invisible frame
-65, invisible frame
-66, invisible frame
-67, invisible frame
-68, invisible frame
-69, invisible frame
-70, invisible frame
-71, invisible frame
-72, invisible frame
-73, invisible frame
-74, invisible frame
-75, invisible frame
-76, invisible frame
-77, invisible frame
-78, invisible frame
-79, invisible frame
-80, invisible frame
-81, invisible frame
-82, invisible frame
-83, invisible frame
-84, invisible frame
-85, invisible frame
-86, invisible frame
-87, invisible frame
-88, invisible frame
-89, invisible frame
-90, invisible frame
-91, invisible frame
-92, invisible frame
-93, invisible frame
-94, invisible frame
-95, invisible frame
-96, invisible frame
-97, sprite_greyscale invisible frame
-98, sprite_greyscale invisible frame
-99, sprite_greyscale invisible frame
-100, sprite_greyscale invisible frame
-101, sprite_greyscale invisible frame
-102, sprite_greyscale invisible frame
-103, sprite_greyscale invisible frame
-104, sprite_greyscale invisible frame
-105, sprite_greyscale invisible frame
-106, sprite_greyscale invisible frame
-107, sprite_greyscale invisible frame
-108, sprite_greyscale invisible frame
-109, sprite_greyscale invisible frame
-110, sprite_greyscale invisible frame
-111, sprite_greyscale invisible frame
-112, sprite_greyscale invisible frame
-113, sprite_greyscale evo_top_sprite_changed invisible frame
-114, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-115, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-116, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-117, sprite_greyscale evo_top_sprite_changed invisible frame
-118, sprite_greyscale evo_top_sprite_changed invisible frame
-119, sprite_greyscale invisible frame
-120, sprite_greyscale invisible frame
-121, sprite_greyscale invisible frame
-122, sprite_greyscale invisible frame
-123, sprite_greyscale invisible frame
-124, sprite_greyscale invisible frame
-125, sprite_greyscale invisible frame
-126, sprite_greyscale invisible frame
-127, sprite_greyscale invisible frame
-128, sprite_greyscale invisible frame
-129, sprite_greyscale invisible frame
-130, sprite_greyscale invisible frame
-131, sprite_greyscale invisible frame
-132, sprite_greyscale invisible frame
-133, sprite_greyscale invisible frame
-134, sprite_greyscale invisible frame
-135, sprite_greyscale evo_bottom_sprite_changed invisible frame
-136, sprite_greyscale evo_bottom_sprite_changed invisible frame
-137, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-138, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-139, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-140, sprite_greyscale evo_bottom_sprite_changed invisible frame
-141, sprite_greyscale invisible frame
-142, sprite_greyscale invisible frame
-143, sprite_greyscale evo_top_sprite_changed invisible frame
-144, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-145, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-146, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-147, sprite_greyscale evo_top_sprite_changed invisible frame
-148, sprite_greyscale evo_top_sprite_changed invisible frame
-149, sprite_greyscale invisible frame
-150, sprite_greyscale invisible frame
-151, sprite_greyscale invisible frame
-152, sprite_greyscale invisible frame
-153, sprite_greyscale invisible frame
-154, sprite_greyscale invisible frame
-155, sprite_greyscale invisible frame
-156, sprite_greyscale invisible frame
-157, sprite_greyscale invisible frame
-158, sprite_greyscale invisible frame
-159, sprite_greyscale invisible frame
-160, sprite_greyscale invisible frame
-161, sprite_greyscale invisible frame
-162, sprite_greyscale invisible frame
-163, sprite_greyscale invisible frame
-164, sprite_greyscale evo_top_sprite_changed invisible frame
-165, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-166, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-167, sprite_greyscale evo_bottom_sprite_changed invisible frame
-168, sprite_greyscale invisible frame
-169, sprite_greyscale invisible frame
-170, sprite_greyscale invisible frame
-171, sprite_greyscale evo_bottom_sprite_changed invisible frame
-172, sprite_greyscale evo_bottom_sprite_changed invisible frame
-173, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-174, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-175, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-176, sprite_greyscale evo_bottom_sprite_changed invisible frame
-177, sprite_greyscale invisible frame
-178, sprite_greyscale invisible frame
-179, sprite_greyscale evo_top_sprite_changed invisible frame
-180, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-181, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-182, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-183, sprite_greyscale evo_top_sprite_changed invisible frame
-184, sprite_greyscale evo_top_sprite_changed invisible frame
-185, sprite_greyscale invisible frame
-186, sprite_greyscale invisible frame
-187, sprite_greyscale invisible frame
-188, sprite_greyscale invisible frame
-189, sprite_greyscale invisible frame
-190, sprite_greyscale invisible frame
-191, sprite_greyscale invisible frame
-192, sprite_greyscale invisible frame
-193, sprite_greyscale invisible frame
-194, sprite_greyscale invisible frame
-195, sprite_greyscale invisible frame
-196, sprite_greyscale invisible frame
-197, sprite_greyscale evo_top_sprite_changed invisible frame
-198, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-199, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-200, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-201, sprite_greyscale evo_top_sprite_changed invisible frame
-202, sprite_greyscale evo_top_sprite_changed invisible frame
-203, sprite_greyscale invisible frame
-204, sprite_greyscale invisible frame
-205, sprite_greyscale invisible frame
-206, sprite_greyscale evo_top_sprite_changed invisible frame
-207, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-208, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-209, sprite_greyscale evo_bottom_sprite_changed invisible frame
-210, sprite_greyscale invisible frame
-211, sprite_greyscale invisible frame
-212, sprite_greyscale invisible frame
-213, sprite_greyscale evo_bottom_sprite_changed invisible frame
-214, sprite_greyscale evo_bottom_sprite_changed invisible frame
-215, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-216, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-217, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-218, sprite_greyscale evo_bottom_sprite_changed invisible frame
-219, sprite_greyscale invisible frame
-220, sprite_greyscale invisible frame
-221, sprite_greyscale evo_top_sprite_changed invisible frame
-222, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-223, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-224, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-225, sprite_greyscale evo_top_sprite_changed invisible frame
-226, sprite_greyscale evo_top_sprite_changed invisible frame
-227, sprite_greyscale invisible frame
-228, sprite_greyscale invisible frame
-229, sprite_greyscale invisible frame
-230, sprite_greyscale invisible frame
-231, sprite_greyscale invisible frame
-232, sprite_greyscale invisible frame
-233, sprite_greyscale invisible frame
-234, sprite_greyscale invisible frame
-235, sprite_greyscale invisible frame
-236, sprite_greyscale invisible frame
-237, sprite_greyscale evo_bottom_sprite_changed invisible frame
-238, sprite_greyscale evo_bottom_sprite_changed invisible frame
-239, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-240, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-241, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-242, sprite_greyscale evo_bottom_sprite_changed invisible frame
-243, sprite_greyscale invisible frame
-244, sprite_greyscale invisible frame
-245, sprite_greyscale evo_top_sprite_changed invisible frame
-246, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-247, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-248, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-249, sprite_greyscale evo_top_sprite_changed invisible frame
-250, sprite_greyscale evo_top_sprite_changed invisible frame
-251, sprite_greyscale invisible frame
-252, sprite_greyscale invisible frame
-253, sprite_greyscale invisible frame
-254, sprite_greyscale evo_top_sprite_changed invisible frame
-255, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-256, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-257, sprite_greyscale evo_bottom_sprite_changed invisible frame
-258, sprite_greyscale invisible frame
-259, sprite_greyscale invisible frame
-260, sprite_greyscale invisible frame
-261, sprite_greyscale evo_bottom_sprite_changed invisible frame
-262, sprite_greyscale evo_bottom_sprite_changed invisible frame
-263, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-264, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-265, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-266, sprite_greyscale evo_bottom_sprite_changed invisible frame
-267, sprite_greyscale invisible frame
-268, sprite_greyscale invisible frame
-269, sprite_greyscale evo_top_sprite_changed invisible frame
-270, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-271, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-272, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-273, sprite_greyscale evo_top_sprite_changed invisible frame
-274, sprite_greyscale evo_top_sprite_changed invisible frame
-275, sprite_greyscale invisible frame
-276, sprite_greyscale invisible frame
-277, sprite_greyscale invisible frame
-278, sprite_greyscale invisible frame
-279, sprite_greyscale invisible frame
-280, sprite_greyscale invisible frame
-281, sprite_greyscale invisible frame
-282, sprite_greyscale invisible frame
-283, sprite_greyscale invisible frame
-284, sprite_greyscale evo_top_sprite_changed invisible frame
-285, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-286, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-287, sprite_greyscale evo_bottom_sprite_changed invisible frame
-288, sprite_greyscale invisible frame
-289, sprite_greyscale invisible frame
-290, sprite_greyscale invisible frame
-291, sprite_greyscale evo_bottom_sprite_changed invisible frame
-292, sprite_greyscale evo_bottom_sprite_changed invisible frame
-293, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-294, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-295, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-296, sprite_greyscale evo_bottom_sprite_changed invisible frame
-297, sprite_greyscale invisible frame
-298, sprite_greyscale invisible frame
-299, sprite_greyscale evo_top_sprite_changed invisible frame
-300, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-301, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-302, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-303, sprite_greyscale evo_top_sprite_changed invisible frame
-304, sprite_greyscale evo_top_sprite_changed invisible frame
-305, sprite_greyscale invisible frame
-306, sprite_greyscale invisible frame
-307, sprite_greyscale invisible frame
-308, sprite_greyscale evo_top_sprite_changed invisible frame
-309, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-310, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-311, sprite_greyscale evo_bottom_sprite_changed invisible frame
-312, sprite_greyscale invisible frame
-313, sprite_greyscale invisible frame
-314, sprite_greyscale invisible frame
-315, sprite_greyscale evo_bottom_sprite_changed invisible frame
-316, sprite_greyscale evo_bottom_sprite_changed invisible frame
-317, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-318, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-319, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-320, sprite_greyscale evo_bottom_sprite_changed invisible frame
-321, sprite_greyscale invisible frame
-322, sprite_greyscale invisible frame
-323, sprite_greyscale evo_top_sprite_changed invisible frame
-324, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-325, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-326, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-327, sprite_greyscale evo_top_sprite_changed invisible frame
-328, sprite_greyscale evo_top_sprite_changed invisible frame
-329, sprite_greyscale invisible frame
-330, sprite_greyscale invisible frame
-331, sprite_greyscale invisible frame
-332, sprite_greyscale invisible frame
-333, sprite_greyscale invisible frame
-334, sprite_greyscale invisible frame
-335, sprite_greyscale evo_top_sprite_changed invisible frame
-336, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-337, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-338, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-339, sprite_greyscale evo_top_sprite_changed invisible frame
-340, sprite_greyscale evo_top_sprite_changed invisible frame
-341, sprite_greyscale invisible frame
-342, sprite_greyscale invisible frame
-343, sprite_greyscale invisible frame
-344, sprite_greyscale evo_top_sprite_changed invisible frame
-345, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-346, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-347, sprite_greyscale evo_bottom_sprite_changed invisible frame
-348, sprite_greyscale invisible frame
-349, sprite_greyscale invisible frame
-350, sprite_greyscale invisible frame
-351, sprite_greyscale evo_bottom_sprite_changed invisible frame
-352, sprite_greyscale evo_bottom_sprite_changed invisible frame
-353, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-354, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-355, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-356, sprite_greyscale evo_bottom_sprite_changed invisible frame
-357, sprite_greyscale invisible frame
-358, sprite_greyscale invisible frame
-359, sprite_greyscale evo_top_sprite_changed invisible frame
-360, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-361, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-362, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-363, sprite_greyscale evo_top_sprite_changed invisible frame
-364, sprite_greyscale evo_top_sprite_changed invisible frame
-365, sprite_greyscale invisible frame
-366, sprite_greyscale invisible frame
-367, sprite_greyscale invisible frame
-368, sprite_greyscale evo_top_sprite_changed invisible frame
-369, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-370, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-371, sprite_greyscale evo_bottom_sprite_changed invisible frame
-372, sprite_greyscale invisible frame
-373, sprite_greyscale invisible frame
-374, sprite_greyscale invisible frame
-375, sprite_greyscale evo_bottom_sprite_changed invisible frame
-376, sprite_greyscale evo_bottom_sprite_changed invisible frame
-377, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-378, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-379, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-380, sprite_greyscale evo_bottom_sprite_changed invisible frame
-381, sprite_greyscale invisible frame
-382, sprite_greyscale invisible frame
-383, sprite_greyscale evo_top_sprite_changed invisible frame
-384, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-385, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-386, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-387, sprite_greyscale evo_top_sprite_changed invisible frame
-388, sprite_greyscale evo_top_sprite_changed invisible frame
-389, sprite_greyscale invisible frame
-390, sprite_greyscale invisible frame
-391, sprite_greyscale invisible frame
-392, sprite_greyscale invisible frame
-393, sprite_greyscale evo_bottom_sprite_changed invisible frame
-394, sprite_greyscale evo_bottom_sprite_changed invisible frame
-395, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-396, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-397, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-398, sprite_greyscale evo_bottom_sprite_changed invisible frame
-399, sprite_greyscale invisible frame
-400, sprite_greyscale invisible frame
-401, sprite_greyscale evo_top_sprite_changed invisible frame
-402, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-403, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-404, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-405, sprite_greyscale evo_top_sprite_changed invisible frame
-406, sprite_greyscale evo_top_sprite_changed invisible frame
-407, sprite_greyscale invisible frame
-408, sprite_greyscale invisible frame
-409, sprite_greyscale invisible frame
-410, sprite_greyscale evo_top_sprite_changed invisible frame
-411, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-412, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-413, sprite_greyscale evo_bottom_sprite_changed invisible frame
-414, sprite_greyscale invisible frame
-415, sprite_greyscale invisible frame
-416, sprite_greyscale invisible frame
-417, sprite_greyscale evo_bottom_sprite_changed invisible frame
-418, sprite_greyscale evo_bottom_sprite_changed invisible frame
-419, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-420, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-421, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-422, sprite_greyscale evo_bottom_sprite_changed invisible frame
-423, sprite_greyscale invisible frame
-424, sprite_greyscale invisible frame
-425, sprite_greyscale evo_top_sprite_changed invisible frame
-426, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-427, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-428, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-429, sprite_greyscale evo_top_sprite_changed invisible frame
-430, sprite_greyscale evo_top_sprite_changed invisible frame
-431, sprite_greyscale invisible frame
-432, sprite_greyscale invisible frame
-433, sprite_greyscale invisible frame
-434, sprite_greyscale evo_top_sprite_changed invisible frame
-435, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-436, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-437, sprite_greyscale evo_bottom_sprite_changed invisible frame
-438, sprite_greyscale invisible frame
-439, sprite_greyscale invisible frame
-440, sprite_greyscale invisible frame
-441, sprite_greyscale evo_bottom_sprite_changed invisible frame
-442, sprite_greyscale evo_bottom_sprite_changed invisible frame
-443, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-444, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-445, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-446, sprite_greyscale evo_bottom_sprite_changed invisible frame
-447, sprite_greyscale invisible frame
-448, sprite_greyscale invisible frame
-449, sprite_greyscale evo_top_sprite_changed invisible frame
-450, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-451, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-452, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-453, sprite_greyscale evo_top_sprite_changed invisible frame
-454, sprite_greyscale evo_top_sprite_changed invisible frame
-455, sprite_greyscale invisible frame
-456, sprite_greyscale invisible frame
-457, sprite_greyscale invisible frame
-458, sprite_greyscale evo_top_sprite_changed invisible frame
-459, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed play_evo_fanfare invisible frame
-460, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-461, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-462, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-463, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
-464, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible frame
+1, invisible_frame
+2, invisible_frame
+3, invisible_frame
+4, invisible_frame
+5, invisible_frame
+6, invisible_frame
+7, invisible_frame
+8, invisible_frame
+9, invisible_frame
+10, invisible_frame
+11, invisible_frame
+12, invisible_frame
+13, invisible_frame
+14, invisible_frame
+15, invisible_frame
+16, invisible_frame
+17, invisible_frame
+18, invisible_frame
+19, invisible_frame
+20, invisible_frame
+21, invisible_frame
+22, invisible_frame
+23, invisible_frame
+24, invisible_frame
+25, invisible_frame
+26, invisible_frame
+27, invisible_frame
+28, invisible_frame
+29, invisible_frame
+30, invisible_frame
+31, invisible_frame
+32, invisible_frame
+33, invisible_frame
+34, invisible_frame
+35, invisible_frame
+36, invisible_frame
+37, invisible_frame
+38, invisible_frame
+39, invisible_frame
+40, invisible_frame
+41, invisible_frame
+42, invisible_frame
+43, invisible_frame
+44, invisible_frame
+45, invisible_frame
+46, invisible_frame
+47, invisible_frame
+48, invisible_frame
+49, invisible_frame
+50, invisible_frame
+51, invisible_frame
+52, invisible_frame
+53, invisible_frame
+54, invisible_frame
+55, invisible_frame
+56, invisible_frame
+57, invisible_frame
+58, invisible_frame
+59, invisible_frame
+60, invisible_frame
+61, invisible_frame
+62, invisible_frame
+63, invisible_frame
+64, invisible_frame
+65, invisible_frame
+66, invisible_frame
+67, invisible_frame
+68, invisible_frame
+69, invisible_frame
+70, invisible_frame
+71, invisible_frame
+72, invisible_frame
+73, invisible_frame
+74, invisible_frame
+75, invisible_frame
+76, invisible_frame
+77, invisible_frame
+78, invisible_frame
+79, invisible_frame
+80, invisible_frame
+81, invisible_frame
+82, invisible_frame
+83, invisible_frame
+84, invisible_frame
+85, invisible_frame
+86, invisible_frame
+87, invisible_frame
+88, invisible_frame
+89, invisible_frame
+90, invisible_frame
+91, invisible_frame
+92, invisible_frame
+93, invisible_frame
+94, invisible_frame
+95, invisible_frame
+96, invisible_frame
+97, sprite_greyscale invisible_frame
+98, sprite_greyscale invisible_frame
+99, sprite_greyscale invisible_frame
+100, sprite_greyscale invisible_frame
+101, sprite_greyscale invisible_frame
+102, sprite_greyscale invisible_frame
+103, sprite_greyscale invisible_frame
+104, sprite_greyscale invisible_frame
+105, sprite_greyscale invisible_frame
+106, sprite_greyscale invisible_frame
+107, sprite_greyscale invisible_frame
+108, sprite_greyscale invisible_frame
+109, sprite_greyscale invisible_frame
+110, sprite_greyscale invisible_frame
+111, sprite_greyscale invisible_frame
+112, sprite_greyscale invisible_frame
+113, sprite_greyscale evo_top_sprite_changed invisible_frame
+114, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+115, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+116, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+117, sprite_greyscale evo_top_sprite_changed invisible_frame
+118, sprite_greyscale evo_top_sprite_changed invisible_frame
+119, sprite_greyscale invisible_frame
+120, sprite_greyscale invisible_frame
+121, sprite_greyscale invisible_frame
+122, sprite_greyscale invisible_frame
+123, sprite_greyscale invisible_frame
+124, sprite_greyscale invisible_frame
+125, sprite_greyscale invisible_frame
+126, sprite_greyscale invisible_frame
+127, sprite_greyscale invisible_frame
+128, sprite_greyscale invisible_frame
+129, sprite_greyscale invisible_frame
+130, sprite_greyscale invisible_frame
+131, sprite_greyscale invisible_frame
+132, sprite_greyscale invisible_frame
+133, sprite_greyscale invisible_frame
+134, sprite_greyscale invisible_frame
+135, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+136, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+137, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+138, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+139, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+140, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+141, sprite_greyscale invisible_frame
+142, sprite_greyscale invisible_frame
+143, sprite_greyscale evo_top_sprite_changed invisible_frame
+144, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+145, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+146, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+147, sprite_greyscale evo_top_sprite_changed invisible_frame
+148, sprite_greyscale evo_top_sprite_changed invisible_frame
+149, sprite_greyscale invisible_frame
+150, sprite_greyscale invisible_frame
+151, sprite_greyscale invisible_frame
+152, sprite_greyscale invisible_frame
+153, sprite_greyscale invisible_frame
+154, sprite_greyscale invisible_frame
+155, sprite_greyscale invisible_frame
+156, sprite_greyscale invisible_frame
+157, sprite_greyscale invisible_frame
+158, sprite_greyscale invisible_frame
+159, sprite_greyscale invisible_frame
+160, sprite_greyscale invisible_frame
+161, sprite_greyscale invisible_frame
+162, sprite_greyscale invisible_frame
+163, sprite_greyscale invisible_frame
+164, sprite_greyscale evo_top_sprite_changed invisible_frame
+165, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+166, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+167, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+168, sprite_greyscale invisible_frame
+169, sprite_greyscale invisible_frame
+170, sprite_greyscale invisible_frame
+171, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+172, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+173, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+174, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+175, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+176, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+177, sprite_greyscale invisible_frame
+178, sprite_greyscale invisible_frame
+179, sprite_greyscale evo_top_sprite_changed invisible_frame
+180, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+181, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+182, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+183, sprite_greyscale evo_top_sprite_changed invisible_frame
+184, sprite_greyscale evo_top_sprite_changed invisible_frame
+185, sprite_greyscale invisible_frame
+186, sprite_greyscale invisible_frame
+187, sprite_greyscale invisible_frame
+188, sprite_greyscale invisible_frame
+189, sprite_greyscale invisible_frame
+190, sprite_greyscale invisible_frame
+191, sprite_greyscale invisible_frame
+192, sprite_greyscale invisible_frame
+193, sprite_greyscale invisible_frame
+194, sprite_greyscale invisible_frame
+195, sprite_greyscale invisible_frame
+196, sprite_greyscale invisible_frame
+197, sprite_greyscale evo_top_sprite_changed invisible_frame
+198, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+199, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+200, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+201, sprite_greyscale evo_top_sprite_changed invisible_frame
+202, sprite_greyscale evo_top_sprite_changed invisible_frame
+203, sprite_greyscale invisible_frame
+204, sprite_greyscale invisible_frame
+205, sprite_greyscale invisible_frame
+206, sprite_greyscale evo_top_sprite_changed invisible_frame
+207, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+208, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+209, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+210, sprite_greyscale invisible_frame
+211, sprite_greyscale invisible_frame
+212, sprite_greyscale invisible_frame
+213, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+214, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+215, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+216, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+217, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+218, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+219, sprite_greyscale invisible_frame
+220, sprite_greyscale invisible_frame
+221, sprite_greyscale evo_top_sprite_changed invisible_frame
+222, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+223, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+224, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+225, sprite_greyscale evo_top_sprite_changed invisible_frame
+226, sprite_greyscale evo_top_sprite_changed invisible_frame
+227, sprite_greyscale invisible_frame
+228, sprite_greyscale invisible_frame
+229, sprite_greyscale invisible_frame
+230, sprite_greyscale invisible_frame
+231, sprite_greyscale invisible_frame
+232, sprite_greyscale invisible_frame
+233, sprite_greyscale invisible_frame
+234, sprite_greyscale invisible_frame
+235, sprite_greyscale invisible_frame
+236, sprite_greyscale invisible_frame
+237, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+238, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+239, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+240, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+241, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+242, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+243, sprite_greyscale invisible_frame
+244, sprite_greyscale invisible_frame
+245, sprite_greyscale evo_top_sprite_changed invisible_frame
+246, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+247, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+248, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+249, sprite_greyscale evo_top_sprite_changed invisible_frame
+250, sprite_greyscale evo_top_sprite_changed invisible_frame
+251, sprite_greyscale invisible_frame
+252, sprite_greyscale invisible_frame
+253, sprite_greyscale invisible_frame
+254, sprite_greyscale evo_top_sprite_changed invisible_frame
+255, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+256, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+257, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+258, sprite_greyscale invisible_frame
+259, sprite_greyscale invisible_frame
+260, sprite_greyscale invisible_frame
+261, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+262, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+263, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+264, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+265, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+266, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+267, sprite_greyscale invisible_frame
+268, sprite_greyscale invisible_frame
+269, sprite_greyscale evo_top_sprite_changed invisible_frame
+270, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+271, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+272, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+273, sprite_greyscale evo_top_sprite_changed invisible_frame
+274, sprite_greyscale evo_top_sprite_changed invisible_frame
+275, sprite_greyscale invisible_frame
+276, sprite_greyscale invisible_frame
+277, sprite_greyscale invisible_frame
+278, sprite_greyscale invisible_frame
+279, sprite_greyscale invisible_frame
+280, sprite_greyscale invisible_frame
+281, sprite_greyscale invisible_frame
+282, sprite_greyscale invisible_frame
+283, sprite_greyscale invisible_frame
+284, sprite_greyscale evo_top_sprite_changed invisible_frame
+285, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+286, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+287, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+288, sprite_greyscale invisible_frame
+289, sprite_greyscale invisible_frame
+290, sprite_greyscale invisible_frame
+291, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+292, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+293, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+294, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+295, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+296, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+297, sprite_greyscale invisible_frame
+298, sprite_greyscale invisible_frame
+299, sprite_greyscale evo_top_sprite_changed invisible_frame
+300, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+301, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+302, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+303, sprite_greyscale evo_top_sprite_changed invisible_frame
+304, sprite_greyscale evo_top_sprite_changed invisible_frame
+305, sprite_greyscale invisible_frame
+306, sprite_greyscale invisible_frame
+307, sprite_greyscale invisible_frame
+308, sprite_greyscale evo_top_sprite_changed invisible_frame
+309, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+310, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+311, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+312, sprite_greyscale invisible_frame
+313, sprite_greyscale invisible_frame
+314, sprite_greyscale invisible_frame
+315, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+316, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+317, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+318, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+319, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+320, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+321, sprite_greyscale invisible_frame
+322, sprite_greyscale invisible_frame
+323, sprite_greyscale evo_top_sprite_changed invisible_frame
+324, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+325, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+326, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+327, sprite_greyscale evo_top_sprite_changed invisible_frame
+328, sprite_greyscale evo_top_sprite_changed invisible_frame
+329, sprite_greyscale invisible_frame
+330, sprite_greyscale invisible_frame
+331, sprite_greyscale invisible_frame
+332, sprite_greyscale invisible_frame
+333, sprite_greyscale invisible_frame
+334, sprite_greyscale invisible_frame
+335, sprite_greyscale evo_top_sprite_changed invisible_frame
+336, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+337, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+338, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+339, sprite_greyscale evo_top_sprite_changed invisible_frame
+340, sprite_greyscale evo_top_sprite_changed invisible_frame
+341, sprite_greyscale invisible_frame
+342, sprite_greyscale invisible_frame
+343, sprite_greyscale invisible_frame
+344, sprite_greyscale evo_top_sprite_changed invisible_frame
+345, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+346, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+347, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+348, sprite_greyscale invisible_frame
+349, sprite_greyscale invisible_frame
+350, sprite_greyscale invisible_frame
+351, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+352, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+353, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+354, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+355, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+356, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+357, sprite_greyscale invisible_frame
+358, sprite_greyscale invisible_frame
+359, sprite_greyscale evo_top_sprite_changed invisible_frame
+360, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+361, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+362, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+363, sprite_greyscale evo_top_sprite_changed invisible_frame
+364, sprite_greyscale evo_top_sprite_changed invisible_frame
+365, sprite_greyscale invisible_frame
+366, sprite_greyscale invisible_frame
+367, sprite_greyscale invisible_frame
+368, sprite_greyscale evo_top_sprite_changed invisible_frame
+369, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+370, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+371, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+372, sprite_greyscale invisible_frame
+373, sprite_greyscale invisible_frame
+374, sprite_greyscale invisible_frame
+375, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+376, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+377, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+378, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+379, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+380, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+381, sprite_greyscale invisible_frame
+382, sprite_greyscale invisible_frame
+383, sprite_greyscale evo_top_sprite_changed invisible_frame
+384, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+385, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+386, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+387, sprite_greyscale evo_top_sprite_changed invisible_frame
+388, sprite_greyscale evo_top_sprite_changed invisible_frame
+389, sprite_greyscale invisible_frame
+390, sprite_greyscale invisible_frame
+391, sprite_greyscale invisible_frame
+392, sprite_greyscale invisible_frame
+393, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+394, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+395, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+396, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+397, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+398, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+399, sprite_greyscale invisible_frame
+400, sprite_greyscale invisible_frame
+401, sprite_greyscale evo_top_sprite_changed invisible_frame
+402, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+403, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+404, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+405, sprite_greyscale evo_top_sprite_changed invisible_frame
+406, sprite_greyscale evo_top_sprite_changed invisible_frame
+407, sprite_greyscale invisible_frame
+408, sprite_greyscale invisible_frame
+409, sprite_greyscale invisible_frame
+410, sprite_greyscale evo_top_sprite_changed invisible_frame
+411, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+412, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+413, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+414, sprite_greyscale invisible_frame
+415, sprite_greyscale invisible_frame
+416, sprite_greyscale invisible_frame
+417, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+418, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+419, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+420, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+421, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+422, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+423, sprite_greyscale invisible_frame
+424, sprite_greyscale invisible_frame
+425, sprite_greyscale evo_top_sprite_changed invisible_frame
+426, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+427, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+428, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+429, sprite_greyscale evo_top_sprite_changed invisible_frame
+430, sprite_greyscale evo_top_sprite_changed invisible_frame
+431, sprite_greyscale invisible_frame
+432, sprite_greyscale invisible_frame
+433, sprite_greyscale invisible_frame
+434, sprite_greyscale evo_top_sprite_changed invisible_frame
+435, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+436, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+437, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+438, sprite_greyscale invisible_frame
+439, sprite_greyscale invisible_frame
+440, sprite_greyscale invisible_frame
+441, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+442, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+443, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+444, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+445, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+446, sprite_greyscale evo_bottom_sprite_changed invisible_frame
+447, sprite_greyscale invisible_frame
+448, sprite_greyscale invisible_frame
+449, sprite_greyscale evo_top_sprite_changed invisible_frame
+450, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+451, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+452, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+453, sprite_greyscale evo_top_sprite_changed invisible_frame
+454, sprite_greyscale evo_top_sprite_changed invisible_frame
+455, sprite_greyscale invisible_frame
+456, sprite_greyscale invisible_frame
+457, sprite_greyscale invisible_frame
+458, sprite_greyscale evo_top_sprite_changed invisible_frame
+459, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed play_evo_fanfare invisible_frame
+460, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+461, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+462, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+463, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
+464, sprite_greyscale evo_bottom_sprite_changed evo_top_sprite_changed invisible_frame
 465, evo_bottom_sprite_changed evo_top_sprite_changed
 466, evo_bottom_sprite_changed evo_top_sprite_changed
 467, evo_bottom_sprite_changed evo_top_sprite_changed

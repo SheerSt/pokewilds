@@ -1,9 +1,9 @@
-1, player_healthbar_gone invisible frame
-2, player_healthbar_gone invisible frame
-3, player_healthbar_gone invisible frame
-4, player_healthbar_gone invisible frame
-5, player_healthbar_gone invisible frame
-6, player_healthbar_gone invisible frame
+1, player_healthbar_gone invisible_frame
+2, player_healthbar_gone invisible_frame
+3, player_healthbar_gone invisible_frame
+4, player_healthbar_gone invisible_frame
+5, player_healthbar_gone invisible_frame
+6, player_healthbar_gone invisible_frame
 7, player_healthbar_gone
 8, player_healthbar_gone
 9, player_healthbar_gone
@@ -153,7 +153,7 @@
 153, player_healthbar_gone
 154, player_healthbar_gone
 155, player_healthbar_gone
-156, player_healthbar_gone invisible frame
-157, player_healthbar_gone invisible frame
-158, player_healthbar_gone invisible frame
-159, player_healthbar_gone invisible frame
+156, player_healthbar_gone invisible_frame
+157, player_healthbar_gone invisible_frame
+158, player_healthbar_gone invisible_frame
+159, player_healthbar_gone invisible_frame

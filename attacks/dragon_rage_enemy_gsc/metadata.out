@@ -1,10 +1,10 @@
-1, enemy_healthbar_gone invisible frame
-2, enemy_healthbar_gone invisible frame
-3, enemy_healthbar_gone invisible frame
-4, enemy_healthbar_gone invisible frame
-5, enemy_healthbar_gone invisible frame
-6, enemy_healthbar_gone invisible frame
-7, enemy_healthbar_gone invisible frame
+1, enemy_healthbar_gone invisible_frame
+2, enemy_healthbar_gone invisible_frame
+3, enemy_healthbar_gone invisible_frame
+4, enemy_healthbar_gone invisible_frame
+5, enemy_healthbar_gone invisible_frame
+6, enemy_healthbar_gone invisible_frame
+7, enemy_healthbar_gone invisible_frame
 8, enemy_healthbar_gone
 9, enemy_healthbar_gone
 10, enemy_healthbar_gone
@@ -112,109 +112,109 @@
 112, enemy_healthbar_gone
 113, enemy_healthbar_gone
 114, enemy_healthbar_gone
-115, enemy_healthbar_gone invisible frame
-116, enemy_healthbar_gone invisible frame
-117, enemy_healthbar_gone invisible frame
-118, enemy_healthbar_gone invisible frame
-119, enemy_healthbar_gone invisible frame
-120, enemy_healthbar_gone invisible frame
-121, enemy_healthbar_gone invisible frame
-122, enemy_healthbar_gone invisible frame
-123, enemy_healthbar_gone invisible frame
-124, enemy_healthbar_gone invisible frame
-125, enemy_healthbar_gone invisible frame
-126, enemy_healthbar_gone invisible frame
-127, enemy_healthbar_gone invisible frame
-128, enemy_healthbar_gone invisible frame
-129, enemy_healthbar_gone invisible frame
-130, enemy_healthbar_gone invisible frame
-131, enemy_healthbar_gone invisible frame
-132, enemy_healthbar_gone invisible frame
-133, enemy_healthbar_gone invisible frame
-134, enemy_healthbar_gone invisible frame
-135, enemy_healthbar_gone invisible frame
-136, enemy_healthbar_gone invisible frame
-137, enemy_healthbar_gone invisible frame
-138, enemy_healthbar_gone invisible frame
-139, enemy_healthbar_gone invisible frame
-140, enemy_healthbar_gone invisible frame
-141, enemy_healthbar_gone invisible frame
-142, enemy_healthbar_gone invisible frame
-143, enemy_healthbar_gone invisible frame
-144, enemy_healthbar_gone invisible frame
-145, enemy_healthbar_gone invisible frame
-146, enemy_healthbar_gone invisible frame
-147, enemy_healthbar_gone invisible frame
-148, enemy_healthbar_gone invisible frame
-149, enemy_healthbar_gone invisible frame
-150, enemy_healthbar_gone invisible frame
-151, enemy_healthbar_gone invisible frame
-152, _ invisible frame
-153, _ invisible frame
-154, _ invisible frame
-155, _ invisible frame
-156, _ invisible frame
-157, _ invisible frame
-158, _ invisible frame
-159, _ invisible frame
-160, _ invisible frame
-161, _ invisible frame
-162, _ invisible frame
-163, _ invisible frame
-164, _ invisible frame
-165, _ invisible frame
-166, _ invisible frame
-167, _ invisible frame
-168, _ invisible frame
-169, _ invisible frame
-170, _ invisible frame
-171, _ invisible frame
-172, _ invisible frame
-173, _ invisible frame
-174, _ invisible frame
-175, _ invisible frame
-176, _ invisible frame
-177, _ invisible frame
-178, _ invisible frame
-179, _ invisible frame
-180, _ invisible frame
-181, _ invisible frame
-182, _ invisible frame
-183, _ invisible frame
-184, _ invisible frame
-185, _ invisible frame
-186, _ invisible frame
-187, _ invisible frame
-188, _ invisible frame
-189, _ invisible frame
-190, _ invisible frame
-191, _ invisible frame
-192, _ invisible frame
-193, _ invisible frame
-194, _ invisible frame
-195, _ invisible frame
-196, _ invisible frame
-197, _ invisible frame
-198, _ invisible frame
-199, _ invisible frame
-200, _ invisible frame
-201, _ invisible frame
-202, _ invisible frame
-203, _ invisible frame
-204, _ invisible frame
-205, _ invisible frame
-206, _ invisible frame
-207, _ invisible frame
-208, _ invisible frame
-209, _ invisible frame
-210, _ invisible frame
-211, _ invisible frame
-212, _ invisible frame
-213, _ invisible frame
-214, _ invisible frame
-215, _ invisible frame
-216, _ invisible frame
-217, _ invisible frame
-218, _ invisible frame
-219, _ invisible frame
-220, _ invisible frame
+115, enemy_healthbar_gone invisible_frame
+116, enemy_healthbar_gone invisible_frame
+117, enemy_healthbar_gone invisible_frame
+118, enemy_healthbar_gone invisible_frame
+119, enemy_healthbar_gone invisible_frame
+120, enemy_healthbar_gone invisible_frame
+121, enemy_healthbar_gone invisible_frame
+122, enemy_healthbar_gone invisible_frame
+123, enemy_healthbar_gone invisible_frame
+124, enemy_healthbar_gone invisible_frame
+125, enemy_healthbar_gone invisible_frame
+126, enemy_healthbar_gone invisible_frame
+127, enemy_healthbar_gone invisible_frame
+128, enemy_healthbar_gone invisible_frame
+129, enemy_healthbar_gone invisible_frame
+130, enemy_healthbar_gone invisible_frame
+131, enemy_healthbar_gone invisible_frame
+132, enemy_healthbar_gone invisible_frame
+133, enemy_healthbar_gone invisible_frame
+134, enemy_healthbar_gone invisible_frame
+135, enemy_healthbar_gone invisible_frame
+136, enemy_healthbar_gone invisible_frame
+137, enemy_healthbar_gone invisible_frame
+138, enemy_healthbar_gone invisible_frame
+139, enemy_healthbar_gone invisible_frame
+140, enemy_healthbar_gone invisible_frame
+141, enemy_healthbar_gone invisible_frame
+142, enemy_healthbar_gone invisible_frame
+143, enemy_healthbar_gone invisible_frame
+144, enemy_healthbar_gone invisible_frame
+145, enemy_healthbar_gone invisible_frame
+146, enemy_healthbar_gone invisible_frame
+147, enemy_healthbar_gone invisible_frame
+148, enemy_healthbar_gone invisible_frame
+149, enemy_healthbar_gone invisible_frame
+150, enemy_healthbar_gone invisible_frame
+151, enemy_healthbar_gone invisible_frame
+152, _ invisible_frame
+153, _ invisible_frame
+154, _ invisible_frame
+155, _ invisible_frame
+156, _ invisible_frame
+157, _ invisible_frame
+158, _ invisible_frame
+159, _ invisible_frame
+160, _ invisible_frame
+161, _ invisible_frame
+162, _ invisible_frame
+163, _ invisible_frame
+164, _ invisible_frame
+165, _ invisible_frame
+166, _ invisible_frame
+167, _ invisible_frame
+168, _ invisible_frame
+169, _ invisible_frame
+170, _ invisible_frame
+171, _ invisible_frame
+172, _ invisible_frame
+173, _ invisible_frame
+174, _ invisible_frame
+175, _ invisible_frame
+176, _ invisible_frame
+177, _ invisible_frame
+178, _ invisible_frame
+179, _ invisible_frame
+180, _ invisible_frame
+181, _ invisible_frame
+182, _ invisible_frame
+183, _ invisible_frame
+184, _ invisible_frame
+185, _ invisible_frame
+186, _ invisible_frame
+187, _ invisible_frame
+188, _ invisible_frame
+189, _ invisible_frame
+190, _ invisible_frame
+191, _ invisible_frame
+192, _ invisible_frame
+193, _ invisible_frame
+194, _ invisible_frame
+195, _ invisible_frame
+196, _ invisible_frame
+197, _ invisible_frame
+198, _ invisible_frame
+199, _ invisible_frame
+200, _ invisible_frame
+201, _ invisible_frame
+202, _ invisible_frame
+203, _ invisible_frame
+204, _ invisible_frame
+205, _ invisible_frame
+206, _ invisible_frame
+207, _ invisible_frame
+208, _ invisible_frame
+209, _ invisible_frame
+210, _ invisible_frame
+211, _ invisible_frame
+212, _ invisible_frame
+213, _ invisible_frame
+214, _ invisible_frame
+215, _ invisible_frame
+216, _ invisible_frame
+217, _ invisible_frame
+218, _ invisible_frame
+219, _ invisible_frame
+220, _ invisible_frame

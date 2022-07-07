@@ -1,12 +1,12 @@
-1, enemy_healthbar_gone invisible frame
-2, enemy_healthbar_gone invisible frame
-3, enemy_healthbar_gone invisible frame
-4, enemy_healthbar_gone invisible frame
-5, enemy_healthbar_gone invisible frame
-6, enemy_healthbar_gone invisible frame
-7, enemy_healthbar_gone invisible frame
-8, enemy_healthbar_gone invisible frame
-9, enemy_healthbar_gone invisible frame
+1, enemy_healthbar_gone invisible_frame
+2, enemy_healthbar_gone invisible_frame
+3, enemy_healthbar_gone invisible_frame
+4, enemy_healthbar_gone invisible_frame
+5, enemy_healthbar_gone invisible_frame
+6, enemy_healthbar_gone invisible_frame
+7, enemy_healthbar_gone invisible_frame
+8, enemy_healthbar_gone invisible_frame
+9, enemy_healthbar_gone invisible_frame
 10, enemy_healthbar_gone
 11, enemy_healthbar_gone
 12, enemy_healthbar_gone
@@ -28,79 +28,79 @@
 28, enemy_healthbar_gone
 29, enemy_healthbar_gone
 30, enemy_healthbar_gone
-31, enemy_healthbar_gone invisible frame
-32, enemy_healthbar_gone invisible frame
-33, enemy_healthbar_gone invisible frame
-34, enemy_healthbar_gone invisible frame
-35, enemy_healthbar_gone invisible frame
-36, enemy_healthbar_gone invisible frame
-37, enemy_healthbar_gone invisible frame
-38, enemy_healthbar_gone invisible frame
-39, enemy_healthbar_gone invisible frame
-40, enemy_healthbar_gone invisible frame
-41, enemy_healthbar_gone invisible frame
-42, enemy_healthbar_gone invisible frame
-43, enemy_healthbar_gone invisible frame
-44, enemy_healthbar_gone invisible frame
-45, enemy_healthbar_gone invisible frame
-46, screen_translate_x:0 invisible frame
-47, screen_translate_x:0 invisible frame
-48, screen_translate_x:0 invisible frame
-49, screen_translate_x:0 invisible frame
-50, screen_translate_x:0 invisible frame
-51, screen_translate_x:0 invisible frame
-52, screen_translate_x:0 invisible frame
-53, screen_translate_x:0 invisible frame
-54, screen_translate_x:0 invisible frame
-55, screen_translate_x:0 invisible frame
-56, screen_translate_x:0 invisible frame
-57, screen_translate_x:0 invisible frame
-58, screen_translate_x:0 invisible frame
-59, screen_translate_x:0 invisible frame
-60, screen_translate_x:0 invisible frame
-61, screen_translate_x:0 invisible frame
-62, screen_translate_x:0 invisible frame
-63, screen_translate_x:0 invisible frame
-64, screen_translate_x:0 invisible frame
-65, screen_translate_x:0 invisible frame
-66, screen_translate_x:0 invisible frame
-67, screen_translate_x:0 invisible frame
-68, screen_translate_x:0 invisible frame
-69, screen_translate_x:0 invisible frame
-70, screen_translate_x:0 invisible frame
-71, screen_translate_x:0 invisible frame
-72, screen_translate_x:0 invisible frame
-73, screen_translate_x:0 invisible frame
-74, screen_translate_x:0 invisible frame
-75, screen_translate_x:0 invisible frame
-76, screen_translate_x:0 invisible frame
-77, screen_translate_x:0 invisible frame
-78, screen_translate_x:0 invisible frame
-79, screen_translate_x:0 invisible frame
-80, screen_translate_x:0 invisible frame
-81, screen_translate_x:0 invisible frame
-82, screen_translate_x:0 invisible frame
-83, screen_translate_x:0 invisible frame
-84, screen_translate_x:0 invisible frame
-85, screen_translate_x:0 invisible frame
-86, screen_translate_x:0 invisible frame
-87, screen_translate_x:0 invisible frame
-88, screen_translate_x:0 invisible frame
-89, screen_translate_x:0 invisible frame
-90, screen_translate_x:0 invisible frame
-91, screen_translate_x:0 invisible frame
-92, screen_translate_x:0 invisible frame
-93, screen_translate_x:0 invisible frame
-94, screen_translate_x:0 invisible frame
-95, screen_translate_x:0 invisible frame
-96, screen_translate_x:0 invisible frame
-97, screen_translate_x:0 invisible frame
-98, screen_translate_x:0 invisible frame
-99, screen_translate_x:0 invisible frame
-100, screen_translate_x:0 invisible frame
-101, screen_translate_x:0 invisible frame
-102, screen_translate_x:0 invisible frame
-103, screen_translate_x:0 invisible frame
-104, screen_translate_x:0 invisible frame
-105, screen_translate_x:0 invisible frame
-106, screen_translate_x:0 invisible frame
+31, enemy_healthbar_gone invisible_frame
+32, enemy_healthbar_gone invisible_frame
+33, enemy_healthbar_gone invisible_frame
+34, enemy_healthbar_gone invisible_frame
+35, enemy_healthbar_gone invisible_frame
+36, enemy_healthbar_gone invisible_frame
+37, enemy_healthbar_gone invisible_frame
+38, enemy_healthbar_gone invisible_frame
+39, enemy_healthbar_gone invisible_frame
+40, enemy_healthbar_gone invisible_frame
+41, enemy_healthbar_gone invisible_frame
+42, enemy_healthbar_gone invisible_frame
+43, enemy_healthbar_gone invisible_frame
+44, enemy_healthbar_gone invisible_frame
+45, enemy_healthbar_gone invisible_frame
+46, screen_translate_x:0 invisible_frame
+47, screen_translate_x:0 invisible_frame
+48, screen_translate_x:0 invisible_frame
+49, screen_translate_x:0 invisible_frame
+50, screen_translate_x:0 invisible_frame
+51, screen_translate_x:0 invisible_frame
+52, screen_translate_x:0 invisible_frame
+53, screen_translate_x:0 invisible_frame
+54, screen_translate_x:0 invisible_frame
+55, screen_translate_x:0 invisible_frame
+56, screen_translate_x:0 invisible_frame
+57, screen_translate_x:0 invisible_frame
+58, screen_translate_x:0 invisible_frame
+59, screen_translate_x:0 invisible_frame
+60, screen_translate_x:0 invisible_frame
+61, screen_translate_x:0 invisible_frame
+62, screen_translate_x:0 invisible_frame
+63, screen_translate_x:0 invisible_frame
+64, screen_translate_x:0 invisible_frame
+65, screen_translate_x:0 invisible_frame
+66, screen_translate_x:0 invisible_frame
+67, screen_translate_x:0 invisible_frame
+68, screen_translate_x:0 invisible_frame
+69, screen_translate_x:0 invisible_frame
+70, screen_translate_x:0 invisible_frame
+71, screen_translate_x:0 invisible_frame
+72, screen_translate_x:0 invisible_frame
+73, screen_translate_x:0 invisible_frame
+74, screen_translate_x:0 invisible_frame
+75, screen_translate_x:0 invisible_frame
+76, screen_translate_x:0 invisible_frame
+77, screen_translate_x:0 invisible_frame
+78, screen_translate_x:0 invisible_frame
+79, screen_translate_x:0 invisible_frame
+80, screen_translate_x:0 invisible_frame
+81, screen_translate_x:0 invisible_frame
+82, screen_translate_x:0 invisible_frame
+83, screen_translate_x:0 invisible_frame
+84, screen_translate_x:0 invisible_frame
+85, screen_translate_x:0 invisible_frame
+86, screen_translate_x:0 invisible_frame
+87, screen_translate_x:0 invisible_frame
+88, screen_translate_x:0 invisible_frame
+89, screen_translate_x:0 invisible_frame
+90, screen_translate_x:0 invisible_frame
+91, screen_translate_x:0 invisible_frame
+92, screen_translate_x:0 invisible_frame
+93, screen_translate_x:0 invisible_frame
+94, screen_translate_x:0 invisible_frame
+95, screen_translate_x:0 invisible_frame
+96, screen_translate_x:0 invisible_frame
+97, screen_translate_x:0 invisible_frame
+98, screen_translate_x:0 invisible_frame
+99, screen_translate_x:0 invisible_frame
+100, screen_translate_x:0 invisible_frame
+101, screen_translate_x:0 invisible_frame
+102, screen_translate_x:0 invisible_frame
+103, screen_translate_x:0 invisible_frame
+104, screen_translate_x:0 invisible_frame
+105, screen_translate_x:0 invisible_frame
+106, screen_translate_x:0 invisible_frame

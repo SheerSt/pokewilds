@@ -1,11 +1,11 @@
-1, player_healthbar_gone invisible frame
-2, player_healthbar_gone invisible frame
-3, player_healthbar_gone invisible frame
-4, player_healthbar_gone invisible frame
-5, player_healthbar_gone invisible frame
-6, player_healthbar_gone invisible frame
-7, player_healthbar_gone invisible frame
-8, player_healthbar_gone invisible frame
+1, player_healthbar_gone invisible_frame
+2, player_healthbar_gone invisible_frame
+3, player_healthbar_gone invisible_frame
+4, player_healthbar_gone invisible_frame
+5, player_healthbar_gone invisible_frame
+6, player_healthbar_gone invisible_frame
+7, player_healthbar_gone invisible_frame
+8, player_healthbar_gone invisible_frame
 9, player_healthbar_gone
 10, player_healthbar_gone darken_effect1
 11, player_healthbar_gone darken_effect1
@@ -203,49 +203,49 @@
 203, player_healthbar_gone darken_effect2
 204, player_healthbar_gone darken_effect2
 205, player_healthbar_gone darken_effect2
-206, player_healthbar_gone darken_effect2 invisible frame
-207, player_healthbar_gone darken_effect2 invisible frame
-208, player_healthbar_gone darken_effect2 invisible frame
-209, player_healthbar_gone darken_effect2 invisible frame
-210, player_healthbar_gone darken_effect2 invisible frame
-211, player_healthbar_gone darken_effect2 invisible frame
-212, player_healthbar_gone darken_effect2 invisible frame
-213, player_healthbar_gone darken_effect2 invisible frame
-214, player_healthbar_gone darken_effect2 invisible frame
-215, player_healthbar_gone darken_effect2 invisible frame
-216, player_healthbar_gone darken_effect2 invisible frame
-217, player_healthbar_gone darken_effect2 invisible frame
-218, player_healthbar_gone darken_effect2 invisible frame
-219, player_healthbar_gone darken_effect2 invisible frame
-220, player_healthbar_gone darken_effect2 invisible frame
-221, player_healthbar_gone darken_effect2 invisible frame
-222, player_healthbar_gone darken_effect2 invisible frame
-223, player_healthbar_gone darken_effect2 invisible frame
-224, player_healthbar_gone darken_effect2 invisible frame
-225, player_healthbar_gone darken_effect2 invisible frame
-226, player_healthbar_gone darken_effect2 invisible frame
-227, player_healthbar_gone darken_effect2 invisible frame
-228, player_healthbar_gone darken_effect2 invisible frame
-229, player_healthbar_gone darken_effect2 invisible frame
-230, player_healthbar_gone darken_effect2 invisible frame
-231, player_healthbar_gone darken_effect2 invisible frame
-232, player_healthbar_gone darken_effect2 invisible frame
-233, player_healthbar_gone darken_effect2 invisible frame
-234, player_healthbar_gone darken_effect2 invisible frame
-235, player_healthbar_gone darken_effect2 invisible frame
-236, player_healthbar_gone darken_effect2 invisible frame
-237, player_healthbar_gone darken_effect2 invisible frame
-238, player_healthbar_gone darken_effect2 invisible frame
-239, player_healthbar_gone darken_effect2 invisible frame
-240, player_healthbar_gone darken_effect2 invisible frame
-241, player_healthbar_gone darken_effect2 invisible frame
-242, player_healthbar_gone darken_effect2 invisible frame
-243, player_healthbar_gone darken_effect2 invisible frame
-244, player_healthbar_gone darken_effect2 invisible frame
-245, player_healthbar_gone darken_effect2 invisible frame
-246, player_healthbar_gone darken_effect2 invisible frame
-247, player_healthbar_gone invisible frame
-248, player_healthbar_gone invisible frame
-249, player_healthbar_gone invisible frame
-250, player_healthbar_gone invisible frame
-251, player_healthbar_gone invisible frame
+206, player_healthbar_gone darken_effect2 invisible_frame
+207, player_healthbar_gone darken_effect2 invisible_frame
+208, player_healthbar_gone darken_effect2 invisible_frame
+209, player_healthbar_gone darken_effect2 invisible_frame
+210, player_healthbar_gone darken_effect2 invisible_frame
+211, player_healthbar_gone darken_effect2 invisible_frame
+212, player_healthbar_gone darken_effect2 invisible_frame
+213, player_healthbar_gone darken_effect2 invisible_frame
+214, player_healthbar_gone darken_effect2 invisible_frame
+215, player_healthbar_gone darken_effect2 invisible_frame
+216, player_healthbar_gone darken_effect2 invisible_frame
+217, player_healthbar_gone darken_effect2 invisible_frame
+218, player_healthbar_gone darken_effect2 invisible_frame
+219, player_healthbar_gone darken_effect2 invisible_frame
+220, player_healthbar_gone darken_effect2 invisible_frame
+221, player_healthbar_gone darken_effect2 invisible_frame
+222, player_healthbar_gone darken_effect2 invisible_frame
+223, player_healthbar_gone darken_effect2 invisible_frame
+224, player_healthbar_gone darken_effect2 invisible_frame
+225, player_healthbar_gone darken_effect2 invisible_frame
+226, player_healthbar_gone darken_effect2 invisible_frame
+227, player_healthbar_gone darken_effect2 invisible_frame
+228, player_healthbar_gone darken_effect2 invisible_frame
+229, player_healthbar_gone darken_effect2 invisible_frame
+230, player_healthbar_gone darken_effect2 invisible_frame
+231, player_healthbar_gone darken_effect2 invisible_frame
+232, player_healthbar_gone darken_effect2 invisible_frame
+233, player_healthbar_gone darken_effect2 invisible_frame
+234, player_healthbar_gone darken_effect2 invisible_frame
+235, player_healthbar_gone darken_effect2 invisible_frame
+236, player_healthbar_gone darken_effect2 invisible_frame
+237, player_healthbar_gone darken_effect2 invisible_frame
+238, player_healthbar_gone darken_effect2 invisible_frame
+239, player_healthbar_gone darken_effect2 invisible_frame
+240, player_healthbar_gone darken_effect2 invisible_frame
+241, player_healthbar_gone darken_effect2 invisible_frame
+242, player_healthbar_gone darken_effect2 invisible_frame
+243, player_healthbar_gone darken_effect2 invisible_frame
+244, player_healthbar_gone darken_effect2 invisible_frame
+245, player_healthbar_gone darken_effect2 invisible_frame
+246, player_healthbar_gone darken_effect2 invisible_frame
+247, player_healthbar_gone invisible_frame
+248, player_healthbar_gone invisible_frame
+249, player_healthbar_gone invisible_frame
+250, player_healthbar_gone invisible_frame
+251, player_healthbar_gone invisible_frame

@@ -1,56 +1,56 @@
-1, enemy_healthbar_gone invisible frame
-2, enemy_healthbar_gone invisible frame
-3, enemy_healthbar_gone invisible frame
-4, enemy_healthbar_gone invisible frame
-5, enemy_healthbar_gone invisible frame
-6, screen_translate_y:2 invisible frame
-7, screen_translate_y:2 invisible frame
-8, screen_translate_y:2 invisible frame
-9, screen_translate_y:-2 invisible frame
-10, screen_translate_y:-2 invisible frame
-11, screen_translate_y:-2 invisible frame
-12, screen_translate_y:2 invisible frame
-13, screen_translate_y:2 invisible frame
-14, screen_translate_y:2 invisible frame
-15, screen_translate_y:-2 invisible frame
-16, screen_translate_y:-2 invisible frame
-17, screen_translate_y:-2 invisible frame
-18, screen_translate_y:2 invisible frame
-19, screen_translate_y:2 invisible frame
-20, screen_translate_y:2 invisible frame
-21, screen_translate_y:-2 invisible frame
-22, screen_translate_y:-2 invisible frame
-23, screen_translate_y:-2 invisible frame
-24, screen_translate_y:2 invisible frame
-25, screen_translate_y:2 invisible frame
-26, screen_translate_y:2 invisible frame
-27, screen_translate_y:-2 invisible frame
-28, screen_translate_y:-2 invisible frame
-29, screen_translate_y:-2 invisible frame
-30, screen_translate_y:2 invisible frame
-31, screen_translate_y:2 invisible frame
-32, screen_translate_y:2 invisible frame
-33, screen_translate_y:-2 invisible frame
-34, screen_translate_y:-2 invisible frame
-35, screen_translate_y:-2 invisible frame
-36, screen_translate_y:2 invisible frame
-37, screen_translate_y:2 invisible frame
-38, enemy_healthbar_gone invisible frame
-39, enemy_healthbar_gone invisible frame
-40, enemy_healthbar_gone invisible frame
-41, enemy_healthbar_gone invisible frame
-42, enemy_healthbar_gone invisible frame
-43, enemy_healthbar_gone invisible frame
-44, enemy_healthbar_gone invisible frame
-45, enemy_healthbar_gone invisible frame
-46, enemy_healthbar_gone invisible frame
-47, enemy_healthbar_gone invisible frame
-48, enemy_healthbar_gone invisible frame
-49, enemy_healthbar_gone invisible frame
-50, enemy_healthbar_gone invisible frame
-51, enemy_healthbar_gone invisible frame
-52, enemy_healthbar_gone invisible frame
-53, enemy_healthbar_gone invisible frame
-54, enemy_healthbar_gone invisible frame
-55, enemy_healthbar_gone invisible frame
-56, enemy_healthbar_gone invisible frame
+1, invisible_frame
+2, invisible_frame
+3, invisible_frame
+4, invisible_frame
+5, invisible_frame
+6, screen_translate_y:2 invisible_frame
+7, screen_translate_y:2 invisible_frame
+8, screen_translate_y:2 invisible_frame
+9, screen_translate_y:-2 invisible_frame
+10, screen_translate_y:-2 invisible_frame
+11, screen_translate_y:-2 invisible_frame
+12, screen_translate_y:2 invisible_frame
+13, screen_translate_y:2 invisible_frame
+14, screen_translate_y:2 invisible_frame
+15, screen_translate_y:-2 invisible_frame
+16, screen_translate_y:-2 invisible_frame
+17, screen_translate_y:-2 invisible_frame
+18, screen_translate_y:2 invisible_frame
+19, screen_translate_y:2 invisible_frame
+20, screen_translate_y:2 invisible_frame
+21, screen_translate_y:-2 invisible_frame
+22, screen_translate_y:-2 invisible_frame
+23, screen_translate_y:-2 invisible_frame
+24, screen_translate_y:2 invisible_frame
+25, screen_translate_y:2 invisible_frame
+26, screen_translate_y:2 invisible_frame
+27, screen_translate_y:-2 invisible_frame
+28, screen_translate_y:-2 invisible_frame
+29, screen_translate_y:-2 invisible_frame
+30, screen_translate_y:2 invisible_frame
+31, screen_translate_y:2 invisible_frame
+32, screen_translate_y:2 invisible_frame
+33, screen_translate_y:-2 invisible_frame
+34, screen_translate_y:-2 invisible_frame
+35, screen_translate_y:-2 invisible_frame
+36, screen_translate_y:2 invisible_frame
+37, screen_translate_y:2 invisible_frame
+38, invisible_frame
+39, invisible_frame
+40, invisible_frame
+41, invisible_frame
+42, invisible_frame
+43, invisible_frame
+44, invisible_frame
+45, invisible_frame
+46, invisible_frame
+47, invisible_frame
+48, invisible_frame
+49, invisible_frame
+50, invisible_frame
+51, invisible_frame
+52, invisible_frame
+53, invisible_frame
+54, invisible_frame
+55, invisible_frame
+56, invisible_frame

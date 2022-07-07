@@ -1,9 +1,9 @@
-1, player_healthbar_gone invisible frame
-2, player_healthbar_gone invisible frame
-3, player_healthbar_gone invisible frame
-4, player_healthbar_gone invisible frame
-5, player_healthbar_gone invisible frame
-6, player_healthbar_gone invisible frame
+1, player_healthbar_gone invisible_frame
+2, player_healthbar_gone invisible_frame
+3, player_healthbar_gone invisible_frame
+4, player_healthbar_gone invisible_frame
+5, player_healthbar_gone invisible_frame
+6, player_healthbar_gone invisible_frame
 7, player_healthbar_gone
 8, player_healthbar_gone inverse_colors
 9, player_healthbar_gone confuseray_effect1
@@ -180,27 +180,27 @@
 180, player_healthbar_gone confuseray_effect1
 181, player_healthbar_gone confuseray_effect1
 182, player_healthbar_gone
-183, player_healthbar_gone invisible frame
-184, player_healthbar_gone invisible frame
-185, player_healthbar_gone invisible frame
-186, player_healthbar_gone invisible frame
-187, player_healthbar_gone invisible frame
-188, player_healthbar_gone invisible frame
-189, player_healthbar_gone invisible frame
-190, player_healthbar_gone invisible frame
-191, player_healthbar_gone invisible frame
-192, player_healthbar_gone invisible frame
-193, player_healthbar_gone invisible frame
-194, player_healthbar_gone invisible frame
-195, player_healthbar_gone invisible frame
-196, player_healthbar_gone invisible frame
-197, player_healthbar_gone invisible frame
-198, player_healthbar_gone invisible frame
-199, player_healthbar_gone invisible frame
-200, player_healthbar_gone invisible frame
-201, player_healthbar_gone invisible frame
-202, player_healthbar_gone invisible frame
-203, player_healthbar_gone invisible frame
-204, player_healthbar_gone invisible frame
-205, player_healthbar_gone invisible frame
-206, player_healthbar_gone invisible frame
+183, player_healthbar_gone invisible_frame
+184, player_healthbar_gone invisible_frame
+185, player_healthbar_gone invisible_frame
+186, player_healthbar_gone invisible_frame
+187, invisible_frame
+188, invisible_frame
+189, invisible_frame
+190, invisible_frame
+191, invisible_frame
+192, invisible_frame
+193, invisible_frame
+194, invisible_frame
+195, invisible_frame
+196, invisible_frame
+197, invisible_frame
+198, invisible_frame
+199, invisible_frame
+200, invisible_frame
+201, invisible_frame
+202, invisible_frame
+203, invisible_frame
+204, invisible_frame
+205, invisible_frame
+206, invisible_frame

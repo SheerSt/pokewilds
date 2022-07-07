@@ -1,10 +1,10 @@
-1, enemy_healthbar_gone invisible frame
-2, enemy_healthbar_gone invisible frame
-3, enemy_healthbar_gone invisible frame
-4, enemy_healthbar_gone invisible frame
-5, enemy_healthbar_gone invisible frame
-6, enemy_healthbar_gone invisible frame
-7, enemy_healthbar_gone invisible frame
+1, enemy_healthbar_gone invisible_frame
+2, enemy_healthbar_gone invisible_frame
+3, enemy_healthbar_gone invisible_frame
+4, enemy_healthbar_gone invisible_frame
+5, enemy_healthbar_gone invisible_frame
+6, enemy_healthbar_gone invisible_frame
+7, enemy_healthbar_gone invisible_frame
 8, enemy_healthbar_gone
 9, enemy_healthbar_gone inverse_colors
 10, enemy_healthbar_gone confuseray_effect1
@@ -202,27 +202,27 @@
 202, enemy_healthbar_gone inverse_colors
 203, enemy_healthbar_gone confuseray_effect1
 204, enemy_healthbar_gone confuseray_effect1
-205, enemy_healthbar_gone confuseray_effect1 invisible frame
-206, enemy_healthbar_gone confuseray_effect1 invisible frame
-207, enemy_healthbar_gone invisible frame
-208, enemy_healthbar_gone invisible frame
-209, enemy_healthbar_gone invisible frame
-210, enemy_healthbar_gone invisible frame
-211, enemy_healthbar_gone invisible frame
-212, enemy_healthbar_gone invisible frame
-213, enemy_healthbar_gone invisible frame
-214, enemy_healthbar_gone invisible frame
-215, enemy_healthbar_gone invisible frame
-216, enemy_healthbar_gone invisible frame
-217, enemy_healthbar_gone invisible frame
-218, enemy_healthbar_gone invisible frame
-219, enemy_healthbar_gone invisible frame
-220, enemy_healthbar_gone invisible frame
-221, enemy_healthbar_gone invisible frame
-222, enemy_healthbar_gone invisible frame
-223, enemy_healthbar_gone invisible frame
-224, enemy_healthbar_gone invisible frame
-225, enemy_healthbar_gone invisible frame
-226, enemy_healthbar_gone invisible frame
-227, enemy_healthbar_gone invisible frame
-228, enemy_healthbar_gone invisible frame
+205, enemy_healthbar_gone confuseray_effect1 invisible_frame
+206, enemy_healthbar_gone confuseray_effect1 invisible_frame
+207, enemy_healthbar_gone invisible_frame
+208, invisible_frame
+209, invisible_frame
+210, invisible_frame
+211, invisible_frame
+212, invisible_frame
+213, invisible_frame
+214, invisible_frame
+215, invisible_frame
+216, invisible_frame
+217, invisible_frame
+218, invisible_frame
+219, invisible_frame
+220, invisible_frame
+221, invisible_frame
+222, invisible_frame
+223, invisible_frame
+224, invisible_frame
+225, invisible_frame
+226, invisible_frame
+227, invisible_frame
+228, invisible_frame

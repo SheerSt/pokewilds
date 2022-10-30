@@ -100,18 +100,6 @@ In the future I hope that the game can also support graphics from other generati
    - Night is brighter now.
  - UI's updated to Gen 2 style.
 
-# Contributing
-
-If you are interested in helping with code, please create an issue here saying that you're interested and we can work out the details of what currently needs done. Here are some examples:
- - Battle system mechanics (ex: attack effects that aren't implemented)
- - 'Versioning' system so that the game can check for updates.
- - Finding / fixing bugs (more info on the PokeWilds discord server)
- - General organization and refactors
- - Support for more kinds of game mods (ex: being able to mod biome spawns)
- - Small features and enhancements (ex: being able to using fishing rods while surfing)
-
-Feel free to DM me on the PokeWilds discord server also regarding this, whatever works best for you.
-
 # Credits
 Special thank-you to everyone who has contributed!
 

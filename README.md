@@ -39,7 +39,7 @@ I have been using a set of techniques to 'rip' sprites and animations from the c
 
 **Dex document:** https://bit.ly/3Owvdai
 
-**All v0.8.3 learnsets:** https://bit.ly/3vOxMyb
+**All v0.8 learnsets:** https://bit.ly/3vOxMyb
 
 **Evo methods and stone locations:** https://bit.ly/3PWcVAu
 

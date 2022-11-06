@@ -1,48 +1,154 @@
 # PokeWilds
 
-![PokeWilds](https://github.com/SheerSt/pokemon-wilds-public/blob/main/github1.png)
+![PokeWilds](https://github.com/SheerSt/pokewilds/blob/main/github1.png)
 
-## How to Play
- - **DISCLAIMER:** this is currently in Alpha. Things are getting there, but still not fully complete. I am working hard to find and fix bugs; however, **expect to find bugs.** If you find a bug, please consider creating an issue here on github describing it (that would help me out a ton).
- - Windows - Download pokemon-wilds-windows64 from https://github.com/SheerSt/pokewilds/releases/latest/ and extract files. Open the unzipped directory and run pokemon-wilds.exe.
-   - If the exe is not running, alternatively try running pokemon-wilds.jar in the same directory.
- - Controls: Arrow keys to move, keyboard Z = A button, keyboard X = B button, keyboard Enter = Start button. Hold keyboard X to run.
+**DISCLAIMER:** this is currently in Alpha. Things are getting there, but still not fully complete. I am working hard to find and fix bugs; however, **expect to find bugs.** If you find a bug, please consider creating an issue here on github describing it (that would help me out a ton).
 
-Full list of pokemon, their habitats, harvestable items, field moves, spawn locations and more info can be found here - https://docs.google.com/spreadsheets/d/1b6tkjKaDcFCYxvhWDHQi2B18lhtqgueFNNOP8ZdtTLs
+## Download
 
-# About
+**Windows 64-bit:** https://github.com/SheerSt/pokewilds/releases/latest/download/pokewilds-windows64.zip
+
+**Linux 64-bit:** https://github.com/SheerSt/pokewilds/releases/latest/download/pokewilds-linux64.zip
+
+**Mac, Linux 32-bit, Windows 32-bit:** https://github.com/SheerSt/pokewilds/releases/latest/download/pokewilds-otherplatforms.zip
+
+## How to Run
+
+**Windows 64-bit**
+ - Extract files, open the unzipped directory and run pokewilds.exe.
+**Linux 64-bit**
+ - Extract files, open the unzipped directory and double-click PokeWilds-x64 to run.
+**Windows 32-bit**
+ - **Requires Java to be installed: https://www.oracle.com/java/technologies/downloads/#jdk17-windows**
+ - Double-click on pokewilds.jar to run.
+**Linux 32-bit**
+ - **Requires Java to be installed: https://www.oracle.com/java/technologies/downloads/#jdk17-linux**
+ - Double-click on pokewilds.jar to run.
+**Mac**
+ - **Requires Java to be installed: https://www.oracle.com/java/technologies/downloads/#jdk17-mac**
+ - Single-click on the pokewilds-v084-otherplatforms2 folder, click on Finder on the top bar, then Services, then select New Terminal at Folder. 
+ - Enter `java -jar pokewilds.jar` into the terminal and press enter.
+
+## About
 
 PokeWilds is a Gen 2 game/engine built using libGDX. It uses procedural generation to create large worlds with different biomes, each with their own unique monsters. The levels of wild monsters increase the further you explore, meaning that some biomes with rare mons are difficult to get to. Your monsters can help you explore the world by usual means (cut, fly, surf etc), but there are also be new HMs that allow you to interact with the world in new ways, like building structures/houses, jumping up ledges, starting fires, and more.
 
 I have been using a set of techniques to 'rip' sprites and animations from the console game very accurately - as such, the game is intended to look and feel just like the console games, with some extra capabilities (see core/assets/attacks/). The benefit from using libGDX is that the engine can support cross-platform play, multiplayer, huge maps, and fullscreen mode.
 
-In the future I hope that the game can also support graphics from other generations, as well as a map editor mode that could serve as a platform for custom games.
+## Information and FAQ
 
-## Troubleshooting / Known Issues
+**Dex document:** https://bit.ly/3Owvdai
+
+**All v0.8.3 learnsets:** https://bit.ly/3vOxMyb
+
+**Evo methods and stone locations:** https://bit.ly/3PWcVAu
+
+**Controls:**
+ - Arrow keys to move
+ - Keyboard Z = A button
+ - Keyboard X = B button
+ - Keyboard Enter = Start button
+ - Hold keyboard X to run.
+
+**What's the current version?**
+PokeWilds is currently in version 0.8.3. There's no ETA on the next update, but the game IS being actively worked on.
+
+**Is there multiplayer?**
+Not currently, but 0.9, the next version of the game, will bring online multiplayer to PokeWilds, alongside a plethora of other features.
+
+**Do I need an emulator to play?**
+Nope! The game runs natively on Windows, Mac, and Linux. It's coded with Java and the libGDX framework.
+
+**Can I play PokeWilds on mobile?**
+Not currently, sorry. There's plans for it.
+
+**What are the shiny odds?**
+1 in 256. This will be adjustable by the user in the next update.
+
+**How many legendaries are in the game?**
+There are currently seven legendaries in the game. More get added every update!
+
+**How do I gather resources?**
+You can use the field move CUT, known by most grass types. Using it to cut down trees and grass will give you building resources. Additionally, rock types have SMASH which allows you to destroy boulders and get materials as well.
+
+**How can I build a base?**
+Fighting types know the field move BUILD. After you've gathered resources, you can build walls and a roof to create a house. Inside, you can place furniture by using BUILD as well. A bed is an essential piece of furniture as it allows you to restore your party to full health, including curing status conditions. Building a door between two house tiles will allow you to create side and back doors, too. Show us your builds in wilds-creations!
+
+**How do I make a bed?**
+Collect Silky Thread, from bug types, and Soft Feathers, from flying types, to build a bed.
+
+**How do I build gates to my pens?**
+Building a door between fence tiles will produce a gate instead.
+
+**How do I destroy something I built?**
+Use the CUT field move.
+
+**How do I use TELEPORT?**
+You can't just teleport anywhere! You must first build teleport beacons in the map, and, when using TELEPORT, you can select one of the beacons to be teleported to it.
+
+**How do I make my monster stop using its field move?**
+Stop and hold X.
+
+**Why are my monsters uncomfortable?**
+Monsters require their preferred habitat tile(s) to be happy. Dual-type Monsters require the tiles corresponding to both their types. For instance, Chikorita merely needs tall grass to be happy, due to its pure grass type, while Jumpluff requires both tall grass and trees, as it is a grass/flying type. Monsters will only produce materials when they're happy.
+
+**I read a sign and my text is now glitchy!**
+Whoa, that's not a question. :eyes: Walk into tall grass to get an encounter. It's not a bug!
+
+**World generation is taking over 10 minutes.**
+There is a rare issue where world generation gets stuck - close the game and retry (the game will prompt you to save when you exit).
+
+**Is there a dex?**
+The Pokédex will be added on the next update. We do have a document with all the information regarding Monster habitats, field moves, harvestable items, and more info. The link to this document is at the bottom of this channel.
+
+**How do trade evolutions work?**
+In single player mode, trade evolutions are now stone-based evolutions. Here's a document with these new evolutions, as well as where to find the stone evolutions: https://bit.ly/3PWcVAu
+
+**How to configure settings.txt:**
+ - Do not include spaces around the '='.
+ - Change key mappings using the 'keyboard-' lines. Keys must be capitalized.
+ - muteMusic - set to true to mute all in-game music.
+ - specPhysSplitEnabled - set to true or false to toggle special physical split.
+
+**How to restore a save file from backup:**
+ - If the game stops loading your save file (ie it's corrupted), you can try using the save file's backup with contains your second-to-last save.
+ - The backup save is named <game-name>.sav.backup
+ - Rename <game-name>.sav.backup to <new-game-name>.sav.zip and extract contents
+ - The extracted contents need to be a directory called <new-game-name>.sav/ with game, map0,0 etc files inside
+ - Load the new save file (<new-game-name> in the game's menu)
+
+**How to start the game in dev mode (windows 10):**
+ - Open the folder containing pokewilds.exe
+ - Shift + right-click in the folder and select 'Open powershell window here'
+ - Type cmd in the window and press enter.
+ - Type `pokewilds.exe dev` into the window and press enter.
+
+Adding `angle_gles20` to the command can also fix the following issues:
+ - OpenGL version-related error messages.
+ - Issue where the game doesn't pick up keyboard input.
+
+
+## Troubleshooting
+
  - If world generation takes longer than 5 min, try closing the game and retrying.
  - If your system language isn't English, the game will sometimes fail to generate maps. Please see the following article for changing installing an English language pack, and switching to it: https://support.microsoft.com/en-us/windows/install-a-language-for-windows-ccd853d3-9ecd-7da7-9ef0-72b4a055410a
  - There is an issue where the game won't open if an '!' is included in the path to the game's directory. Move the game outside of the directory containing '!' in the name and reopen the game.
  - The games cli output can help narrow down issues. How to run the game in cli mode (windows 10):
-   - Open the folder containing pokemon-wilds.exe
+   - Open the folder containing pokewilds.exe
    - Shift + right-click in the folder and select 'Open powershell window here'
    - Type 'cmd' in the window and press enter.
-   - type pokemon-wilds.exe into the window and press enter.
+   - type pokewilds.exe into the window and press enter.
    - The game will open. Various info will be periodically written to the powershell window, like which song is playing. Error messages will also display here.
  - Cli output like `Opengl not supported`:
    - Try updating your graphics drivers.
    - Try switching from your dedicated graphics to integrated graphics.
- - If the game stops loading your save file (ie it's corrupted), you can try using the save file's backup with contains your second-to-last save.
-   - The backup save is named `<game-name>.sav.backup`
-   - Rename `<game-name>.sav.backup` to `<new-game-name>.sav.zip` and extract contents
-     - Extracted contents need to be a directory called `<new-game-name>.sav/` with game, map0,0 etc files inside
-   - Load
 
 ## Dev mode instructions and capabilities:
  - Starting the game in dev mode (windows 10):
-   - Open the folder containing pokemon-wilds.exe
+   - Open the folder containing pokewilds.exe
    - Shift + right-click in the folder and select 'Open powershell window here'
    - Type `cmd` in the window and press enter.
-   - type `pokemon-wilds.exe dev` into the window and press enter.
+   - type `pokewilds.exe dev` into the window and press enter.
  - Paint tiles anywhere by clicking on the screen
    - Press ctrl to reduce the brush size and alt to increase the brush size
    - Press C and V to cycle through tiles
@@ -53,52 +159,6 @@ In the future I hope that the game can also support graphics from other generati
  - L key - takes a full-map screenshot and puts it in the game directory (game will freeze for a bit)
  - Use WASD to pan the camera around the map.
  - Use Q and E to zoom the camera in/out.
-
-# v0.8 (Latest) Updates and Changes:
- - Water types can Surf.
- - Surf or Fly to the edge of the map to generate a new World.
-   - The new world will not contain dungeons from previous worlds (regi dungeon, mansion and desert ruins currently)
- - Psychic types know Teleport. Build warp tiles and teleport to them (from the Menu or the Map)
-   - Interact with a warp tile to set label text (visible from the Map or when walking over the tile)
-   - The new world will contain content from the most recent version of the game (even if an old save file is used)
- - Guide menu added (contains game faqs)
- - Gen 3+ monsters now use their gen 8 (or highest available) stats and learnsets. ie no more prism stats or learnsets.
-   - This will inevitably introduce some bugs since it's a big change.
- - You can build signs and gravestones now. Interact to set sign text.
- - Special / Physical split added. Move category displayed in-battle now. Special / Physical split is toggle-able via the settings.txt file.
- - Large trees are now cuttable by fully-evolved grass types.
- - Berry trees - cutting berry trees will yield berry seeds. Berry seeds will grow different types of berry trees depending on the soil they are planted in.
-   - desert -> rawst, beach -> pecha, forest -> persim, snow -> aspear, savanna -> cheri, graveyard -> chesto, <secret> -> lum.
- - Monster storage box added
-   - Monsters can be nicknamed or released while using the storage box.
- - Various sub-biomes added - volcano, tidal, wooded lake, graveyard, savanna.
-   - Each contains unique monsters, buried items and activities.
-   - Spiritomb urn can be found in the graveyard.
-   - Tides go up twice per day and down twice per day.
-   - Animated coastline added to whole island.
-   - There's a lot more here but I'll let people explore and find out :)
- - Various biomes improved or updated - tundra and mountains (various small tweaks elsewhere).
- - Fairy types now drop Stardust, Fighting types drop Binding Band, Ghost types drop Life Force.
- - Tundra and Wooded Lake house variants added.
- - You can build an upstairs to houses. Place new floor in an upstairs using 'Floor' tiles.
-  - A house can contain a number of floors equal to the number of exterior walls it has, extending vertically.
- - You can change bed sheets by building a floor over the bed.
- - New trainer types added (Thank you to everyone who contributed backsprites! they look awesome :)) - more info in the wilds-dex doc.
- - Campfires should cause less lag at night (code optimizations added)
- - Improvements made to a certain legendary battle (WIP).
- - 'Kiln' can be built indoors. Balls can be upgraded at the Kiln (new Balls include quick ball, timer ball, net ball, dive ball, nest ball, dream ball, heal ball. Dusk ball, great ball and ultra ball moved to the Kiln)
- - Many monster overworld sprites updated.
- - Various new monsters added.
- - Additions to battle mechanics - trap damage fixed, recoil damage added, selfdestruct effect added, and various others.
- - Keybinding for keyboards added (settings.txt in the game directory).
- - Mods support added for some things
-   - Monster base stats, learnsets, and egg moves can be modded. normal.pal no longer required for some monsters.
-   - New player types can be added in the mods/ folder.
-   - All music can be modded by mirroring the folder structure from the git repo in the mods/ folder.
-   - All graphics can be modded by mirroring the folder structure from the git repo in the mods/ folder.
- - Various bug fixes and tweaks.
-   - Night is brighter now.
- - UI's updated to Gen 2 style.
 
 # Credits
 Special thank-you to everyone who has contributed!

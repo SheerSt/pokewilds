@@ -51,7 +51,7 @@ I have been using a set of techniques to 'rip' sprites and animations from the c
  - Hold keyboard X to run.
 
 **What's the current version?**
-PokeWilds is currently in version 0.8.3. There's no ETA on the next update, but the game IS being actively worked on.
+PokeWilds is currently in version 0.8. There's no ETA on the next update, but the game IS being actively worked on.
 
 **Is there multiplayer?**
 Not currently, but 0.9, the next version of the game, will bring online multiplayer to PokeWilds, alongside a plethora of other features.

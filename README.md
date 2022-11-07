@@ -16,14 +16,18 @@
 
 **Windows 64-bit**
  - Extract files, open the unzipped directory and run pokewilds.exe.
+ 
 **Linux 64-bit**
  - Extract files, open the unzipped directory and double-click PokeWilds-x64 to run.
+ 
 **Windows 32-bit**
  - **Requires Java to be installed: https://www.oracle.com/java/technologies/downloads/#jdk17-windows**
  - Double-click on pokewilds.jar to run.
+ 
 **Linux 32-bit**
  - **Requires Java to be installed: https://www.oracle.com/java/technologies/downloads/#jdk17-linux**
  - Double-click on pokewilds.jar to run.
+ 
 **Mac**
  - **Requires Java to be installed: https://www.oracle.com/java/technologies/downloads/#jdk17-mac**
  - Single-click on the pokewilds-v084-otherplatforms2 folder, click on Finder on the top bar, then Services, then select New Terminal at Folder. 

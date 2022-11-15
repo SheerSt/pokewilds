@@ -1,0 +1,19 @@
+name: Feature Request
+description: Request a Feature to be added to the game
+title: "[Feature Request]: "
+labels: [ "enhancement" ]
+body:
+  - type: markdown
+    attributes:    
+      value: |
+        Thank you for taking the time to Request a feature!
+        * Please try to request a *single* feature per issue to help make them easier to track.
+        * Please double check that someone else hasn't already requested the same thing.
+        * Please double check the [Future Plans](https://github.com/SheerSt/pokemon-wilds/wiki/Future-Plans-(WIP)) to ensure your idea isn't already planned.
+  - type: textarea
+    id: feature
+    validations:
+      required: true
+    attributes:
+      label: What would you like to request?
+      description: "Give a description of the feature you'd like to see in the game and why."

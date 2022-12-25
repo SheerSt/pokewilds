@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 30 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/cradily/front.dimensions
+	INCBIN "gfx/pokemon/cradily/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_ERRATIC ; growth rate
 	dn EGG_WATER3, EGG_WATER3 ; egg groups

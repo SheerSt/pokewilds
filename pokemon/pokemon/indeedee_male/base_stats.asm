@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 41 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/indeedee/front.dimensions
+	INCBIN "gfx/pokemon/indeedee/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_FAST ; growth rate
 	dn EGG_FAIRY, EGG_FAIRY ; egg groups

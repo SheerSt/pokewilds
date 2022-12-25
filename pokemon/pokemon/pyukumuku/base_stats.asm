@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 16 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/pyukumuku/front.dimensions
+	INCBIN "gfx/pokemon/pyukumuku/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_FAST ; growth rate
 	dn EGG_WATER1, EGG_WATER1 ; egg groups

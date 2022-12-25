@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 41 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/dragapult/front.dimensions
+	INCBIN "gfx/pokemon/dragapult/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_SLOW ; growth rate
 	dn EGG_AMORPHOUS, EGG_DRAGON ; egg groups

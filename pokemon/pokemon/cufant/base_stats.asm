@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 26 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/cufant/front.dimensions
+	INCBIN "gfx/pokemon/cufant/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_FIELD, EGG_MINERAL ; egg groups

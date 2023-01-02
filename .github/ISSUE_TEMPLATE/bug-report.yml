@@ -1,0 +1,45 @@
+name: Bug Report
+description: Report a Bug or Problem
+title: "[Bug]: "
+labels: [ "bug" ]
+body:
+  - type: markdown
+    attributes:    
+      value: |
+        Thank you for taking the time to report your issue!
+        * Please try to report a *single* issue per report to help make them easier to track.
+        * Please double check that someone else hasn't already reported the same issue.
+  - type: input
+    id: gameversion
+    validations:
+      required: true
+    attributes:
+      label: Game Version
+      description: What is your **version number**?
+      placeholder: "Example: v0.8.7"
+  - type: input
+    id: platform
+    validations:
+      required: true
+    attributes:
+      label: Platform
+      description: What is your **Operating System**?
+      placeholder: "Example: Windows 11 64-bit, Ubuntu 12.10, MacOS 13.0, etc"
+  - type: textarea
+    id: problem
+    validations:
+      required: true
+    attributes:
+      label: What happened?
+      description: Describe the thing that lead you here. Was something not working as expected? What were you doing when it happened?
+      placeholder: |
+        Example:
+        I was walking around in the forest at night, and grave yard fog covered my screen when day came. I was in a grave yard before it turned to night last, and was in a battle when day came.
+  - type: textarea
+    id: expectation
+    attributes:
+      label: "What should've happened? (Optional)"
+      description: "Give a brief description about what you believe should've happened in this situation."
+      placeholder: |
+        Example:
+        The grave yard fog is only supposed to appear in the grave yard biome, does not appear in the forest normally.

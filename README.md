@@ -73,7 +73,7 @@ Not currently, sorry. There's plans for it.
 There are currently seven legendaries in the game. More get added every update!
 
 **How do I gather resources?**
-You can use the field move CUT, known by most grass types. Using it to cut down trees and grass will give you building resources. Additionally, rock types have SMASH which allows you to destroy boulders and get materials as well.
+Harvest resources from the environment using CUT, DIG, or SMASH (known by different types of pokemon). Other materials can be gained by capturing pokemon and dropping them in an area they are happy in, and talking to them.
 
 **How can I build a base?**
 Fighting types know the field move BUILD. After you've gathered resources, you can build walls and a roof to create a house. Inside, you can place furniture by using BUILD as well. A bed is an essential piece of furniture as it allows you to restore your party to full health, including curing status conditions. Building a door between two house tiles will allow you to create side and back doors, too. Show us your builds in wilds-creations!

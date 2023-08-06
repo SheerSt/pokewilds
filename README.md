@@ -14,24 +14,15 @@
 
 ## How to Run
 
-**Windows 64-bit**
- - Extract files, open the unzipped directory and run pokewilds.exe.
- 
-**Linux 64-bit**
- - Extract files, open the unzipped directory and double-click PokeWilds-x64 to run.
- 
-**Windows 32-bit**
- - **Requires Java to be installed: https://www.oracle.com/java/technologies/downloads/#jdk17-windows**
- - Double-click on pokewilds.jar to run.
- 
-**Linux 32-bit**
- - **Requires Java to be installed: https://www.oracle.com/java/technologies/downloads/#jdk17-linux**
- - Double-click on pokewilds.jar to run.
- 
-**Mac**
- - **Requires Java to be installed: https://www.oracle.com/java/technologies/downloads/#jdk17-mac**
- - Single-click on the pokewilds-v084-otherplatforms2 folder, click on Finder on the top bar, then Services, then select New Terminal at Folder. 
- - Enter `java -jar pokewilds.jar` into the terminal and press enter.
+Follow the instructions inside the `README.txt` file in the game folder.
+
+## Common issues
+
+1. Running the game through the Windows search results leads to save lost, double click the `pokewilds.exe` file instead.
+2. Black screen at night: use `pokewilds-compat.exe` instead of the normal Pokewilds.
+3. Double clicking `pokewilds.jar` to start the game on MacOS leads to save data loss, follow the `README.txt` instructions to create a launcher you can safely double click.
+4. In the game folder there is a backup of your last save, in zip format, so if your save name is `default.sav`, the file will be `default.sav.zip`. This can be used in case your save is corrupted, to recover the save before the last.
+5. Running the game in a Windows OneDrive folder prevents it from running sometimes, put Pokewilds outside of that to ensure it works.
 
 ## About
 

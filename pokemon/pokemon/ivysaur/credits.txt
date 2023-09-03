@@ -2,4 +2,4 @@ front = EeVeeEe
 back = EeVeeEe
 animation = EeVeeEe
 overworld = Blumiau
-overworldanims = Blumiau
+overworldanims = Blumiau, Galenorla

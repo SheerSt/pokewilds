@@ -1,0 +1,5 @@
+front = Quilchess
+back = 
+animation = Quilchess
+overworld = Megaman Omega
+overworldanims = Galenorla

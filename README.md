@@ -26,7 +26,7 @@ Follow the instructions inside the `README.txt` file in the game folder.
 
 ## About
 
-PokeWilds is a Gen 2 game/engine built using libGDX. It uses procedural generation to create large worlds with different biomes, each with their own unique monsters. The levels of wild monsters increase the further you explore, meaning that some biomes with rare mons are difficult to get to. Your monsters can help you explore the world by usual means (cut, fly, surf etc), but there are also be new HMs that allow you to interact with the world in new ways, like building structures/houses, jumping up ledges, starting fires, and more.
+PokeWilds is a Gen 2 game/engine built using libGDX. It uses procedural generation to create large worlds with different biomes, each with their own unique monsters. The levels of wild monsters increase the further you explore, meaning that some biomes with rare mons are difficult to get to. Your monsters can help you explore the world by usual means (cut, fly, surf etc), but there are also new HMs that allow you to interact with the world in new ways, like building structures/houses, jumping up ledges, starting fires, and more.
 
 I have been using a set of techniques to 'rip' sprites and animations from the console game very accurately - as such, the game is intended to look and feel just like the console games, with some extra capabilities (see core/assets/attacks/). The benefit from using libGDX is that the engine can support cross-platform play, multiplayer, huge maps, and fullscreen mode.
 
@@ -82,7 +82,7 @@ Use the CUT field move.
 You can't just teleport anywhere! You must first build teleport beacons in the map, and, when using TELEPORT, you can select one of the beacons to be teleported to it.
 
 **How do I make my monster stop using its field move?**
-Stop and hold X.
+Stop moving and hold X.
 
 **Why are my monsters uncomfortable?**
 Monsters require their preferred habitat tile(s) to be happy. Dual-type Monsters require the tiles corresponding to both their types. For instance, Chikorita merely needs tall grass to be happy, due to its pure grass type, while Jumpluff requires both tall grass and trees, as it is a grass/flying type. Monsters will only produce materials when they're happy.
@@ -126,7 +126,7 @@ Adding `angle_gles20` to the command can also fix the following issues:
 ## Troubleshooting
 
  - If world generation takes longer than 5 min, try closing the game and retrying.
- - If your system language isn't English, the game will sometimes fail to generate maps. Please see the following article for changing installing an English language pack, and switching to it: https://support.microsoft.com/en-us/windows/install-a-language-for-windows-ccd853d3-9ecd-7da7-9ef0-72b4a055410a
+ - If your system language isn't English, the game will sometimes fail to generate maps. Please see the following article on installing and switching to an English language pack: https://support.microsoft.com/en-us/windows/install-a-language-for-windows-ccd853d3-9ecd-7da7-9ef0-72b4a055410a
  - There is an issue where the game won't open if an '!' is included in the path to the game's directory. Move the game outside of the directory containing '!' in the name and reopen the game.
  - The games cli output can help narrow down issues. How to run the game in cli mode (windows 10):
    - Open the folder containing pokewilds.exe
